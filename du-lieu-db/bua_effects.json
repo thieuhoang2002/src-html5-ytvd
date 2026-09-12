@@ -1,0 +1,150 @@
+{
+  "140601": {
+    "id": 140601,
+    "name": "Sơ-Bùa Bổ Sung",
+    "quality": 2,
+    "descEffect": "Gom Nhặt-Cường Vận +20%",
+    "effects": {
+      "2": 2000
+    }
+  },
+  "140602": {
+    "id": 140602,
+    "name": "Nghịch-Bùa Thần Nông",
+    "quality": 2,
+    "descEffect": "Thần Nông-Nghịch Vận +20%",
+    "effects": {
+      "9": 2000
+    }
+  },
+  "140603": {
+    "id": 140603,
+    "name": "Nghịch-Bùa Cơ Duyên",
+    "quality": 2,
+    "descEffect": "Cơ Duyên-Nghịch Vận +20%",
+    "effects": {
+      "10": 2000
+    }
+  },
+  "140604": {
+    "id": 140604,
+    "name": "Nghịch-Bùa Tiên Duyên",
+    "quality": 2,
+    "descEffect": "Tiên Duyên-Nghịch Vận +20%",
+    "effects": {
+      "11": 2000
+    }
+  },
+  "140605": {
+    "id": 140605,
+    "name": "Nghịch-Bùa Bổ Sung",
+    "quality": 3,
+    "descEffect": "Gom Nhặt-Nghịch Vận +20%",
+    "effects": {
+      "7": 2000
+    }
+  },
+  "140606": {
+    "id": 140606,
+    "name": "Trung-Bùa Thần Nông",
+    "quality": 3,
+    "descEffect": "Thần Nông-Cường Vận +25%",
+    "effects": {
+      "4": 2500
+    }
+  },
+  "140607": {
+    "id": 140607,
+    "name": "Trung-Bùa Cơ Duyên",
+    "quality": 3,
+    "descEffect": "Cơ Duyên-Cường Vận +25%",
+    "effects": {
+      "5": 2500
+    }
+  },
+  "140608": {
+    "id": 140608,
+    "name": "Trung-Bùa Tiên Duyên",
+    "quality": 3,
+    "descEffect": "Tiên Duyên-Cường Vận +25%",
+    "effects": {
+      "6": 2500
+    }
+  },
+  "140609": {
+    "id": 140609,
+    "name": "Trung-Bùa Thăm Dò",
+    "quality": 3,
+    "descEffect": "Thăm Dò-Cường Vận +25%",
+    "effects": {
+      "3": 2500
+    }
+  },
+  "140610": {
+    "id": 140610,
+    "name": "Trung-Bùa Bước Thần",
+    "quality": 3,
+    "descEffect": "Bước Thần +25%",
+    "effects": {
+      "17": 2500
+    }
+  },
+  "140611": {
+    "id": 140611,
+    "name": "Cao-Bùa Bổ Sung",
+    "quality": 4,
+    "descEffect": "Gom Nhặt-Cường Vận +25%",
+    "effects": {
+      "2": 2500
+    }
+  },
+  "140612": {
+    "id": 140612,
+    "name": "Cao-Bùa Vận Thế",
+    "quality": 4,
+    "descEffect": "Vận Thế +25%",
+    "effects": {
+      "1": 2500
+    }
+  },
+  "140613": {
+    "id": 140613,
+    "name": "Cao-Bùa Thăm Dò",
+    "quality": 4,
+    "descEffect": "Vận Thế +10%, Thăm Dò-Cường Vận +20%",
+    "effects": {
+      "1": 1000,
+      "3": 2000
+    }
+  },
+  "140614": {
+    "id": 140614,
+    "name": "Cao-Bùa Tiên Duyên",
+    "quality": 4,
+    "descEffect": "Vận Thế +10%, Tiên Duyên-Cường Vận +20%",
+    "effects": {
+      "1": 1000,
+      "6": 2000
+    }
+  },
+  "140615": {
+    "id": 140615,
+    "name": "Cao-Bùa Cơ Duyên",
+    "quality": 4,
+    "descEffect": "Vận Thế +10%, Cơ Duyên-Cường Vận +20%",
+    "effects": {
+      "1": 1000,
+      "5": 2000
+    }
+  },
+  "140616": {
+    "id": 140616,
+    "name": "Cao-Bùa Thần Nông",
+    "quality": 4,
+    "descEffect": "Vận Thế +10%, Thần Nông-Cường Vận +20%",
+    "effects": {
+      "1": 1000,
+      "4": 2000
+    }
+  }
+}

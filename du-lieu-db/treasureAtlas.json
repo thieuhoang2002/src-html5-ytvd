@@ -1,0 +1,6448 @@
+{
+  "501101": {
+    "id": 501101,
+    "name": "Bạc",
+    "type": 1,
+    "quality": 1,
+    "icon": "treasure/501101.png",
+    "attribute": [
+      [
+        "suck_hp",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      6
+    ],
+    "atlas_id": 1001,
+    "desc": "Khoáng sản có thể tìm thấy khắp nơi ở Sơn Hải Giới, giá trị không cao",
+    "desc_cn": "山海界中随处可见的矿物，无甚价值",
+    "name_cn": "白银",
+    "__trans__": true
+  },
+  "501102": {
+    "id": 501102,
+    "name": "Vàng",
+    "type": 1,
+    "quality": 1,
+    "icon": "treasure/501102.png",
+    "attribute": [
+      [
+        "back_attack",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      6
+    ],
+    "atlas_id": 1001,
+    "desc": "Người phàm sẽ gây chiến vì nó, nhưng các tu sĩ sẽ coi nó như rác rưởi.",
+    "desc_cn": "凡人会因其发动战争，修士却视之如粪土",
+    "name_cn": "黄金",
+    "__trans__": true
+  },
+  "501103": {
+    "id": 501103,
+    "name": "Hỏa Lưu Sa",
+    "type": 1,
+    "quality": 1,
+    "icon": "treasure/501103.png",
+    "attribute": [
+      [
+        "dodge",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      4
+    ],
+    "atlas_id": 1008,
+    "desc": "Dòng cát chảy xuống từ Núi Lưu Sa, do có màu đỏ rực nên được gọi là Hỏa Lưu Sa",
+    "desc_cn": "流沙山上流淌而下的流沙，因其色赤，故名火流沙",
+    "name_cn": "火流沙",
+    "__trans__": true
+  },
+  "501104": {
+    "id": 501104,
+    "name": "Huyền Thiết",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501104.png",
+    "attribute": [
+      [
+        "more_attack",
+        575
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      10
+    ],
+    "atlas_id": 1005,
+    "desc": "Nguyên liệu thường dùng của người mới trong Phường Rèn",
+    "desc_cn": "锻造坊新手锻器常用原料",
+    "name_cn": "玄铁",
+    "__trans__": true
+  },
+  "501105": {
+    "id": 501105,
+    "name": "Thạch Nhũ",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501105.png",
+    "attribute": [
+      [
+        "dizziness",
+        580
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      12
+    ],
+    "atlas_id": 1008,
+    "desc": "Khoáng vật thường thấy trong hang động, có thể dùng làm thuốc",
+    "desc_cn": "常见于洞穴之中的矿物，亦可入药",
+    "name_cn": "石乳",
+    "__trans__": true
+  },
+  "501106": {
+    "id": 501106,
+    "name": "Âm Ngọc",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501106.png",
+    "attribute": [
+      [
+        "back_attack",
+        575
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      12
+    ],
+    "atlas_id": 1008,
+    "desc": "Là loại ngọc đặc biệt trong truyền thuyết, có thể tạm thời chứa được âm hồn của người chết.",
+    "desc_cn": "是一种传说中可以短暂容纳死人阴魂的奇特的玉",
+    "name_cn": "阴玉",
+    "__trans__": true
+  },
+  "501107": {
+    "id": 501107,
+    "name": "Tử Tinh",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501107.png",
+    "attribute": [
+      [
+        "dodge",
+        580
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      12
+    ],
+    "atlas_id": 1015,
+    "desc": "Cái này với thủy tinh có gì khác biệt, \"Nó là màu tím\"",
+    "desc_cn": "“这和水晶有什么区别”，“它是紫色的”",
+    "name_cn": "紫晶",
+    "__trans__": true
+  },
+  "501108": {
+    "id": 501108,
+    "name": "Ác Thổ",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501108.png",
+    "attribute": [
+      [
+        "suck_hp",
+        390
+      ],
+      [
+        "more_attack",
+        390
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1021,
+    "desc": "Người ta thích bôi bùn trắng này lên mũi để chứng tỏ lòng dũng cảm của mình",
+    "desc_cn": "总有人喜欢在鼻子上涂上这种白白的泥土，以此来证明自己的胆子很大",
+    "name_cn": "垩土",
+    "__trans__": true
+  },
+  "501109": {
+    "id": 501109,
+    "name": "Thủy Tinh",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501109.png",
+    "attribute": [
+      [
+        "back_attack",
+        300
+      ],
+      [
+        "crit",
+        560
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      50
+    ],
+    "atlas_id": 1026,
+    "desc": "Có người sẽ không thích những thứ sáng lấp lánh sao?",
+    "desc_cn": "还有人会不喜欢亮晶晶的东西么？",
+    "name_cn": "水晶",
+    "__trans__": true
+  },
+  "501110": {
+    "id": 501110,
+    "name": "Hàn Tinh",
+    "type": 1,
+    "quality": 3,
+    "icon": "treasure/501110.png",
+    "attribute": [
+      [
+        "defense",
+        560
+      ],
+      [
+        "back_attack",
+        575
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      15
+    ],
+    "atlas_id": 1015,
+    "desc": "Đúng như tên gọi, ở những nơi lạnh giá sẽ dễ dàng phát hiện loại khoáng sản này",
+    "desc_cn": "顾名思义，在寒冷的地方更容易发现这种矿物",
+    "name_cn": "寒晶",
+    "__trans__": true
+  },
+  "501111": {
+    "id": 501111,
+    "name": "Xích Kim",
+    "type": 1,
+    "quality": 3,
+    "icon": "treasure/501111.png",
+    "attribute": [
+      [
+        "crit",
+        650
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      18
+    ],
+    "atlas_id": 1001,
+    "desc": "Có khả năng nào nó thực ra là đồng không?",
+    "desc_cn": "有没有一种可能，其实它是铜？",
+    "name_cn": "赤金",
+    "__trans__": true
+  },
+  "501112": {
+    "id": 501112,
+    "name": "Đá Hắc Diệu",
+    "type": 1,
+    "quality": 3,
+    "icon": "treasure/501112.png",
+    "attribute": [
+      [
+        "more_attack",
+        300
+      ],
+      [
+        "dodge",
+        640
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      75
+    ],
+    "atlas_id": 1026,
+    "desc": "Bảo thạch có thể do Địa Long chuyển mình mà ra, còn được gọi là \"Long Tinh\"",
+    "desc_cn": "可能是由地龙翻身碾出来的神秘宝石，又称“龙晶”",
+    "name_cn": "黑曜石",
+    "__trans__": true
+  },
+  "501113": {
+    "id": 501113,
+    "name": "Dương Chỉ Bạch Ngọc",
+    "type": 1,
+    "quality": 3,
+    "icon": "treasure/501113.png",
+    "attribute": [
+      [
+        "suck_hp",
+        300
+      ],
+      [
+        "dizziness",
+        640
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      75
+    ],
+    "atlas_id": 1026,
+    "desc": "Núi Côn Lôn tạo ra rất nhiều loại ngọc này, trang sức tạo nên từ nó rất được yêu thích",
+    "desc_cn": "昆仑山上盛产此玉，由其雕琢而成的饰品广受欢迎",
+    "name_cn": "羊脂白玉",
+    "__trans__": true
+  },
+  "501114": {
+    "id": 501114,
+    "name": "Hàn Thiết Ngàn Năm",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501114.png",
+    "attribute": [
+      [
+        "speed",
+        240
+      ],
+      [
+        "dizziness",
+        700
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      24
+    ],
+    "atlas_id": 1005,
+    "desc": "Hàn khí trời đất hội tụ thành tinh thiết, giống như băng cứng, lạnh thấu xương, cực kỳ cứng rắn",
+    "desc_cn": "天地寒气汇聚于精铁所成，形似坚冰，寒气逼人，坚硬无比",
+    "name_cn": "千年寒铁",
+    "__trans__": true
+  },
+  "501115": {
+    "id": 501115,
+    "name": "Đất Ngũ Sắc",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501115.png",
+    "attribute": [
+      [
+        "crit",
+        400
+      ],
+      [
+        "dizziness",
+        400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      46
+    ],
+    "atlas_id": 1011,
+    "desc": "Vùng đất thần đại diện cho dân chúng xã tắc trong thiên hạ, chuyên được dùng để tế thần",
+    "desc_cn": "代表天下苍生社稷的神土，专用于神祭",
+    "name_cn": "五色土",
+    "__trans__": true
+  },
+  "501116": {
+    "id": 501116,
+    "name": "Côn Lôn Huyết Ngọc",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501116.png",
+    "attribute": [
+      [
+        "suck_hp",
+        400
+      ],
+      [
+        "dodge",
+        400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      43
+    ],
+    "atlas_id": 1012,
+    "desc": "Viên đá thấm đẫm huyết của một đại yêu không biết tên trên núi Côn Lôn, vô cùng tà dị",
+    "desc_cn": "浸润了昆仑山上不知名大妖血液的玉石，邪异非凡",
+    "name_cn": "昆仑血玉",
+    "__trans__": true
+  },
+  "501117": {
+    "id": 501117,
+    "name": "Thương Ngọc",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501117.png",
+    "attribute": [
+      [
+        "suck_hp",
+        460
+      ],
+      [
+        "crit",
+        460
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      54
+    ],
+    "atlas_id": 1021,
+    "desc": "Nghe nói viên đá này từ trên trời rớt xuống nên có màu giống bầu trời",
+    "desc_cn": "据说是从天下掉下来的玉石，所以跟苍天的颜色一样",
+    "name_cn": "苍玉",
+    "__trans__": true
+  },
+  "501118": {
+    "id": 501118,
+    "name": "Thiên Ngoại Vẫn Thiết",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501118.png",
+    "attribute": [
+      [
+        "more_attack",
+        450
+      ],
+      [
+        "crit",
+        450
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1014,
+    "desc": "Cùng theo chúng đến, luôn là tai họa",
+    "desc_cn": "伴随着它们降临的，往往是灾厄",
+    "name_cn": "天外陨铁",
+    "__trans__": true
+  },
+  "501119": {
+    "id": 501119,
+    "name": "Cát Minh Hà",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501119.png",
+    "attribute": [
+      [
+        "dodge",
+        500
+      ],
+      [
+        "dizziness",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      67
+    ],
+    "atlas_id": 1021,
+    "desc": "Cát và đá nhặt từ sông Minh Hà, có tác dụng trấn hồn",
+    "desc_cn": "从冥河中捞起来的砂石，有镇魂之用",
+    "name_cn": "冥河砂",
+    "__trans__": true
+  },
+  "501120": {
+    "id": 501120,
+    "name": "Hắc Kim Long Văn",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501120.png",
+    "attribute": [
+      [
+        "dodge",
+        500
+      ],
+      [
+        "crit",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      200
+    ],
+    "atlas_id": 1024,
+    "desc": "Nguyên liệu thần có thể rèn ra Thần Binh vô thượng, khi rèn có thể nghe rõ tiếng rồng gầm",
+    "desc_cn": "可以锻造出无上神兵的神材，锻造时龙吟之声清晰可闻",
+    "name_cn": "龙纹黑金",
+    "__trans__": true
+  },
+  "501121": {
+    "id": 501121,
+    "name": "Thần Thiết Thất Sắc",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501121.png",
+    "attribute": [
+      [
+        "back_attack",
+        500
+      ],
+      [
+        "more_attack",
+        720
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      288
+    ],
+    "atlas_id": 1035,
+    "desc": "Thần vật chí bảo đầy màu sắc, chỉ ra nguồn gốc tạo hóa",
+    "desc_cn": "色彩斑斓的至宝神物，直指造化之本源",
+    "name_cn": "七彩神铁",
+    "__trans__": true
+  },
+  "501201": {
+    "id": 501201,
+    "name": "Cỏ Ba Lá",
+    "type": 2,
+    "quality": 1,
+    "icon": "treasure/501201.png",
+    "attribute": [
+      [
+        "hp_upper",
+        5600
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      6
+    ],
+    "atlas_id": 1004,
+    "desc": "Xin đừng tùy tiện giẫm lên cỏ ven đường",
+    "desc_cn": "请勿随意践踏路边的小草",
+    "name_cn": "三叶草",
+    "__trans__": true
+  },
+  "501202": {
+    "id": 501202,
+    "name": "Quả Vô Hoa",
+    "type": 2,
+    "quality": 1,
+    "icon": "treasure/501202.png",
+    "attribute": [
+      [
+        "attack",
+        1540
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      5
+    ],
+    "atlas_id": 1004,
+    "desc": "Ai nói không nở hoa thì không có kết quả?",
+    "desc_cn": "谁说不开花就一定不能结果？",
+    "name_cn": "无花果",
+    "__trans__": true
+  },
+  "501203": {
+    "id": 501203,
+    "name": "Hoàn Hồn Thảo",
+    "type": 2,
+    "quality": 2,
+    "icon": "treasure/501203.png",
+    "attribute": [
+      [
+        "hp_upper",
+        4800
+      ],
+      [
+        "defense",
+        420
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      10
+    ],
+    "atlas_id": 1004,
+    "desc": "Ngươi tưởng ta chết rồi, nhưng thực ra ta vẫn còn sống",
+    "desc_cn": "你以为我死了，其实我还活着",
+    "name_cn": "还魂草",
+    "__trans__": true
+  },
+  "501204": {
+    "id": 501204,
+    "name": "Nguyệt Mộng Thảo",
+    "type": 2,
+    "quality": 1,
+    "icon": "treasure/501204.png",
+    "attribute": [
+      [
+        "hp_upper",
+        7950
+      ],
+      [
+        "defense",
+        642
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      25
+    ],
+    "atlas_id": 1028,
+    "desc": "Loại cỏ giúp ta có giấc mơ đẹp, rất dễ gây nghiện",
+    "desc_cn": "能让人做好梦的一种草，非常容易上瘾",
+    "name_cn": "月梦草",
+    "__trans__": true
+  },
+  "501205": {
+    "id": 501205,
+    "name": "Lộ Tuyết Thảo",
+    "type": 2,
+    "quality": 1,
+    "icon": "treasure/501205.png",
+    "attribute": [
+      [
+        "attack",
+        2184
+      ],
+      [
+        "defense",
+        805
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      28
+    ],
+    "atlas_id": 1031,
+    "desc": "Khi tuyết rơi, luôn có thể thấy loại cỏ này quật cường vươn lên",
+    "desc_cn": "下雪的时候，总能看见这种小草倔强地暂露头角",
+    "name_cn": "露雪草",
+    "__trans__": true
+  },
+  "501206": {
+    "id": 501206,
+    "name": "Âm Dương Mộc",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501206.png",
+    "attribute": [
+      [
+        "hp_upper",
+        10350
+      ],
+      [
+        "defense",
+        828
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      54
+    ],
+    "atlas_id": 1016,
+    "desc": "Đạo quyết định vũ trụ, gỗ phân chia âm dương",
+    "desc_cn": "道定乾坤，木分阴阳",
+    "name_cn": "阴阳木",
+    "__trans__": true
+  },
+  "501207": {
+    "id": 501207,
+    "name": "Trúc Tử Lôi",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501207.png",
+    "attribute": [
+      [
+        "attack",
+        1760
+      ],
+      [
+        "defense",
+        560
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      15
+    ],
+    "atlas_id": 1005,
+    "desc": "Một loại trúc mọc gần Lôi Trì, bị sét đánh nghìn năm mới chuyển sang màu tím",
+    "desc_cn": "一种长于雷池附近的竹子，被雷劈千年才会变成紫色",
+    "name_cn": "紫雷竹",
+    "__trans__": true
+  },
+  "501208": {
+    "id": 501208,
+    "name": "Chúc Dư",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501208.png",
+    "attribute": [
+      [
+        "hp_upper",
+        6400
+      ],
+      [
+        "attack",
+        1760
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      18
+    ],
+    "atlas_id": 1009,
+    "desc": "Đói rồi à? Ăn thử ngọn cỏ xem sao!",
+    "desc_cn": "饿了吗？吃棵草试试！",
+    "name_cn": "祝馀",
+    "__trans__": true
+  },
+  "501209": {
+    "id": 501209,
+    "name": "Hỏa Táo",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501209.png",
+    "attribute": [
+      [
+        "attack",
+        1944
+      ],
+      [
+        "defense",
+        644
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      31
+    ],
+    "atlas_id": 1015,
+    "desc": "Quả tiên trong truyền thuyết, ăn vào có thể biến thành lông vũ bay lên",
+    "desc_cn": "传说中的仙果，食之能羽化飞行",
+    "name_cn": "火枣",
+    "__trans__": true
+  },
+  "501210": {
+    "id": 501210,
+    "name": "Ngũ Uẩn Chi",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501210.png",
+    "attribute": [
+      [
+        "hp_upper",
+        7800
+      ],
+      [
+        "attack",
+        1944
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      34
+    ],
+    "atlas_id": 1011,
+    "desc": "Cành Cây chứa đạo vận, không ai biết được ngắt xuống từ Thần Thụ nào",
+    "desc_cn": "蕴含道韵的树枝，无人知晓是从哪棵神树上折下来的",
+    "name_cn": "五蕴枝",
+    "__trans__": true
+  },
+  "501211": {
+    "id": 501211,
+    "name": "Gỗ Phản Hồn",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501211.png",
+    "attribute": [
+      [
+        "hp_upper",
+        7800
+      ],
+      [
+        "defense",
+        644
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      34
+    ],
+    "atlas_id": 1012,
+    "desc": "Hồn quay trở lại,tiêu dao tự tại",
+    "desc_cn": "魂兮归来，自在逍遥",
+    "name_cn": "返魂木",
+    "__trans__": true
+  },
+  "501212": {
+    "id": 501212,
+    "name": "Quả Long Quyết",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501212.png",
+    "attribute": [
+      [
+        "speed",
+        360
+      ],
+      [
+        "attack",
+        2128
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      40
+    ],
+    "atlas_id": 1023,
+    "desc": "Chỉ có tưới bằng long diên mới có thể ra quả",
+    "desc_cn": "只有用龙涎浇灌才能长出的果子",
+    "name_cn": "龙蕨果",
+    "__trans__": true
+  },
+  "501213": {
+    "id": 501213,
+    "name": "Thiên Sơn Tuyết Liên",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501213.png",
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "defense",
+        920
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      84
+    ],
+    "atlas_id": 1031,
+    "desc": "Ăn vào có thể kéo dài tuổi thọ, thậm chí cải tử hoàn sinh",
+    "desc_cn": "食之可延年益寿，甚至起死回生",
+    "name_cn": "天山雪莲",
+    "__trans__": true
+  },
+  "501214": {
+    "id": 501214,
+    "name": "Gỗ Nổi",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501214.png",
+    "attribute": [
+      [
+        "speed",
+        384
+      ],
+      [
+        "defense",
+        920
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      84
+    ],
+    "atlas_id": 1036,
+    "desc": "Ôm được khúc gỗ nổi khi rơi xuống nước, trong cái rủi có cái may",
+    "desc_cn": "落水时抱住一根不沉木——不幸中的万幸",
+    "name_cn": "不沉木",
+    "__trans__": true
+  },
+  "501215": {
+    "id": 501215,
+    "name": "Đế Nữ Tang",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501215.png",
+    "attribute": [
+      [
+        "attack",
+        2394
+      ],
+      [
+        "defense",
+        828
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      54
+    ],
+    "atlas_id": 1023,
+    "desc": "Con gái Xích Đế sống ở đây sau đó thăng thiên, gọi là",
+    "desc_cn": "赤帝之女居此而升天，故名",
+    "name_cn": "帝女桑",
+    "__trans__": true
+  },
+  "501216": {
+    "id": 501216,
+    "name": "Linh Chi Vạn Năm",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501216.png",
+    "attribute": [
+      [
+        "hp_upper",
+        10350
+      ],
+      [
+        "attack",
+        2394
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      54
+    ],
+    "atlas_id": 1023,
+    "desc": "Linh Vật chỉ có thể gặp mà không thể cầu, đã mở linh trí",
+    "desc_cn": "可遇不可求的灵物，已开灵智",
+    "name_cn": "万年灵芝",
+    "__trans__": true
+  },
+  "501217": {
+    "id": 501217,
+    "name": "Chu Quả",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501217.png",
+    "attribute": [
+      [
+        "attack",
+        3580
+      ],
+      [
+        "defense",
+        1380
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 1065,
+    "desc": "Trăm năm nở hoa, trăm năm kết trái, Tiên Nhân cũng thích ăn loại quả này",
+    "desc_cn": "百年开花，百年结果，仙人也爱吃这种果子",
+    "name_cn": "朱果",
+    "__trans__": true
+  },
+  "501218": {
+    "id": 501218,
+    "name": "Hoàng Trung Lý",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501218.png",
+    "attribute": [
+      [
+        "speed",
+        378
+      ],
+      [
+        "hp_upper",
+        11925
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      100
+    ],
+    "atlas_id": 1028,
+    "desc": "Dị quả thần bí, hoa nở ba bóng, kết quả chín bóng, là một trong những linh căn",
+    "desc_cn": "神秘的异果，花开三影，结实则九影，位列灵根之一",
+    "name_cn": "黄中李",
+    "__trans__": true
+  },
+  "501219": {
+    "id": 501219,
+    "name": "Bàn Đào",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501219.png",
+    "attribute": [
+      [
+        "hp_upper",
+        11925
+      ],
+      [
+        "attack",
+        2601
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      100
+    ],
+    "atlas_id": 1029,
+    "desc": "Trái cây Tiên Nhân thường dùng, đề phòng khỉ hoang bên ngoài ăn lén",
+    "desc_cn": "仙人专享的水果，谨防外来的野猴子偷吃",
+    "name_cn": "蟠桃",
+    "__trans__": true
+  },
+  "501220": {
+    "id": 501220,
+    "name": "Gỗ Huyết Long",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501220.png",
+    "attribute": [
+      [
+        "attack",
+        2200
+      ],
+      [
+        "defense",
+        700
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      80
+    ],
+    "atlas_id": 1006,
+    "desc": "Vua của các loại gỗ, màu càng đỏ, phẩm chất càng tốt",
+    "desc_cn": "木中帝王，颜色越红，品相越好",
+    "name_cn": "血龙木",
+    "__trans__": true
+  },
+  "501221": {
+    "id": 501221,
+    "name": "Mạn Châu Sa Hoa",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501221.png",
+    "attribute": [
+      [
+        "speed",
+        240
+      ],
+      [
+        "defense",
+        720
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      30
+    ],
+    "atlas_id": 1009,
+    "desc": "Hoa nở 1 ngàn năm, hoa tàn 1 ngàn năm, hoa lá không bao giờ gặp nhau",
+    "desc_cn": "花开一千年，落一千年，花叶永不相见",
+    "name_cn": "曼珠沙华",
+    "__trans__": true
+  },
+  "501222": {
+    "id": 501222,
+    "name": "Cành Cây Bất Tử",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501222.png",
+    "attribute": [
+      [
+        "speed",
+        480
+      ],
+      [
+        "attack",
+        3350
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      240
+    ],
+    "atlas_id": 1030,
+    "desc": "Cành Cây Thần có thể khiến người sống trường sinh bất tử, người đã mất sẽ hồi sinh tỉnh lại",
+    "desc_cn": "可令生人长生不死，死人复活苏生的神树枝",
+    "name_cn": "不死树枝",
+    "__trans__": true
+  },
+  "501223": {
+    "id": 501223,
+    "name": "Cành Cây Phù Tang",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501223.png",
+    "attribute": [
+      [
+        "speed",
+        600
+      ],
+      [
+        "hp_upper",
+        18500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 1066,
+    "desc": "Cành cây Thần Thụ mọc trong thung lũng, mười ngày tắm",
+    "desc_cn": "长于汤谷中的神树枝桠，十日所浴",
+    "name_cn": "扶桑树枝",
+    "__trans__": true
+  },
+  "501301": {
+    "id": 501301,
+    "name": "Hổ Phách",
+    "type": 3,
+    "quality": 1,
+    "icon": "treasure/501301.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        250
+      ],
+      [
+        "ignore_suck_hp",
+        250
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      7
+    ],
+    "atlas_id": 1003,
+    "desc": "Côn trùng nhỏ tội nghiệp, thật xui xẻo",
+    "desc_cn": "可怜的小虫子，太倒霉了",
+    "name_cn": "琥珀",
+    "__trans__": true
+  },
+  "501302": {
+    "id": 501302,
+    "name": "Trân Châu",
+    "type": 3,
+    "quality": 1,
+    "icon": "treasure/501302.png",
+    "attribute": [
+      [
+        "ignore_more_attack",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      4
+    ],
+    "atlas_id": 1003,
+    "desc": "Thật sao? Ngọc trai còn không thật đến thế!",
+    "desc_cn": "是真的吗？珍珠都没那么真！",
+    "name_cn": "珍珠",
+    "__trans__": true
+  },
+  "501303": {
+    "id": 501303,
+    "name": "Dạ Minh Châu",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501303.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        280
+      ],
+      [
+        "ignore_dizziness",
+        280
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      6,
+      2
+    ],
+    "atlas_id": 1003,
+    "desc": "Nghe nói Mịch Bảo Hội đang thu mua lượng lớn Dạ Minh Châu",
+    "desc_cn": "听说觅宝会正在大量收购夜明珠",
+    "name_cn": "夜明珠",
+    "__trans__": true
+  },
+  "501304": {
+    "id": 501304,
+    "name": "Mạt Kiếp Hỏa",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501304.png",
+    "attribute": [
+      [
+        "ignore_more_attack",
+        580
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      12
+    ],
+    "atlas_id": 1007,
+    "desc": "Lửa Phật có thể đốt trụi mọi tội lỗi",
+    "desc_cn": "连罪业都可以烧毁殆尽的佛火",
+    "name_cn": "末劫火",
+    "__trans__": true
+  },
+  "501305": {
+    "id": 501305,
+    "name": "Linh Thạch Mộc",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501305.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        390
+      ],
+      [
+        "ignore_back_attack",
+        390
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1019,
+    "desc": "Linh Thạch hội tụ Tinh Hoa Mộc của trời đất",
+    "desc_cn": "汇聚了天地间木属精华的灵石",
+    "name_cn": "木灵石",
+    "__trans__": true
+  },
+  "501306": {
+    "id": 501306,
+    "name": "Linh Thạch Hỏa",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501306.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        390
+      ],
+      [
+        "ignore_more_attack",
+        390
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1019,
+    "desc": "Linh Thạch hội tụ Tinh Hoa Hỏa của trời đất",
+    "desc_cn": "汇聚了天地间火属精华的灵石",
+    "name_cn": "火灵石",
+    "__trans__": true
+  },
+  "501307": {
+    "id": 501307,
+    "name": "Linh Thạch Kim",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501307.png",
+    "attribute": [
+      [
+        "ignore_back_attack",
+        390
+      ],
+      [
+        "ignore_more_attack",
+        390
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1019,
+    "desc": "Linh Thạch hội tụ Tinh Hoa Kim của trời đất",
+    "desc_cn": "汇聚了天地间金属精华的灵石",
+    "name_cn": "金灵石",
+    "__trans__": true
+  },
+  "501308": {
+    "id": 501308,
+    "name": "Linh Thạch Thủy",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501308.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        390
+      ],
+      [
+        "ignore_back_attack",
+        390
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1020,
+    "desc": "Linh Thạch hội tụ Tinh Hoa Thủy của trời đất",
+    "desc_cn": "汇聚了天地间水属精华的灵石",
+    "name_cn": "水灵石",
+    "__trans__": true
+  },
+  "501309": {
+    "id": 501309,
+    "name": "Linh Thạch Thổ",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501309.png",
+    "attribute": [
+      [
+        "ignore_back_attack",
+        390
+      ],
+      [
+        "ignore_suck_hp",
+        390
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1020,
+    "desc": "Linh Thạch hội tụ Tinh Hoa Thổ của trời đất",
+    "desc_cn": "汇聚了天地间土属精华的灵石",
+    "name_cn": "土灵石",
+    "__trans__": true
+  },
+  "501310": {
+    "id": 501310,
+    "name": "Ngọc Tủy Địa Tâm",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501310.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        390
+      ],
+      [
+        "ignore_back_attack",
+        390
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1022,
+    "desc": "Vật chất thần kỳ có thể tìm thấy trong Âm Đàm dưới đất, tác dụng hơn cả Linh Dược",
+    "desc_cn": "在地底阴潭中可以找到的神奇物质，作用堪比灵药",
+    "name_cn": "地心玉髓",
+    "__trans__": true
+  },
+  "501311": {
+    "id": 501311,
+    "name": "Cam Lộ",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501311.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        370
+      ],
+      [
+        "ignore_back_attack",
+        440
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      50
+    ],
+    "atlas_id": 1027,
+    "desc": "Trời đất hòa hợp, mưa ngọt rơi xuống",
+    "desc_cn": "天地相合，以降甘露",
+    "name_cn": "甘露",
+    "__trans__": true
+  },
+  "501312": {
+    "id": 501312,
+    "name": "Long Diên Hương",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501312.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        400
+      ],
+      [
+        "ignore_more_attack",
+        440
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      56
+    ],
+    "atlas_id": 1032,
+    "desc": "Rượu ủ từ Quả Long Quyết, uống một ngụm có thể làm say một con trâu",
+    "desc_cn": "用龙蕨果酿成的酒，喝一口就能醉倒一头牛",
+    "name_cn": "龙涎香",
+    "__trans__": true
+  },
+  "501313": {
+    "id": 501313,
+    "name": "Thiên Tằm Ty",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501313.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        400
+      ],
+      [
+        "ignore_back_attack",
+        440
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      56
+    ],
+    "atlas_id": 1036,
+    "desc": "Tơ do Thiên Tằm nhả ra, vừa mềm mại lại vừa bền chắc, là nguyên liệu tuyệt vời để dệt vải",
+    "desc_cn": "天蚕所吐的丝，既柔软又坚韧，纺织的绝佳材料",
+    "name_cn": "天蚕丝",
+    "__trans__": true
+  },
+  "501314": {
+    "id": 501314,
+    "name": "Nguồn Gốc Hỏa Tinh",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501314.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        300
+      ],
+      [
+        "ignore_dizziness",
+        300
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      18
+    ],
+    "atlas_id": 1007,
+    "desc": "Linh vật được sinh ra giữa trời và đất, có nguồn gốc từ lửa",
+    "desc_cn": "诞生于天地间的灵物，火属本源",
+    "name_cn": "火精本源",
+    "__trans__": true
+  },
+  "501315": {
+    "id": 501315,
+    "name": "Đồng Tinh Xích Luyện",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501315.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        330
+      ],
+      [
+        "ignore_back_attack",
+        330
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      32
+    ],
+    "atlas_id": 1010,
+    "desc": "Nguyên liệu rèn phụ yêu thích của thợ rèn, mỗi lần chỉ có thể thêm một chút",
+    "desc_cn": "打铁匠们最爱的辅助锻材，每次只能加一点点",
+    "name_cn": "赤炼铜精",
+    "__trans__": true
+  },
+  "501316": {
+    "id": 501316,
+    "name": "Thái Dương Chi Tinh",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501316.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        330
+      ],
+      [
+        "ignore_suck_hp",
+        330
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      35
+    ],
+    "atlas_id": 1015,
+    "desc": "Nước mắt của Kim Ô, sáng chói ngàn đời",
+    "desc_cn": "日之金乌落下的眼泪，煌煌烨世",
+    "name_cn": "太阳之精",
+    "__trans__": true
+  },
+  "501317": {
+    "id": 501317,
+    "name": "Nguồn Gốc Kim Tinh",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501317.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        330
+      ],
+      [
+        "ignore_more_attack",
+        330
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      37
+    ],
+    "atlas_id": 1010,
+    "desc": "Linh vật được sinh ra giữa trời và đất, có nguồn gốc từ kim loại",
+    "desc_cn": "诞生于天地间的灵物，金属本源",
+    "name_cn": "金精本源",
+    "__trans__": true
+  },
+  "501318": {
+    "id": 501318,
+    "name": "Nguồn Gốc Thổ Tinh",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501318.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        400
+      ],
+      [
+        "ignore_crit",
+        400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      40
+    ],
+    "atlas_id": 1022,
+    "desc": "Linh vật được sinh ra giữa trời và đất, có nguồn gốc từ đất",
+    "desc_cn": "诞生于天地间的灵物，土属本源",
+    "name_cn": "土精本源",
+    "__trans__": true
+  },
+  "501319": {
+    "id": 501319,
+    "name": "Đá Thiên Cương",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501319.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        400
+      ],
+      [
+        "ignore_back_attack",
+        400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      40
+    ],
+    "atlas_id": 1016,
+    "desc": "Dị thạch do cương khí của Thiên Cương Tam Thập Lục ngưng tụ thành",
+    "desc_cn": "三十六天罡之罡气凝聚而成的异石",
+    "name_cn": "天罡石",
+    "__trans__": true
+  },
+  "501320": {
+    "id": 501320,
+    "name": "Đá Địa Sát",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501320.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        420
+      ],
+      [
+        "ignore_suck_hp",
+        420
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      40
+    ],
+    "atlas_id": 1016,
+    "desc": "Dị thạch do sát khí của Thất Thập Nhị Địa Sát ngưng tụ thành",
+    "desc_cn": "七十二地煞之煞气凝聚而成的异石",
+    "name_cn": "地煞石",
+    "__trans__": true
+  },
+  "501321": {
+    "id": 501321,
+    "name": "Nguyệt Quang Lưu Ly",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501321.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        400
+      ],
+      [
+        "ignore_suck_hp",
+        520
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      75
+    ],
+    "atlas_id": 1027,
+    "desc": "Ánh trăng chiếu qua lưu ly, phản chiếu ánh sáng đẹp nhất thế giới",
+    "desc_cn": "月光透过这种琉璃，能折射出世界最美丽的光芒",
+    "name_cn": "月光琉璃",
+    "__trans__": true
+  },
+  "501322": {
+    "id": 501322,
+    "name": "Nguồn Gốc Mộc Tinh",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501322.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        400
+      ],
+      [
+        "ignore_dizziness",
+        520
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      75
+    ],
+    "atlas_id": 1029,
+    "desc": "Linh vật được sinh ra giữa trời và đất, có nguồn gốc từ gỗ",
+    "desc_cn": "诞生于天地间的灵物，木属本源",
+    "name_cn": "木精本源",
+    "__trans__": true
+  },
+  "501323": {
+    "id": 501323,
+    "name": "Nguồn Gốc Thủy Tinh",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501323.png",
+    "attribute": [
+      [
+        "ignore_back_attack",
+        430
+      ],
+      [
+        "ignore_more_attack",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      84
+    ],
+    "atlas_id": 1034,
+    "desc": "Linh vật được sinh ra giữa trời và đất, có nguồn gốc từ nước",
+    "desc_cn": "诞生于天地间的灵物，水属本源",
+    "name_cn": "水精本源",
+    "__trans__": true
+  },
+  "501324": {
+    "id": 501324,
+    "name": "Thái Âm Chi Tinh",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501324.png",
+    "attribute": [
+      [
+        "ignore_more_attack",
+        430
+      ],
+      [
+        "ignore_suck_hp",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      84
+    ],
+    "atlas_id": 1033,
+    "desc": "Tinh linh được hình thành từ sự ngưng tụ của nước thuốc bắn tung tóe khi Thỏ Ngọc giã thuốc",
+    "desc_cn": "玉兔捣药时溅出的药汁凝结而成的精灵",
+    "name_cn": "太阴之精",
+    "__trans__": true
+  },
+  "501325": {
+    "id": 501325,
+    "name": "Huyền Băng Phách",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501325.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        430
+      ],
+      [
+        "ignore_suck_hp",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      84
+    ],
+    "atlas_id": 1033,
+    "desc": "Đá quanh năm không tan, thứ không thể thiếu khi ở nhà và đi du lịch vào mùa hè",
+    "desc_cn": "终年不化的冰块，夏天居家旅行必备之物",
+    "name_cn": "玄冰魄",
+    "__trans__": true
+  },
+  "501326": {
+    "id": 501326,
+    "name": "Cửu U Sát Khí",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501326.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        460
+      ],
+      [
+        "ignore_suck_hp",
+        460
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      54
+    ],
+    "atlas_id": 1022,
+    "desc": "Sát Khí Tử Linh từ dưới Cửu U, là vật đại hung",
+    "desc_cn": "来自九幽之下的死灵煞气，大凶之物",
+    "name_cn": "九幽煞气",
+    "__trans__": true
+  },
+  "501327": {
+    "id": 501327,
+    "name": "Nước Suối Bất Lão",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501327.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        450
+      ],
+      [
+        "ignore_dizziness",
+        590
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      112
+    ],
+    "atlas_id": 1034,
+    "desc": "Chỉ cần một giọt có thể khiến người bất lão bất tử",
+    "desc_cn": "只要一滴，就能让人，不老不死",
+    "name_cn": "不老泉水",
+    "__trans__": true
+  },
+  "501328": {
+    "id": 501328,
+    "name": "Thái Nhất Chân Thủy",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501328.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        450
+      ],
+      [
+        "ignore_dizziness",
+        590
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      112
+    ],
+    "atlas_id": 1034,
+    "desc": "Thái Nhất sinh ra nước, nước lại trợ giúp Thái Nhất, vì thế mà thành trời",
+    "desc_cn": "太一生水，水反辅太一，是以成天",
+    "name_cn": "太一真水",
+    "__trans__": true
+  },
+  "501329": {
+    "id": 501329,
+    "name": "Phần Thiên Tử Hỏa",
+    "type": 3,
+    "quality": 5,
+    "icon": "treasure/501329.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        320
+      ],
+      [
+        "ignore_more_attack",
+        320
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      30
+    ],
+    "atlas_id": 1007,
+    "desc": "Một trong Tứ Đại Thiên Hỏa, tương truyền có uy lực thiêu trời nấu biển",
+    "desc_cn": "四大天火之一，威力无穷，相传有焚天煮海之能",
+    "name_cn": "焚天紫火",
+    "__trans__": true
+  },
+  "501401": {
+    "id": 501401,
+    "name": "Trận Kỳ",
+    "type": 4,
+    "quality": 2,
+    "icon": "treasure/501401.png",
+    "attribute": [
+      [
+        "attack_per",
+        700
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      12
+    ],
+    "atlas_id": 1002,
+    "desc": "Không biết do kẻ liều lĩnh nào đánh rơi trong lúc bày trận",
+    "desc_cn": "不止哪个冒失鬼布阵时遗落的",
+    "name_cn": "阵旗",
+    "__trans__": true
+  },
+  "501402": {
+    "id": 501402,
+    "name": "Trận Bàn",
+    "type": 4,
+    "quality": 3,
+    "icon": "treasure/501402.png",
+    "attribute": [
+      [
+        "attack_per",
+        500
+      ],
+      [
+        "defense_per",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      18
+    ],
+    "atlas_id": 1002,
+    "desc": "Cốt lỗi Trận Pháp còn sót lại, sửa lại chút vẫn có thể dùng?",
+    "desc_cn": "残留的阵法核心，修修还能用？",
+    "name_cn": "阵盘",
+    "__trans__": true
+  },
+  "501403": {
+    "id": 501403,
+    "name": "Đan Tẩy Tủy",
+    "type": 4,
+    "quality": 3,
+    "icon": "treasure/501403.png",
+    "attribute": [
+      [
+        "attack",
+        2128
+      ],
+      [
+        "hp_upper_per",
+        800
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      40
+    ],
+    "atlas_id": 1018,
+    "desc": "Linh đan diệu dược có thể tẩy kinh dịch tủy, chỉ không biết đã hết hạn sử dụng chưa",
+    "desc_cn": "能洗经易髓的灵丹妙药，就是不知道保质期过了没",
+    "name_cn": "洗髓丹",
+    "__trans__": true
+  },
+  "501404": {
+    "id": 501404,
+    "name": "Phượng Linh",
+    "type": 4,
+    "quality": 3,
+    "icon": "treasure/501404.png",
+    "attribute": [
+      [
+        "defense",
+        828
+      ],
+      [
+        "defense_per",
+        880
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      75
+    ],
+    "atlas_id": 1025,
+    "desc": "Lông đuôi Phượng Hoàng, cao quý đến nỗi người ta không nỡ chạm vào",
+    "desc_cn": "凤凰的尾羽，高贵得让人不忍触摸",
+    "name_cn": "凤翎",
+    "__trans__": true
+  },
+  "501405": {
+    "id": 501405,
+    "name": "Di Tu Giới Tử",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/501405.png",
+    "attribute": [
+      [
+        "attack",
+        2394
+      ],
+      [
+        "defense_per",
+        900
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      54
+    ],
+    "atlas_id": 1018,
+    "desc": "Di Vật Tiên Nhân thực sự, bên trong có càn khôn, chứa đựng núi non",
+    "desc_cn": "真正的仙人遗物，内有乾坤，可容山纳海",
+    "name_cn": "弥须芥子",
+    "__trans__": true
+  },
+  "501406": {
+    "id": 501406,
+    "name": "Hóa Thần Đan",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/501406.png",
+    "attribute": [
+      [
+        "defense",
+        828
+      ],
+      [
+        "hp_upper_per",
+        900
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      54
+    ],
+    "atlas_id": 1018,
+    "desc": "Thần Đan có thể giúp tu sĩ đột phá Hóa Thần được ghi chép trong \"Dược Điển\"",
+    "desc_cn": "《药典》中记载的可以帮助修士冲击化神期的神丹",
+    "name_cn": "化神丹",
+    "__trans__": true
+  },
+  "501407": {
+    "id": 501407,
+    "name": "Long Lân",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/501407.png",
+    "attribute": [
+      [
+        "hp_upper",
+        13500
+      ],
+      [
+        "hp_upper_per",
+        960
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      112
+    ],
+    "atlas_id": 1032,
+    "desc": "Chiếc vảy rơi ra từ thân rồng thật, có giá trị sưu tầm rất lớn",
+    "desc_cn": "从真龙身上脱落的鳞片，很有收藏价值",
+    "name_cn": "龙鳞",
+    "__trans__": true
+  },
+  "501408": {
+    "id": 501408,
+    "name": "Xá Lợi Tử",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501408.png",
+    "attribute": [
+      [
+        "hp_upper",
+        9750
+      ],
+      [
+        "attack_per",
+        900
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      56
+    ],
+    "atlas_id": 1013,
+    "desc": "Di vật hình thành từ Công Đức tu hành của Phật Tử sau khi viên tịch",
+    "desc_cn": "佛子圆寂后，其修行功德凝练而成的遗物",
+    "name_cn": "舍利子",
+    "__trans__": true
+  },
+  "501409": {
+    "id": 501409,
+    "name": "Thất Bảo Diệu Thụ",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501409.png",
+    "attribute": [
+      [
+        "hp_upper",
+        9750
+      ],
+      [
+        "defense_per",
+        900
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      54
+    ],
+    "atlas_id": 1013,
+    "desc": "Nghi là vật mô phỏng Chí Bảo Chứng Đạo, nhưng cho dù là hàng nhái cũng rất phi phàm",
+    "desc_cn": "疑似证道至宝的仿制物，但即使是赝品，也神异非凡",
+    "name_cn": "七宝妙树",
+    "__trans__": true
+  },
+  "501410": {
+    "id": 501410,
+    "name": "Định Phong Châu",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501410.png",
+    "attribute": [
+      [
+        "speed",
+        360
+      ],
+      [
+        "attack_per",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      67
+    ],
+    "atlas_id": 1017,
+    "desc": "Pháp Bảo của Tiên gia, có thần lực ngưng gió",
+    "desc_cn": "仙家法宝，拥有止风定风的神力",
+    "name_cn": "定风珠",
+    "__trans__": true
+  },
+  "501411": {
+    "id": 501411,
+    "name": "Tị Thủy Châu",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501411.png",
+    "attribute": [
+      [
+        "defense",
+        920
+      ],
+      [
+        "attack_per",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      200
+    ],
+    "atlas_id": 1017,
+    "desc": "Pháp Bảo của Tiên gia, có thần lực tránh nước",
+    "desc_cn": "仙家法宝，拥有避水的神力",
+    "name_cn": "避水珠",
+    "__trans__": true
+  },
+  "501412": {
+    "id": 501412,
+    "name": "Tị Hỏa Châu",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501412.png",
+    "attribute": [
+      [
+        "attack",
+        2660
+      ],
+      [
+        "attack_per",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      67
+    ],
+    "atlas_id": 1017,
+    "desc": "Pháp Bảo của Tiên gia, có thần lực tránh lửa",
+    "desc_cn": "仙家法宝，拥有辟火的神力",
+    "name_cn": "辟火珠",
+    "__trans__": true
+  },
+  "501413": {
+    "id": 501413,
+    "name": "Long Châu",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501413.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        300
+      ],
+      [
+        "attack_per",
+        800
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      125
+    ],
+    "atlas_id": 1030,
+    "desc": "Bảo Châu lấy từ dưới hàm Ly Long, gần như vô giá",
+    "desc_cn": "取自骊龙颌下的宝珠，价值无可估量",
+    "name_cn": "龙珠",
+    "__trans__": true
+  },
+  "501414": {
+    "id": 501414,
+    "name": "Trứng Rồng Hóa Đá",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501414.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        400
+      ],
+      [
+        "attack_per",
+        800
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      140
+    ],
+    "atlas_id": 1032,
+    "desc": "Cho dù là quả Trứng Rồng đã hóa đá, vẫn có người ảo tưởng sẽ ấp ra Chân Long",
+    "desc_cn": "就算是已经石化了的龙蛋，依然有人幻想能孵出真龙",
+    "name_cn": "石化的龙蛋",
+    "__trans__": true
+  },
+  "501501": {
+    "id": 501501,
+    "name": "Xương Thú",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501501.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      1
+    ],
+    "atlas_id": 0,
+    "desc": "Đây là loài vật gì?",
+    "desc_cn": "这是什么动物的呢？",
+    "name_cn": "兽骨",
+    "__trans__": true
+  },
+  "501502": {
+    "id": 501502,
+    "name": "Hộp rỗng",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501502.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      2
+    ],
+    "atlas_id": 0,
+    "desc": "Dĩ nhiên ở trong đây chả có gì cả rồi",
+    "desc_cn": "里面当然什么都没有",
+    "name_cn": "空匣子",
+    "__trans__": true
+  },
+  "501503": {
+    "id": 501503,
+    "name": "Giày Thêu Hoa",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501503.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      3
+    ],
+    "atlas_id": 0,
+    "desc": "Một chiếc giày thêu lẻ loi, sao chủ nhân lại bỏ rơi ở đây?",
+    "desc_cn": "一只孤单的绣花鞋，它的主人为何将它遗弃在此？",
+    "name_cn": "绣花鞋",
+    "__trans__": true
+  },
+  "501504": {
+    "id": 501504,
+    "name": "Trang khuyết sách cổ",
+    "type": 5,
+    "quality": 2,
+    "icon": "treasure/501504.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      25
+    ],
+    "atlas_id": 0,
+    "desc": "Những dòng chữ mờ nhòe in trên trang sách ố vàng, không ai đọc được",
+    "desc_cn": "模糊的字迹印在泛黄的书页上，无人能识",
+    "name_cn": "古籍残页",
+    "__trans__": true
+  },
+  "501505": {
+    "id": 501505,
+    "name": "Ngọc Bội Thất Lạc",
+    "type": 5,
+    "quality": 2,
+    "icon": "treasure/501505.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      20
+    ],
+    "atlas_id": 0,
+    "desc": "Phía sau Ngọc Bội có thể nhìn thấy một cái tên mờ: Tiểu Thúy",
+    "desc_cn": "玉佩的背面隐隐约约还能看到一个名字：小翠",
+    "name_cn": "遗失的玉佩",
+    "__trans__": true
+  },
+  "501506": {
+    "id": 501506,
+    "name": "Chuyện Lạ Bắc Hoang",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501506.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      1
+    ],
+    "atlas_id": 0,
+    "desc": "Mở ra xem, đều là những bức tranh khó tả, khiến người ta bối rối.",
+    "desc_cn": "翻开一看，全是不可名状的图画，让人摸不着头脑",
+    "name_cn": "北荒志异",
+    "__trans__": true
+  },
+  "501507": {
+    "id": 501507,
+    "name": "Bát vỡ",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501507.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      2
+    ],
+    "atlas_id": 0,
+    "desc": "Có thể chứa cả một bát cơm lớn",
+    "desc_cn": "能装好大一碗饭！",
+    "name_cn": "破碗",
+    "__trans__": true
+  },
+  "501508": {
+    "id": 501508,
+    "name": "Ống Trúc",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501508.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      1
+    ],
+    "atlas_id": 0,
+    "desc": "Nghiên cứu mười tám cách dùng về ống tre",
+    "desc_cn": "《关于竹筒的十八种用法研究》",
+    "name_cn": "竹筒",
+    "__trans__": true
+  },
+  "501509": {
+    "id": 501509,
+    "name": "M. Vải Rách",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501509.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      2
+    ],
+    "atlas_id": 0,
+    "desc": "M. vải rách nát bẩn thỉu, chẳng có giá trị gì",
+    "desc_cn": "脏兮兮的破烂布条，没有什么价值",
+    "name_cn": "破布条",
+    "__trans__": true
+  },
+  "501510": {
+    "id": 501510,
+    "name": "Cành Cây",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501510.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      26
+    ],
+    "atlas_id": 0,
+    "desc": "Có người tuy có thể điều khiển Phi Kiếm, nhưng thực ra chẳng khác gì cành cây",
+    "desc_cn": "有的人虽然可以御使飞剑，但是其实和树枝也没什么区别",
+    "name_cn": "树枝",
+    "__trans__": true
+  },
+  "501511": {
+    "id": 501511,
+    "name": "Ngư Cốt",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501511.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      26
+    ],
+    "atlas_id": 0,
+    "desc": "Trông vẫn rất tươi, không biết mèo có thích không",
+    "desc_cn": "看上去还很新鲜，不知道猫咪喜不喜欢",
+    "name_cn": "鱼骨",
+    "__trans__": true
+  },
+  "501512": {
+    "id": 501512,
+    "name": "Bia Đá",
+    "type": 5,
+    "quality": 2,
+    "icon": "treasure/501512.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      38
+    ],
+    "atlas_id": 0,
+    "desc": "Nặng quá, không nâng lên được",
+    "desc_cn": "太重了，抬也抬不动",
+    "name_cn": "石碑",
+    "__trans__": true
+  },
+  "501513": {
+    "id": 501513,
+    "name": "Mặt Nạ Bạc",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501513.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 1044,
+    "desc": "Vừa mặc vào, khí chất phản diện lập tức bộc lộ",
+    "desc_cn": "一戴上去，反派的气质便立马暴露无遗",
+    "name_cn": "银面具",
+    "__trans__": true
+  },
+  "501514": {
+    "id": 501514,
+    "name": "Áo Choàng",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501514.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      480
+    ],
+    "atlas_id": 1044,
+    "desc": "Áo Choàng mới chín phần, là bộ phối hợp tuyệt vời với Mặt Nạ Bạc",
+    "desc_cn": "九成新的披风，和银面具简直是绝配的套装",
+    "name_cn": "披风",
+    "__trans__": true
+  },
+  "501515": {
+    "id": 501515,
+    "name": "Gậy",
+    "type": 5,
+    "quality": 3,
+    "icon": "treasure/501515.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      240
+    ],
+    "atlas_id": 1044,
+    "desc": "Không hẳn chỉ có người lớn tuổi mới dùng gậy, người trẻ cũng có thể",
+    "desc_cn": "拐杖可不一定都是老人家用的，小伙子也可以",
+    "name_cn": "拐杖",
+    "__trans__": true
+  },
+  "501516": {
+    "id": 501516,
+    "name": "Bùa Chú mất hiệu lực",
+    "type": 5,
+    "quality": 3,
+    "icon": "treasure/501516.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      36
+    ],
+    "atlas_id": 0,
+    "desc": "Nó đã hoàn thành nhiệm vụ của mình, có thể xé bỏ",
+    "desc_cn": "它已经完成了自己的使命，可以被撕掉了",
+    "name_cn": "失效的符咒",
+    "__trans__": true
+  },
+  "501517": {
+    "id": 501517,
+    "name": "Pháp Khí Tàn Khuyết",
+    "type": 5,
+    "quality": 3,
+    "icon": "treasure/501517.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      66
+    ],
+    "atlas_id": 0,
+    "desc": "Đừng tìm cách kích hoạt pháp khí khuyết thiếu, xảy ra chuyện gì thì không ai biết được",
+    "desc_cn": "“不要试图去激发残缺的法器，会发生什么没人知道”",
+    "name_cn": "残缺的法器",
+    "__trans__": true
+  },
+  "501518": {
+    "id": 501518,
+    "name": "Phi Kiếm Đứt Gãy",
+    "type": 5,
+    "quality": 3,
+    "icon": "treasure/501518.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      36
+    ],
+    "atlas_id": 0,
+    "desc": "Di vật cuối cùng của một kẻ đáng thương đã thất bại trong cuộc tranh đấu",
+    "desc_cn": "某个争斗失败的可怜虫最后的遗物",
+    "name_cn": "断裂的飞剑",
+    "__trans__": true
+  },
+  "501519": {
+    "id": 501519,
+    "name": "Giai Thoại Tu Tiên",
+    "type": 5,
+    "quality": 3,
+    "icon": "treasure/501519.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      120
+    ],
+    "atlas_id": 1043,
+    "desc": "Bạn có thể đọc mọi truyền thuyết và câu chuyện liên quan đến tu tiên trong Sơn Hải Giới qua cuốn sách này",
+    "desc_cn": "你能在这本书中读到山海界中一切与修仙相关的传闻轶事",
+    "name_cn": "《修仙轶事》",
+    "__trans__": true
+  },
+  "501520": {
+    "id": 501520,
+    "name": "Ngọc Giản",
+    "type": 5,
+    "quality": 3,
+    "icon": "treasure/501520.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      180
+    ],
+    "atlas_id": 0,
+    "desc": "Lòng hiếu kỳ hại tiên, tuyệt đối đừng đọc thông tin trong Ngọc Giản không rõ nguồn gốc",
+    "desc_cn": "好奇心害死仙，千万不要去读来历不明的玉简中的信息",
+    "name_cn": "玉简",
+    "__trans__": true
+  },
+  "501521": {
+    "id": 501521,
+    "name": "Thiên Thư Không Chữ",
+    "type": 5,
+    "quality": 3,
+    "icon": "treasure/501521.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      50
+    ],
+    "atlas_id": 0,
+    "desc": "Người có duyên mới có thể nhìn thấy chữ trong Thiên Thư, ừm, ngoại trừ người mù",
+    "desc_cn": "有缘人才能看到天书上的字，呃，盲人除外",
+    "name_cn": "无字天书",
+    "__trans__": true
+  },
+  "501522": {
+    "id": 501522,
+    "name": "Bí Tịch Phi Thăng",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501522.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      240
+    ],
+    "atlas_id": 1043,
+    "desc": "Nghe nói ai đọc sách này đều phi thăng, muốn mua một quyển không?",
+    "desc_cn": "听说读过的人都飞升，要不要买不一本？",
+    "name_cn": "《飞升秘笈》",
+    "__trans__": true
+  },
+  "501523": {
+    "id": 501523,
+    "name": "Nam Sơn Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501523.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      480
+    ],
+    "atlas_id": 1037,
+    "desc": "Một trong \"Sơn Kinh\", ghi chép phong cách kỳ lạ và địa lý sông núi của dãy núi Nam Sơn",
+    "desc_cn": "《山经》之一，记载着南山山系的山川地理和风貌志怪",
+    "name_cn": "《南山经》",
+    "__trans__": true
+  },
+  "501524": {
+    "id": 501524,
+    "name": "Tây Sơn Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501524.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 1038,
+    "desc": "Một trong \"Sơn Kinh\", ghi chép phong cách kỳ lạ và địa lý sông núi của dãy núi Tây Sơn",
+    "desc_cn": "《山经》之一，记载着西山山系的山川地理和风貌志怪",
+    "name_cn": "《西山经》",
+    "__trans__": true
+  },
+  "501525": {
+    "id": 501525,
+    "name": "Trung Sơn Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501525.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      388
+    ],
+    "atlas_id": 1039,
+    "desc": "Một trong \"Sơn Kinh\", ghi chép phong cách kỳ lạ và địa lý sông núi của dãy núi Trung Sơn",
+    "desc_cn": "《山经》之一，记载着中山山系的山川地理和风貌志怪",
+    "name_cn": "《中山经》",
+    "__trans__": true
+  },
+  "501526": {
+    "id": 501526,
+    "name": "Hải Ngoại Đông Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501526.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      360
+    ],
+    "atlas_id": 0,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ phương Đông ngoài nước",
+    "desc_cn": "《海经》之一，记载着海外东方的奇人异事",
+    "name_cn": "《海外东经》",
+    "__trans__": true
+  },
+  "501527": {
+    "id": 501527,
+    "name": "Đông Sơn Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501527.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      80
+    ],
+    "atlas_id": 1040,
+    "desc": "Một trong \"Sơn Kinh\", ghi chép phong cách kỳ lạ và địa lý sông núi của dãy núi Đông Sơn",
+    "desc_cn": "《山经》之一，记载着东山山系的山川地理和风貌志怪",
+    "name_cn": "《东山经》",
+    "__trans__": true
+  },
+  "501528": {
+    "id": 501528,
+    "name": "Hải Ngoại Nam Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501528.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 0,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ phương Nam ngoài nước",
+    "desc_cn": "《海经》之一，记载着海外南方的奇人异事",
+    "name_cn": "《海外南经》",
+    "__trans__": true
+  },
+  "501529": {
+    "id": 501529,
+    "name": "Bắc Sơn Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501529.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1041,
+    "desc": "Một trong \"Sơn Kinh\", ghi chép phong cách kỳ lạ và địa lý sông núi của dãy núi Bắc Sơn",
+    "desc_cn": "《山经》之一，记载着北山山系的山川地理和风貌志怪",
+    "name_cn": "《北山经》",
+    "__trans__": true
+  },
+  "501530": {
+    "id": 501530,
+    "name": "Hải Nội Nam Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501530.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      320
+    ],
+    "atlas_id": 1037,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ phương Đông Nam trong nước",
+    "desc_cn": "《海经》之一，记载着海内东南方的奇人异事",
+    "name_cn": "《海内南经》",
+    "__trans__": true
+  },
+  "501531": {
+    "id": 501531,
+    "name": "Đại Hoang Đông Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501531.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      888
+    ],
+    "atlas_id": 1076,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ ngoài Đông Hải",
+    "desc_cn": "《海经》之一，记载着东海之外的奇人异事",
+    "name_cn": "《大荒东经》",
+    "__trans__": true
+  },
+  "501532": {
+    "id": 501532,
+    "name": "Đại Hoang Tây Kinh",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501532.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      6888
+    ],
+    "atlas_id": 1076,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ ngoài Tây Bắc Hải",
+    "desc_cn": "《海经》之一，记载着西北海之外的奇人异事",
+    "name_cn": "《大荒西经》",
+    "__trans__": true
+  },
+  "501533": {
+    "id": 501533,
+    "name": "Đại Hoang Nam Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501533.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      188
+    ],
+    "atlas_id": 1084,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ ngoài Nam Hải",
+    "desc_cn": "《海经》之一，记载着南海之外的奇人异事",
+    "name_cn": "《大荒南经》",
+    "__trans__": true
+  },
+  "501534": {
+    "id": 501534,
+    "name": "Đại Hoang Bắc Kinh",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501534.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      888
+    ],
+    "atlas_id": 1084,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ ngoài Đông Bắc Hải",
+    "desc_cn": "《海经》之一，记载着东北海之外的奇人异事",
+    "name_cn": "《大荒北经》",
+    "__trans__": true
+  },
+  "501535": {
+    "id": 501535,
+    "name": "Hải Ngoại Tây Kinh",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501535.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      1000
+    ],
+    "atlas_id": 0,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ phương Tây ngoài nước",
+    "desc_cn": "《海经》之一，记载着海外西方的奇人异事",
+    "name_cn": "《海外西经》",
+    "__trans__": true
+  },
+  "501536": {
+    "id": 501536,
+    "name": "Hải Ngoại Bắc Kinh",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501536.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      3600
+    ],
+    "atlas_id": 0,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ phương Bắc ngoài nước",
+    "desc_cn": "《海经》之一，记载着海外北方的奇人异事",
+    "name_cn": "《海外北经》",
+    "__trans__": true
+  },
+  "501537": {
+    "id": 501537,
+    "name": "Hải Nội Kinh",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501537.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      6000
+    ],
+    "atlas_id": 1042,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ một số vị trí địa lý trong nước",
+    "desc_cn": "《海经》之一，记载着海内部分地理位置的奇人异事",
+    "name_cn": "《海内经》",
+    "__trans__": true
+  },
+  "501538": {
+    "id": 501538,
+    "name": "Hải Nội Đông Kinh",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501538.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      960
+    ],
+    "atlas_id": 1040,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ góc Đông Bắc trong nước",
+    "desc_cn": "《海经》之一，记载着海内东北角的奇人异事",
+    "name_cn": "《海内东经》",
+    "__trans__": true
+  },
+  "501539": {
+    "id": 501539,
+    "name": "Hải Nội Tây Kinh",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501539.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      70
+    ],
+    "atlas_id": 1038,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ phương Tây Nam trong nước",
+    "desc_cn": "《海经》之一，记载着海内西南方的奇人异事",
+    "name_cn": "《海内西经》",
+    "__trans__": true
+  },
+  "501540": {
+    "id": 501540,
+    "name": "Hải Nội Bắc Kinh",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501540.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      300
+    ],
+    "atlas_id": 1041,
+    "desc": "Một trong \"Hải Kinh\", ghi chép người lạ, chuyện lạ phương Tây Bắc trong nước",
+    "desc_cn": "《海经》之一，记载着海内西北方的奇人异事",
+    "name_cn": "《海内北经》",
+    "__trans__": true
+  },
+  "501601": {
+    "id": 501601,
+    "name": "Vân Mẫu",
+    "type": 1,
+    "quality": 1,
+    "icon": "treasure/501601.png",
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      6
+    ],
+    "atlas_id": 1046,
+    "desc": "Khoáng sản có thể tìm thấy khắp nơi ở Đại Hoang",
+    "desc_cn": "大荒随处可见的矿物",
+    "name_cn": "云母",
+    "__trans__": true
+  },
+  "501602": {
+    "id": 501602,
+    "name": "Xà Văn Tinh",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501602.png",
+    "attribute": [
+      [
+        "crit",
+        590
+      ],
+      [
+        "defense",
+        610
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      13
+    ],
+    "atlas_id": 1046,
+    "desc": "Trong truyền thuyết, loại quặng này dễ tìm thấy ở những nơi xuất hiện hậu duệ của Xà Tộc.",
+    "desc_cn": "传说中蛇族后裔出没的地方容易找到此种矿石",
+    "name_cn": "蛇纹晶",
+    "__trans__": true
+  },
+  "501603": {
+    "id": 501603,
+    "name": "Thạch Mặc",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501603.png",
+    "attribute": [
+      [
+        "more_attack",
+        590
+      ],
+      [
+        "defense",
+        610
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      13
+    ],
+    "atlas_id": 1056,
+    "desc": "Người Đại Hoang gọi đó là \"Cam Thạch\", dùng nó để vẽ tranh",
+    "desc_cn": "大荒人又称之为“汵石”，用之于作画",
+    "name_cn": "石墨",
+    "__trans__": true
+  },
+  "501604": {
+    "id": 501604,
+    "name": "Hùng Hoàng",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501604.png",
+    "attribute": [
+      [
+        "dodge",
+        590
+      ],
+      [
+        "defense",
+        610
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      13
+    ],
+    "atlas_id": 1047,
+    "desc": "Quặng mà hậu duệ Xà Tộc ghét và tránh xa",
+    "desc_cn": "蛇族后裔十分厌恶的矿石，避之不及",
+    "name_cn": "雄黄",
+    "__trans__": true
+  },
+  "501605": {
+    "id": 501605,
+    "name": "Đá Thiên Lam",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501605.png",
+    "attribute": [
+      [
+        "dizziness",
+        590
+      ],
+      [
+        "defense",
+        610
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      13
+    ],
+    "atlas_id": 1056,
+    "desc": "Đá quý xanh lam trong suốt, thích hợp làm đồ trang sức",
+    "desc_cn": "湛蓝剔透的宝石，适合用来打造称饰物",
+    "name_cn": "天蓝石",
+    "__trans__": true
+  },
+  "501606": {
+    "id": 501606,
+    "name": "Đá Khổng Tước",
+    "type": 1,
+    "quality": 3,
+    "icon": "treasure/501606.png",
+    "attribute": [
+      [
+        "suck_hp",
+        590
+      ],
+      [
+        "defense",
+        610
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      20
+    ],
+    "atlas_id": 1056,
+    "desc": "Tượng trưng của sự thanh lịch, các quân tử trong nước vô cùng yêu thích, thường mang theo trên người",
+    "desc_cn": "高雅的象征，君子国人十分喜爱，常佩戴于身上",
+    "name_cn": "孔雀石",
+    "__trans__": true
+  },
+  "501607": {
+    "id": 501607,
+    "name": "Kim Mao Thảo",
+    "type": 2,
+    "quality": 2,
+    "icon": "treasure/501607.png",
+    "attribute": [
+      [
+        "hp_upper",
+        9130
+      ],
+      [
+        "speed",
+        420
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      13
+    ],
+    "atlas_id": 1059,
+    "desc": "Trùng độc tràn lan nơi Đại Hoang, Kim Mao Thảo có công dụng diệt côn trùng và giải độc",
+    "desc_cn": "大荒毒虫肆虐，金毛草有杀虫解毒之效",
+    "name_cn": "金毛草",
+    "__trans__": true
+  },
+  "501608": {
+    "id": 501608,
+    "name": "Cửu Tuệ Hòa",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501608.png",
+    "attribute": [
+      [
+        "attack",
+        2710
+      ],
+      [
+        "hp_upper",
+        11200
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      20
+    ],
+    "atlas_id": 1053,
+    "desc": "Có con chim sẻ đỏ mang Cửu Tuệ Hòa, rơi xuống đất, Đế nhặt lên, gieo xuống ruộng, ai ăn nó sẽ già đi và bất tử",
+    "desc_cn": "有丹雀衔九穗禾，其坠地者，帝乃拾之，以植于田，食者老而不死",
+    "name_cn": "九穗禾",
+    "__trans__": true
+  },
+  "501609": {
+    "id": 501609,
+    "name": "Cành Hoa Đan Quế",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501609.png",
+    "attribute": [
+      [
+        "attack",
+        2352
+      ],
+      [
+        "defense",
+        1026
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1053,
+    "desc": "Nhặt được cành hoa đã là có duyên, sao không dừng chân ngửi thử hương thơm thanh khiết này?",
+    "desc_cn": "拾到花枝即是有缘，何不驻足闻一闻这清幽花香？",
+    "name_cn": "丹桂花枝",
+    "__trans__": true
+  },
+  "501610": {
+    "id": 501610,
+    "name": "Lộc Nhĩ",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501610.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        440
+      ],
+      [
+        "ignore_dodge",
+        440
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      13
+    ],
+    "atlas_id": 1058,
+    "desc": "Tinh khí Linh Lộc, giỏi sinh tinh dưỡng khí, bổ tủy cường gân",
+    "desc_cn": "凝鹿之精气，善于生精益，补髓健骨",
+    "name_cn": "鹿茸",
+    "__trans__": true
+  },
+  "501611": {
+    "id": 501611,
+    "name": "Tinh Hoa Hoàng Hôn",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501611.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        480
+      ],
+      [
+        "ignore_suck_hp",
+        520
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      20
+    ],
+    "atlas_id": 1058,
+    "desc": "Chỉ vào lúc hoàng hôn, Tinh Hoa ngưng tụ thành hình do Dị Thú cắn nuốt khí giao hòa của nhật nguyệt",
+    "desc_cn": "仅在黄昏时分，由异兽吞吐日月交接之气而凝汇而成的精华",
+    "name_cn": "黄昏精华",
+    "__trans__": true
+  },
+  "501612": {
+    "id": 501612,
+    "name": "Nguyệt Hoa",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501612.png",
+    "attribute": [
+      [
+        "ignore_back_attack",
+        750
+      ],
+      [
+        "ignore_dodge",
+        380
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1059,
+    "desc": "Nguyệt Hoa lạnh lẽo, khó hiểu tương tư",
+    "desc_cn": "月华泠泠，难解相思",
+    "name_cn": "月华",
+    "__trans__": true
+  },
+  "501613": {
+    "id": 501613,
+    "name": "Tinh Nguyên Tiên Giới",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501613.png",
+    "attribute": [
+      [
+        "ignore_more_attack",
+        750
+      ],
+      [
+        "ignore_dodge",
+        380
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      27
+    ],
+    "atlas_id": 1059,
+    "desc": "Tinh Hoa Linh Khí của Tiên Giới, thỉnh thoảng sẽ bị Linh Thú Tiên Nhân hạ phàm đưa vào Sơn Hải Giới",
+    "desc_cn": "仙界的灵气精华，偶尔会被下凡的仙人灵兽带入山海界",
+    "name_cn": "仙界精元",
+    "__trans__": true
+  },
+  "501614": {
+    "id": 501614,
+    "name": "Khăn Tay",
+    "type": 4,
+    "quality": 1,
+    "icon": "treasure/501614.png",
+    "attribute": [
+      [
+        "attack",
+        2356
+      ],
+      [
+        "hp_upper_per",
+        300
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      6
+    ],
+    "atlas_id": 1052,
+    "desc": "Chiếc khăn tay mỏng manh, không biết thiếu nữ nào đã để quên ở đây",
+    "desc_cn": "一方精致的手帕，不知被是哪个少女遗落至此",
+    "name_cn": "手帕",
+    "__trans__": true
+  },
+  "501615": {
+    "id": 501615,
+    "name": "Gậy Gỗ Đào",
+    "type": 4,
+    "quality": 2,
+    "icon": "treasure/501615.png",
+    "attribute": [
+      [
+        "speed",
+        632
+      ],
+      [
+        "attack_per",
+        600
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      13
+    ],
+    "atlas_id": 1048,
+    "desc": "Gậy chống làm từ gỗ đào hảo hạng, nhà lão thái quân đã truyền được 5 đời",
+    "desc_cn": "上好桃木制作的拐杖，老太君家里已经传了5代了",
+    "name_cn": "桃木拐杖",
+    "__trans__": true
+  },
+  "501616": {
+    "id": 501616,
+    "name": "Lò Sưởi Tay",
+    "type": 4,
+    "quality": 2,
+    "icon": "treasure/501616.png",
+    "attribute": [
+      [
+        "attack_per",
+        800
+      ],
+      [
+        "defense",
+        1100
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      13
+    ],
+    "atlas_id": 1052,
+    "desc": "Thần Khí Cứu Mạng Ngày Đông",
+    "desc_cn": "冬日里的救命神器",
+    "name_cn": "暖手香炉",
+    "__trans__": true
+  },
+  "501617": {
+    "id": 501617,
+    "name": "Túi Gấm Linh Lan",
+    "type": 4,
+    "quality": 3,
+    "icon": "treasure/501617.png",
+    "attribute": [
+      [
+        "attack_per",
+        900
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      20
+    ],
+    "atlas_id": 1048,
+    "desc": "Nhìn kỹ thuật dùng kim này thì người thợ hẳn là chuyên gia",
+    "desc_cn": "看这针线的技法，缝制者必是行家里手",
+    "name_cn": "铃兰锦囊",
+    "__trans__": true
+  },
+  "501618": {
+    "id": 501618,
+    "name": "Mũ Nam",
+    "type": 4,
+    "quality": 3,
+    "icon": "treasure/501618.png",
+    "attribute": [
+      [
+        "defense_per",
+        910
+      ],
+      [
+        "attack",
+        2500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      20
+    ],
+    "atlas_id": 1057,
+    "desc": "Một chiếc Mũ Nam hoàn hảo, nhìn khá đẹp",
+    "desc_cn": "一顶完好的男子发冠，卖相还不错",
+    "name_cn": "男子发冠",
+    "__trans__": true
+  },
+  "501619": {
+    "id": 501619,
+    "name": "Mã Não",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/501619.png",
+    "attribute": [
+      [
+        "back_attack",
+        310
+      ],
+      [
+        "dizziness",
+        600
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      70
+    ],
+    "atlas_id": 1047,
+    "desc": "Đó là một loại khoáng sản mịn màng sáng bóng, nghe người già nói họ thích chôn Mã Não xuống đất",
+    "desc_cn": "光滑铮亮的矿物，听老人家说他们喜欢把玛瑙埋在地里",
+    "name_cn": "玛瑙",
+    "__trans__": true
+  },
+  "501620": {
+    "id": 501620,
+    "name": "Đá Mắt Mèo",
+    "type": 1,
+    "quality": 3,
+    "icon": "treasure/501620.png",
+    "attribute": [
+      [
+        "dodge",
+        700
+      ],
+      [
+        "more_attack",
+        340
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      92
+    ],
+    "atlas_id": 1046,
+    "desc": "Đừng nhìn nữa, nhìn nữa nó cũng không thể biến thành mèo",
+    "desc_cn": "别看了，再看它也不会变成猫",
+    "name_cn": "猫眼石",
+    "__trans__": true
+  },
+  "501621": {
+    "id": 501621,
+    "name": "Quặng Thạch Lựu",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501621.png",
+    "attribute": [
+      [
+        "suck_hp",
+        370
+      ],
+      [
+        "more_attack",
+        800
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      114
+    ],
+    "atlas_id": 1047,
+    "desc": "Tuy trông rất giống quả lựu, nhưng chắc hương vị không ngon đâu",
+    "desc_cn": "虽然它看起来确实很像石榴，但是味道肯定不怎么好",
+    "name_cn": "石榴矿",
+    "__trans__": true
+  },
+  "501622": {
+    "id": 501622,
+    "name": "Huyền Hoàng Đằng",
+    "type": 2,
+    "quality": 2,
+    "icon": "treasure/501622.png",
+    "attribute": [
+      [
+        "attack",
+        2800
+      ],
+      [
+        "hp_upper",
+        9750
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      70
+    ],
+    "atlas_id": 1055,
+    "desc": "Vật đồng hành của Huyền Hoàng Thủ Ô, rất dẻo dai",
+    "desc_cn": "玄黄首乌的伴生物，韧性很强",
+    "name_cn": "玄黄藤",
+    "__trans__": true
+  },
+  "501623": {
+    "id": 501623,
+    "name": "Nhân Sâm",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501623.png",
+    "attribute": [
+      [
+        "speed",
+        888
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      92
+    ],
+    "atlas_id": 1054,
+    "desc": "Thứ đại bổ, nghe nói Nhân Sâm ngàn năm có thể giúp người ta Khởi Tử Hồi Sinh",
+    "desc_cn": "大补之物，据说千年人参可以使人起死回生",
+    "name_cn": "人参",
+    "__trans__": true
+  },
+  "501624": {
+    "id": 501624,
+    "name": "Yêu Thảo",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501624.png",
+    "attribute": [
+      [
+        "speed",
+        432
+      ],
+      [
+        "defense",
+        1012
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      92
+    ],
+    "atlas_id": 1054,
+    "desc": "Dị Thảo mà loài yêu thích đến gần, trông giống một đoá hoa loa kèn",
+    "desc_cn": "妖类喜欢亲近的异草，看上去像一朵喇叭花",
+    "name_cn": "妖之草",
+    "__trans__": true
+  },
+  "501625": {
+    "id": 501625,
+    "name": "Tiên Thảo",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501625.png",
+    "attribute": [
+      [
+        "attack",
+        2680
+      ],
+      [
+        "defense",
+        1012
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      92
+    ],
+    "atlas_id": 1054,
+    "desc": "Dị Thảo mà Tiên Thú thích đến gần, trông giống một số nấm nhỏ",
+    "desc_cn": "仙兽喜欢亲近的异草，看上去像一些小蘑菇",
+    "name_cn": "仙之草",
+    "__trans__": true
+  },
+  "501626": {
+    "id": 501626,
+    "name": "Dạ Quang Hoa",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501626.png",
+    "attribute": [
+      [
+        "defense",
+        1138
+      ],
+      [
+        "hp_upper",
+        16750
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      142
+    ],
+    "atlas_id": 1055,
+    "desc": "Loài hoa kỳ diệu, có thể phát sáng trong đêm",
+    "desc_cn": "神奇的、可以在夜晚发光的花卉",
+    "name_cn": "夜光花",
+    "__trans__": true
+  },
+  "501627": {
+    "id": 501627,
+    "name": "Sái Kim Mai Hoa",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501627.png",
+    "attribute": [
+      [
+        "attack",
+        2680
+      ],
+      [
+        "hp_upper",
+        13400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      92
+    ],
+    "atlas_id": 1055,
+    "desc": "Hoa mai với màu sắc độc đáo, ai thấy cũng thích",
+    "desc_cn": "花色独特的梅花，人见人爱",
+    "name_cn": "洒金梅花",
+    "__trans__": true
+  },
+  "501628": {
+    "id": 501628,
+    "name": "Nước Long Tuyền",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501628.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        500
+      ],
+      [
+        "ignore_dizziness",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      92
+    ],
+    "atlas_id": 1050,
+    "desc": "Đại Hoang có con suối, tương truyền do nước dãi rồng hóa thành",
+    "desc_cn": "大荒有一泉，传说为龙涎所化",
+    "name_cn": "龙泉水",
+    "__trans__": true
+  },
+  "501629": {
+    "id": 501629,
+    "name": "Mặc Tiên Lộ",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501629.png",
+    "attribute": [
+      [
+        "ignore_more_attack",
+        770
+      ],
+      [
+        "ignore_crit",
+        400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      114
+    ],
+    "atlas_id": 1050,
+    "desc": "Một loại sương hiếm trong Sơn Hải Giới, có hương vị như rượu ngon ủ lâu năm",
+    "desc_cn": "山海界中十分稀有的一种露水，味道像陈年好酒",
+    "name_cn": "墨仙露",
+    "__trans__": true
+  },
+  "501630": {
+    "id": 501630,
+    "name": "Phượng Thải Châu",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501630.png",
+    "attribute": [
+      [
+        "ignore_back_attack",
+        400
+      ],
+      [
+        "ignore_suck_hp",
+        770
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      114
+    ],
+    "atlas_id": 1050,
+    "desc": "Hạt châu màu sắc đẹp đẽ, đồn rằng được hóa từ nước mắt của phượng hoàng",
+    "desc_cn": "漂亮的彩色珠子，有传言是凤凰的眼泪所化",
+    "name_cn": "凤彩珠",
+    "__trans__": true
+  },
+  "501631": {
+    "id": 501631,
+    "name": "Dây Buộc Trán",
+    "type": 4,
+    "quality": 2,
+    "icon": "treasure/501631.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        310
+      ],
+      [
+        "defense_per",
+        600
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      70
+    ],
+    "atlas_id": 1057,
+    "desc": "Đeo nó lên, khí chất của bạn sẽ thay đổi",
+    "desc_cn": "戴上它，你的气质就会为之一变",
+    "name_cn": "抹额",
+    "__trans__": true
+  },
+  "501632": {
+    "id": 501632,
+    "name": "Khăn Quàng",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/501632.png",
+    "attribute": [
+      [
+        "defense_per",
+        970
+      ],
+      [
+        "hp_upper",
+        15075
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      114
+    ],
+    "atlas_id": 1051,
+    "desc": "Thần nữ choàng khăn, dáng vẻ uyển chuyển",
+    "desc_cn": "神女披帛，仪态万千",
+    "name_cn": "披帛",
+    "__trans__": true
+  },
+  "501633": {
+    "id": 501633,
+    "name": "Bảo Châu Sao",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501633.png",
+    "attribute": [
+      [
+        "attack_per",
+        750
+      ],
+      [
+        "defense_per",
+        550
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      142
+    ],
+    "atlas_id": 1048,
+    "desc": "Bảo Châu cô đọng từ việc hội tụ Lực Bụi Sao, có thể thấy rõ dáng vẻ của Bản Đồ Sao",
+    "desc_cn": "汇聚星尘之力凝练而成的宝珠，星图的模样清晰可见",
+    "name_cn": "星辰宝珠",
+    "__trans__": true
+  },
+  "501634": {
+    "id": 501634,
+    "name": "Lệnh Bài Thần Hỏa",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/501634.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        970
+      ],
+      [
+        "defense",
+        1138
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      114
+    ],
+    "atlas_id": 1051,
+    "desc": "Tượng trưng uy nghiêm Hỏa Thần, giữ nó như thể Thần đích thân giáng lâm",
+    "desc_cn": "火神威严的象征，持之如神亲临",
+    "name_cn": "神火令牌",
+    "__trans__": true
+  },
+  "501635": {
+    "id": 501635,
+    "name": "Vòng Tay Huyền Nữ",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/501635.png",
+    "attribute": [
+      [
+        "attack_per",
+        970
+      ],
+      [
+        "speed",
+        486
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      114
+    ],
+    "atlas_id": 1051,
+    "desc": "Vòng Tay của Cửu Thiên Huyền Nữ, không hổ là vật của Tiên Nhân, vô cùng tinh xảo",
+    "desc_cn": "九天玄女的手镯，不愧是仙人器物，精致非凡",
+    "name_cn": "玄女手镯",
+    "__trans__": true
+  },
+  "501636": {
+    "id": 501636,
+    "name": "Hộp Báu Ngọc Linh",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501636.png",
+    "attribute": [
+      [
+        "attack_per",
+        1160
+      ],
+      [
+        "attack",
+        3580
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      300
+    ],
+    "atlas_id": 1049,
+    "desc": "Không ai biết rương báu chứa gì, nhưng lại khiến vô số cường giả tranh giành",
+    "desc_cn": "谁也不知道宝匣内装着什么，但是却能引起无数强者的抢夺",
+    "name_cn": "玉灵宝匣",
+    "__trans__": true
+  },
+  "501637": {
+    "id": 501637,
+    "name": "Xẻng Xúc Hổ",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501637.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      188
+    ],
+    "atlas_id": 1045,
+    "desc": "Vật Trông Nhà Đạo Sĩ Tìm Bảo",
+    "desc_cn": "寻宝道士的看家物什",
+    "name_cn": "铩虎铲",
+    "__trans__": true
+  },
+  "501638": {
+    "id": 501638,
+    "name": "Nón Tre",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501638.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      888
+    ],
+    "atlas_id": 1045,
+    "desc": "TB Khí Chất Đạo Sĩ Tìm Bảo",
+    "desc_cn": "寻宝道士的气质型装备",
+    "name_cn": "斗笠",
+    "__trans__": true
+  },
+  "501639": {
+    "id": 501639,
+    "name": "Tàng Bảo Đồ",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501639.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      6888
+    ],
+    "atlas_id": 1045,
+    "desc": "Tranh vẽ đẹp đấy, có tìm được bảo vật hay không thì phải xem ý trời",
+    "desc_cn": "图是画得挺好看的，能不能靠它寻到宝物，就看天意了",
+    "name_cn": "藏宝图",
+    "__trans__": true
+  },
+  "501640": {
+    "id": 501640,
+    "name": "Huyễn Thải Nghê Hoa",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501640.png",
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "suck_hp",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Tinh thạch kỳ dị, cho thấy màu sắc khác nhau trong tay mỗi người",
+    "desc_cn": "神异的晶石，在不同的人手中会呈现出不同的颜色",
+    "name_cn": "幻彩霓华",
+    "__trans__": true
+  },
+  "501641": {
+    "id": 501641,
+    "name": "Huyễn Thải Nghê Hoa",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501641.png",
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "back_attack",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Tinh thạch kỳ dị, cho thấy màu sắc khác nhau trong tay mỗi người",
+    "desc_cn": "神异的晶石，在不同的人手中会呈现出不同的颜色",
+    "name_cn": "幻彩霓华",
+    "__trans__": true
+  },
+  "501642": {
+    "id": 501642,
+    "name": "Huyễn Thải Nghê Hoa",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501642.png",
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "more_attack",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Tinh thạch kỳ dị, cho thấy màu sắc khác nhau trong tay mỗi người",
+    "desc_cn": "神异的晶石，在不同的人手中会呈现出不同的颜色",
+    "name_cn": "幻彩霓华",
+    "__trans__": true
+  },
+  "501643": {
+    "id": 501643,
+    "name": "Huyễn Thải Nghê Hoa",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501643.png",
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "dodge",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Tinh thạch kỳ dị, cho thấy màu sắc khác nhau trong tay mỗi người",
+    "desc_cn": "神异的晶石，在不同的人手中会呈现出不同的颜色",
+    "name_cn": "幻彩霓华",
+    "__trans__": true
+  },
+  "501644": {
+    "id": 501644,
+    "name": "Huyễn Thải Nghê Hoa",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501644.png",
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "crit",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Tinh thạch kỳ dị, cho thấy màu sắc khác nhau trong tay mỗi người",
+    "desc_cn": "神异的晶石，在不同的人手中会呈现出不同的颜色",
+    "name_cn": "幻彩霓华",
+    "__trans__": true
+  },
+  "501645": {
+    "id": 501645,
+    "name": "Huyễn Thải Nghê Hoa",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501645.png",
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "dizziness",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Tinh thạch kỳ dị, cho thấy màu sắc khác nhau trong tay mỗi người",
+    "desc_cn": "神异的晶石，在不同的人手中会呈现出不同的颜色",
+    "name_cn": "幻彩霓华",
+    "__trans__": true
+  },
+  "501646": {
+    "id": 501646,
+    "name": "Thần Mộc Dung",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501646.png",
+    "attribute": [
+      [
+        "attack",
+        3500
+      ],
+      [
+        "bullying",
+        450
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Dung Mộc ngàn năm, được gọi là Thần Mộc",
+    "desc_cn": "千年以上的榕木，可称神木",
+    "name_cn": "神木榕",
+    "__trans__": true
+  },
+  "501647": {
+    "id": 501647,
+    "name": "Tiên Tử Bộ Dao",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501647.png",
+    "attribute": [
+      [
+        "speed_per",
+        600
+      ],
+      [
+        "attack_per",
+        600
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Là bộ trâm mà các tiên nữ Dao Trì thường dùng, không biết bị tên to gan nào đánh cắp",
+    "desc_cn": "是瑶池仙女们惯用的步摇，不知道被哪个胆大包天的家伙偷了出来",
+    "name_cn": "仙子步摇",
+    "__trans__": true
+  },
+  "501701": {
+    "id": 501701,
+    "name": "Nguyệt Ảnh Thạch",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501701.png",
+    "attribute": [
+      [
+        "dodge",
+        1220
+      ],
+      [
+        "speed",
+        500
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      122
+    ],
+    "atlas_id": 1063,
+    "desc": "Trăng soi lên đá phản chiếu bóng ngược",
+    "desc_cn": "月亮在石头上照映出了倒影",
+    "name_cn": "月影石",
+    "__trans__": true
+  },
+  "501702": {
+    "id": 501702,
+    "name": "Đá Thấu Huy",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501702.png",
+    "attribute": [
+      [
+        "suck_hp",
+        1220
+      ],
+      [
+        "attack",
+        1587
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      122
+    ],
+    "atlas_id": 1063,
+    "desc": "Quặng hiếm, nghe nói từng được vài thần tượng dùng để rèn thần khí",
+    "desc_cn": "少见的矿石，据说曾被某些神匠用作神器锻造的材料",
+    "name_cn": "透辉石",
+    "__trans__": true
+  },
+  "501703": {
+    "id": 501703,
+    "name": "Đá Quý Thiên Khung",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501703.png",
+    "attribute": [
+      [
+        "crit",
+        960
+      ],
+      [
+        "suppress",
+        300
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      302
+    ],
+    "atlas_id": 1064,
+    "desc": "Bảo thạch rơi từ trên trời xuống, nghe nói là một góc của Đá Vá Trời",
+    "desc_cn": "从天上掉落下来的宝石，据说是补天石的一角",
+    "name_cn": "天穹宝石",
+    "__trans__": true
+  },
+  "501704": {
+    "id": 501704,
+    "name": "Tử Điệp Lan",
+    "type": 2,
+    "quality": 2,
+    "icon": "treasure/501704.png",
+    "attribute": [
+      [
+        "hp_upper",
+        12950
+      ],
+      [
+        "attack",
+        2506
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      80
+    ],
+    "atlas_id": 1060,
+    "desc": "Nhụy hoa tỏa ra hương thơm thoang thoảng, các cô gái thích hái hoa lan hồ điệp tím làm hoa tai",
+    "desc_cn": "花蕊散发着淡淡的清香，小女孩最喜欢摘紫蝶兰花作耳饰了",
+    "name_cn": "紫蝶兰",
+    "__trans__": true
+  },
+  "501705": {
+    "id": 501705,
+    "name": "Dây Leo Linh Lan",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501705.png",
+    "attribute": [
+      [
+        "attack",
+        2864
+      ],
+      [
+        "speed",
+        480
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      100
+    ],
+    "atlas_id": 1060,
+    "desc": "Chuông lan trên dây leo đung đưa theo gió, hương hoa thoang thoảng dễ chịu",
+    "desc_cn": "藤曼坠着的铃兰随风摇晃，花香怡人",
+    "name_cn": "铃兰藤",
+    "__trans__": true
+  },
+  "501706": {
+    "id": 501706,
+    "name": "Khắc Gỗ Thái Cổ",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501706.png",
+    "attribute": [
+      [
+        "ignore_suck_hp",
+        730
+      ],
+      [
+        "ignore_more_attack",
+        360
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      100
+    ],
+    "atlas_id": 1060,
+    "desc": "Khắc Gỗ cực lớn đã rỗng do bị thời gian bào mòn",
+    "desc_cn": "巨大的根雕在岁月的侵蚀下已经蛀空了",
+    "name_cn": "太古根雕",
+    "__trans__": true
+  },
+  "501707": {
+    "id": 501707,
+    "name": "Tinh Hoa Thần Hy",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501707.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        630
+      ],
+      [
+        "ignore_crit",
+        460
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      100
+    ],
+    "atlas_id": 1061,
+    "desc": "Chỉ vào lúc ban mai, Tinh Hoa ngưng tụ thành hình do Dị Thú cắn nuốt khí giao hòa của nhật nguyệt",
+    "desc_cn": "仅在晨曦时分，由异兽吞吐日月交接之气而凝汇而成的精华",
+    "name_cn": "晨曦精华",
+    "__trans__": true
+  },
+  "501708": {
+    "id": 501708,
+    "name": "Lâm Lang Bảo Diệp",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501708.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        500
+      ],
+      [
+        "ignore_back_attack",
+        720
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      122
+    ],
+    "atlas_id": 1061,
+    "desc": "Theo truyền thuyết, đó là chiếc lá ngàn năm không rụng trên thần thụ, sờ vào có cảm giác như ngọc",
+    "desc_cn": "传说是神树上千年不落的叶子，摸起来是玉的质感",
+    "name_cn": "琳琅宝叶",
+    "__trans__": true
+  },
+  "501709": {
+    "id": 501709,
+    "name": "Vỏ Sò Tinh Hải",
+    "type": 3,
+    "quality": 5,
+    "icon": "treasure/501709.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        500
+      ],
+      [
+        "ignore_suck_hp",
+        860
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      145
+    ],
+    "atlas_id": 1062,
+    "desc": "Vỏ sò nằm rải rác bên Ngân Hà Tiên Giới, người may mắn có thể tìm thấy Trân Châu trong đó",
+    "desc_cn": "仙界银河边散落的贝壳，幸运儿可能从中找到珍珠哦",
+    "name_cn": "星海贝壳",
+    "__trans__": true
+  },
+  "501710": {
+    "id": 501710,
+    "name": "Lục Mang Băng Trụy",
+    "type": 3,
+    "quality": 5,
+    "icon": "treasure/501710.png",
+    "attribute": [
+      [
+        "ignore_back_attack",
+        700
+      ],
+      [
+        "ignore_more_attack",
+        700
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      145
+    ],
+    "atlas_id": 1061,
+    "desc": "Băng Chuỳ sáu cạnh ngưng tụ ở Vùng Đại Hoang Chí Hàn, hàn khí mạnh mẽ",
+    "desc_cn": "在大荒至寒之地凝结的六角冰锥，寒气逼人",
+    "name_cn": "六芒冰锥",
+    "__trans__": true
+  },
+  "501711": {
+    "id": 501711,
+    "name": "Bình Đồng",
+    "type": 4,
+    "quality": 3,
+    "icon": "treasure/501711.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        1100
+      ],
+      [
+        "speed",
+        480
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      105
+    ],
+    "atlas_id": 1062,
+    "desc": "Trong tiệc Bàn Đào, chư tiên thích dùng chiếc bình này để đựng quỳnh tương ngọc lộ nhất",
+    "desc_cn": "蟠桃宴会上，众仙最喜用此樽盛装琼浆玉露",
+    "name_cn": "青铜樽",
+    "__trans__": true
+  },
+  "501712": {
+    "id": 501712,
+    "name": "Ngọc Bội Xanh Biếc",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501712.png",
+    "attribute": [
+      [
+        "defense_per",
+        1260
+      ],
+      [
+        "defense",
+        1380
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      332
+    ],
+    "atlas_id": 1062,
+    "desc": "Không biết là Ngọc Bội Xanh Khắc Rồng của vị Tiên Nhân nào đánh rơi, giá trị không nhỏ",
+    "desc_cn": "不知是哪个仙人遗落下的雕龙碧玉佩，价值不菲",
+    "name_cn": "碧玉佩",
+    "__trans__": true
+  },
+  "501713": {
+    "id": 501713,
+    "name": "Thiên Địa Linh Bích",
+    "type": 3,
+    "quality": 5,
+    "icon": "treasure/501713.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        800
+      ],
+      [
+        "resist",
+        450
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      1888
+    ],
+    "atlas_id": 0,
+    "desc": "Thế giới Đại Hoang hội tụ Linh Ngọc được ngưng kết từ linh khí đất trời, có thể tìm thấy là những người cực kỳ may mắn",
+    "desc_cn": "大荒世界汇聚天地灵气凝结而成的灵玉，能寻到的都是欧皇",
+    "name_cn": "天地灵璧",
+    "__trans__": true
+  },
+  "501801": {
+    "id": 501801,
+    "name": "Tuyền Côi",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501801.png",
+    "attribute": [
+      [
+        "defense",
+        800
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      6,
+      4
+    ],
+    "atlas_id": 1072,
+    "desc": "Một loại bảo thạch quý nơi Đại Hoang, người xem dễ bị chìm đắm trong đó",
+    "desc_cn": "大荒中一种名贵的玉石，观赏者容易沉迷其中",
+    "name_cn": "璇瑰",
+    "__trans__": true
+  },
+  "501802": {
+    "id": 501802,
+    "name": "Chu Sa",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501802.png",
+    "attribute": [
+      [
+        "more_attack",
+        1250
+      ],
+      [
+        "speed",
+        520
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1074,
+    "desc": "Khoáng sản hình thành từ Tinh Hoa Nhật Nguyệt, là nguyên liệu luyện đan cũng là bảo vật trừ tà",
+    "desc_cn": "集日月精华而成的宝贵矿藏，既是炼丹用材，也是辟邪的宝物",
+    "name_cn": "丹砂",
+    "__trans__": true
+  },
+  "501803": {
+    "id": 501803,
+    "name": "Bích Dao",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501803.png",
+    "attribute": [
+      [
+        "suck_hp",
+        1020
+      ],
+      [
+        "more_attack",
+        430
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1074,
+    "desc": "Mỹ nhân như ngọc, tiên kiếm như cầu vồng",
+    "desc_cn": "美人如玉，仙剑如虹",
+    "name_cn": "碧瑶",
+    "__trans__": true
+  },
+  "501804": {
+    "id": 501804,
+    "name": "Ngọc đẹp",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501804.png",
+    "attribute": [
+      [
+        "back_attack",
+        1320
+      ],
+      [
+        "defense",
+        704
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      332
+    ],
+    "atlas_id": 1075,
+    "desc": "Theo truyền thuyết, đây thực chất là một loại tiên thụ, giống như châu ngọc, được coi là báu vật vô giá",
+    "desc_cn": "传说是仙树之实，却如珠玉一般，被视作无价之宝",
+    "name_cn": "琅玕",
+    "__trans__": true
+  },
+  "501805": {
+    "id": 501805,
+    "name": "Vu Ngọc",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501805.png",
+    "attribute": [
+      [
+        "dizziness",
+        1320
+      ],
+      [
+        "attack",
+        1696
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      190
+    ],
+    "atlas_id": 1071,
+    "desc": "Ngọc bội được vu nữ ôn dưỡng nhiều năm, cầm trong tay có thể thông linh",
+    "desc_cn": "巫女温养经年之玉佩，握之可以通灵",
+    "name_cn": "巫玉",
+    "__trans__": true
+  },
+  "501806": {
+    "id": 501806,
+    "name": "Mẫu Đơn",
+    "type": 2,
+    "quality": 1,
+    "icon": "treasure/501806.png",
+    "attribute": [
+      [
+        "defense",
+        1113
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      67
+    ],
+    "atlas_id": 1067,
+    "desc": "Một nhánh sương đỏ thơm ngát, mây mưa ở Vu Sơn đoạn trường",
+    "desc_cn": "一枝红艳露凝香，云雨巫山枉断肠",
+    "name_cn": "牡丹",
+    "__trans__": true
+  },
+  "501807": {
+    "id": 501807,
+    "name": "Thược Dược",
+    "type": 2,
+    "quality": 2,
+    "icon": "treasure/501807.png",
+    "attribute": [
+      [
+        "hp_upper",
+        13021
+      ],
+      [
+        "speed",
+        507
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      98
+    ],
+    "atlas_id": 1067,
+    "desc": "Trước sân cây ngọc xuân phơi phới, khói quyện hương trầm, trăng non rơi",
+    "desc_cn": "庭前玉树一枝春，香雾和烟新月冷",
+    "name_cn": "芍药",
+    "__trans__": true
+  },
+  "501808": {
+    "id": 501808,
+    "name": "Bạch Liễu",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501808.png",
+    "attribute": [
+      [
+        "hp_upper",
+        17312
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      129
+    ],
+    "atlas_id": 1068,
+    "desc": "Loại cây phổ biến ở phía tây Đại Hoang",
+    "desc_cn": "大荒以西常见的树木",
+    "name_cn": "白柳",
+    "__trans__": true
+  },
+  "501809": {
+    "id": 501809,
+    "name": "Lan Huệ",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501809.png",
+    "attribute": [
+      [
+        "defense",
+        1305
+      ],
+      [
+        "speed",
+        520
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1067,
+    "desc": "Bằng hữu tựa lan huệ, tài hoa hơn ngọc ngà",
+    "desc_cn": "良朋比兰蕙，雕藻迈琼琚",
+    "name_cn": "兰蕙",
+    "__trans__": true
+  },
+  "501810": {
+    "id": 501810,
+    "name": "Chu Mộc",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501810.png",
+    "attribute": [
+      [
+        "attack",
+        2990
+      ],
+      [
+        "speed",
+        520
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1068,
+    "desc": "Thần Mộc mọc ở nước Cái Sơn, ngàn năm sinh, ngàn năm diệt",
+    "desc_cn": "生长在盖山之国的神树，千年生，千年死",
+    "name_cn": "朱木",
+    "__trans__": true
+  },
+  "501811": {
+    "id": 501811,
+    "name": "Tùng Cự Các",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501811.png",
+    "attribute": [
+      [
+        "attack",
+        3320
+      ],
+      [
+        "defense",
+        1410
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      190
+    ],
+    "atlas_id": 1069,
+    "desc": "Thần Thụ này nghe nói mọc xa về phía Tây của Tây Hoang, nơi mặt trời lặn và mặt trăng mọc",
+    "desc_cn": "这种神树传说中长于比西荒更西边的地方，是日落月出之处",
+    "name_cn": "柜格之松",
+    "__trans__": true
+  },
+  "501812": {
+    "id": 501812,
+    "name": "Diêm Tuyền",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501812.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        800
+      ],
+      [
+        "ignore_dizziness",
+        340
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      129
+    ],
+    "atlas_id": 1069,
+    "desc": "Tây Hoang nhiều suối mặn, có dị nhân lấy đó làm thức ăn",
+    "desc_cn": "西荒多盐泉，有异人以此为食",
+    "name_cn": "盐泉",
+    "__trans__": true
+  },
+  "501813": {
+    "id": 501813,
+    "name": "Nước nóng lạnh",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501813.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        900
+      ],
+      [
+        "ignore_more_attack",
+        380
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1073,
+    "desc": "Dưới Núi Bất Chu, có 1 dòng suối kỳ lạ, nước nóng lạnh luân phiên chảy ra nên mới có tên như vậy",
+    "desc_cn": "不周山下，有一处奇特的泉水，冷水和热水交替涌出，固得此名",
+    "name_cn": "寒暑之水",
+    "__trans__": true
+  },
+  "501814": {
+    "id": 501814,
+    "name": "Lông Vũ Cuồng Điểu",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501814.png",
+    "attribute": [
+      [
+        "ignore_suck_hp",
+        900
+      ],
+      [
+        "ignore_crit",
+        380
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1073,
+    "desc": "Tương truyền là một loài Phượng Hoàng, lông vũ ngũ sắc rực rỡ, vô cùng xinh đẹp",
+    "desc_cn": "相传亦是凤凰的一种，其羽毛五彩斑斓，极尽艳丽",
+    "name_cn": "狂鸟之羽",
+    "__trans__": true
+  },
+  "501815": {
+    "id": 501815,
+    "name": "Trứng Phượng",
+    "type": 3,
+    "quality": 5,
+    "icon": "treasure/501815.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        650
+      ],
+      [
+        "ignore_dodge",
+        500
+      ],
+      [
+        "ignore_back_attack",
+        400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      190
+    ],
+    "atlas_id": 1073,
+    "desc": "Chưa ai từng thấy tận mắt kết tinh tình yêu của Phượng Hoàng, không quá lời khi nói đó là thứ hiếm có nhất trên đời.",
+    "desc_cn": "从未有人亲眼见过凤凰的爱情结晶，说它是世上最罕见的事物也不为过",
+    "name_cn": "凤鸟之卵",
+    "__trans__": true
+  },
+  "501816": {
+    "id": 501816,
+    "name": "Thần Ngọc Diện",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/501816.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        1200
+      ],
+      [
+        "speed",
+        520
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 1071,
+    "desc": "Mặt nạ ngọc tế lễ Tây Hoang, đeo vào có thể truyền thông thần linh",
+    "desc_cn": "西荒异国祭祀所用的玉制面具，传说戴上以后可以沟通神灵",
+    "name_cn": "玉面神",
+    "__trans__": true
+  },
+  "501817": {
+    "id": 501817,
+    "name": "Thuốc Bất Tử",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501817.png",
+    "attribute": [
+      [
+        "defense_per",
+        1200
+      ],
+      [
+        "hp_upper_per",
+        400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      190
+    ],
+    "atlas_id": 1070,
+    "desc": "Tiên dược do Thập Vu ở Linh Sơn tốn hết tâm huyết luyện thành, phàm nhân uống vào sẽ bất tử",
+    "desc_cn": "灵山十巫耗尽心血炼制而成的仙药，凡人服之不死",
+    "name_cn": "不死药",
+    "__trans__": true
+  },
+  "501818": {
+    "id": 501818,
+    "name": "Thùng Gỗ Vỡ Nát",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501818.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      28
+    ],
+    "atlas_id": 0,
+    "desc": "Thùng gỗ này không chứa được chút nước nào, vì phần đáy của nó có lỗ",
+    "desc_cn": "这个木桶完全装不了一点水，因为它的底部也穿了个洞",
+    "name_cn": "残破的木桶",
+    "__trans__": true
+  },
+  "501819": {
+    "id": 501819,
+    "name": "Nhật Ký Ố Vàng",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501819.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      35
+    ],
+    "atlas_id": 0,
+    "desc": "Trang mở đầu viết: Người chính trực thì ai còn viết nhật ký chứ",
+    "desc_cn": "开篇第一页写道：正经人谁还写日记啊",
+    "name_cn": "泛黄的日记",
+    "__trans__": true
+  },
+  "501820": {
+    "id": 501820,
+    "name": "Gậy Gỗ",
+    "type": 5,
+    "quality": 1,
+    "icon": "treasure/501820.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      32
+    ],
+    "atlas_id": 0,
+    "desc": "Một cây Gậy Gỗ không có gì đặc biệt, nhưng ai cầm vào cũng bỗng dưng muốn đập cái gì đó",
+    "desc_cn": "平平无奇的一根木棍，握着的人却莫名会有想砸点什么的冲动",
+    "name_cn": "木棍",
+    "__trans__": true
+  },
+  "501821": {
+    "id": 501821,
+    "name": "Đồng Xu Mòn",
+    "type": 5,
+    "quality": 2,
+    "icon": "treasure/501821.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      44
+    ],
+    "atlas_id": 0,
+    "desc": "Đạo Sĩ Vô Lương không rành báu vật, Chí Bảo tu tiên trấn áp vạn vật",
+    "desc_cn": "无良道士不识宝，修仙至宝镇万物",
+    "name_cn": "磨损的铜钱",
+    "__trans__": true
+  },
+  "501822": {
+    "id": 501822,
+    "name": "Lên Kế Hoạch",
+    "type": 5,
+    "quality": 2,
+    "icon": "treasure/501822.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      48
+    ],
+    "atlas_id": 0,
+    "desc": "Đạo cụ bói toán của Thập Vu ở Linh Sơn, dù chôn sâu dưới đất vẫn khó che giấu linh khí",
+    "desc_cn": "灵山十巫用于占筮的道具，即使深埋土中，也难掩灵气",
+    "name_cn": "筹策",
+    "__trans__": true
+  },
+  "501823": {
+    "id": 501823,
+    "name": "Thanh Y Vu Nữ",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/501823.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      160
+    ],
+    "atlas_id": 0,
+    "desc": "Vu nữ thường mặc thanh y này múa khi cầu mưa trước Thần Đông Phương",
+    "desc_cn": "巫女向东方之神求雨时，常着此青衣舞之",
+    "name_cn": "巫女青衣",
+    "__trans__": true
+  },
+  "501824": {
+    "id": 501824,
+    "name": "Mai Rùa Thượng Cổ",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501824.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      190
+    ],
+    "atlas_id": 0,
+    "desc": "Theo truyền thuyết, giáp này lột từ con Linh Quy cổ xưa mang huyết mạch Huyền Vũ, kỳ diệu lạ thường",
+    "desc_cn": "传说此甲蜕自带有玄武血脉的上古灵龟，神异非凡",
+    "name_cn": "上古龟甲",
+    "__trans__": true
+  },
+  "501825": {
+    "id": 501825,
+    "name": "Đế Hưu",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501825.png",
+    "attribute": [
+      [
+        "attack",
+        3800
+      ],
+      [
+        "suppress",
+        480
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      2000
+    ],
+    "atlas_id": 0,
+    "desc": "Bất Sầu Mộc danh tiếng lẫy lừng, tương truyền ăn quả của nó giúp người ta ổn định tâm tình",
+    "desc_cn": "鼎鼎大名的“不愁木”，传说吃了它的果实可以使人平复心情",
+    "name_cn": "帝休",
+    "__trans__": true
+  },
+  "501826": {
+    "id": 501826,
+    "name": "Tuần Thảo",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501826.png",
+    "attribute": [
+      [
+        "attack",
+        3800
+      ],
+      [
+        "guard",
+        360
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      2000
+    ],
+    "atlas_id": 0,
+    "desc": "Cỏ Mỹ Nhân nổi tiếng khắp Sơn Hải Giới, đến cả tiên gia trên trời cũng dùng để làm đẹp",
+    "desc_cn": "闻名山海界的“美人草”，就连天上的仙家也服用它来美容色",
+    "name_cn": "荀草",
+    "__trans__": true
+  },
+  "501901": {
+    "id": 501901,
+    "name": "Tích Thạch",
+    "type": 1,
+    "quality": 1,
+    "icon": "treasure/501901.png",
+    "attribute": [
+      [
+        "suck_hp",
+        620
+      ],
+      [
+        "dodge",
+        350
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      72
+    ],
+    "atlas_id": 1077,
+    "desc": "Một đống đá lộn xộn, trông chẳng có gì đặc biệt",
+    "desc_cn": "凌乱的石头堆，看起来没什么稀奇的",
+    "name_cn": "积石",
+    "__trans__": true
+  },
+  "501902": {
+    "id": 501902,
+    "name": "Bạch Đan",
+    "type": 1,
+    "quality": 3,
+    "icon": "treasure/501902.png",
+    "attribute": [
+      [
+        "dizziness",
+        1060
+      ],
+      [
+        "back_attack",
+        260
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      138
+    ],
+    "atlas_id": 1077,
+    "desc": "Đan thạch màu trắng, nghe nói có thể nghiền thành bột dùng làm phẩm màu",
+    "desc_cn": "白色丹石，据说可以研磨成粉用作颜料",
+    "name_cn": "白丹",
+    "__trans__": true
+  },
+  "501903": {
+    "id": 501903,
+    "name": "Thanh Đan",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/501903.png",
+    "attribute": [
+      [
+        "crit",
+        1280
+      ],
+      [
+        "speed",
+        600
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      171
+    ],
+    "atlas_id": 1077,
+    "desc": "Đan thạch màu xanh, nghe nói có thể nghiền thành bột dùng làm phẩm màu",
+    "desc_cn": "青色丹石，据说可以研磨成粉用作颜料",
+    "name_cn": "青丹",
+    "__trans__": true
+  },
+  "501904": {
+    "id": 501904,
+    "name": "Đá Chúc Dung",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/501904.png",
+    "attribute": [
+      [
+        "more_attack",
+        1380
+      ],
+      [
+        "attack",
+        1871
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      364
+    ],
+    "atlas_id": 1082,
+    "desc": "Đá quý vớt ra từ dung nham, cực nóng, cẩn thận đừng cầm bằng tay",
+    "desc_cn": "岩浆中捞出的宝石，炽热无比，切忌用手拿",
+    "name_cn": "祝融石",
+    "__trans__": true
+  },
+  "501905": {
+    "id": 501905,
+    "name": "Tương Trúc",
+    "type": 2,
+    "quality": 2,
+    "icon": "treasure/501905.png",
+    "attribute": [
+      [
+        "speed",
+        554
+      ],
+      [
+        "defense",
+        1127
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      105
+    ],
+    "atlas_id": 1078,
+    "desc": "Lá tre như phỉ thuý, không biết ai đã để lại nước mắt trên đó từ ngàn năm trước",
+    "desc_cn": "竹叶如翠，不知其上的泪痕是千年前谁留下的呢",
+    "name_cn": "湘竹",
+    "__trans__": true
+  },
+  "501906": {
+    "id": 501906,
+    "name": "Nhược Mộc",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/501906.png",
+    "attribute": [
+      [
+        "attack",
+        3878
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      138
+    ],
+    "atlas_id": 1078,
+    "desc": "Theo truyền thuyết, loài thần thụ này chỉ sinh trưởng ở nơi mặt trời lặn, quả của nó đều là màu đỏ thẫm",
+    "desc_cn": "传说此神树只生长在日落的地方，连果实都是赤红色的",
+    "name_cn": "若木",
+    "__trans__": true
+  },
+  "501907": {
+    "id": 501907,
+    "name": "Bàn Mộc",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/501907.png",
+    "attribute": [
+      [
+        "attack",
+        3119
+      ],
+      [
+        "hp_upper",
+        14100
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      171
+    ],
+    "atlas_id": 1078,
+    "desc": "Cây cổ thụ cành lá um tùm, hình dáng kỳ dị, không biết đã đứng sừng sững ở đây mấy vạn năm",
+    "desc_cn": "盘根错节的古木，形状怪异，不知在此伫立了几万年",
+    "name_cn": "槃木",
+    "__trans__": true
+  },
+  "501908": {
+    "id": 501908,
+    "name": "Giải Vũ",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/501908.png",
+    "attribute": [
+      [
+        "ignore_dizziness",
+        870
+      ],
+      [
+        "ignore_back_attack",
+        320
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      105
+    ],
+    "atlas_id": 1081,
+    "desc": "Lông Vũ cực lớn không biết rơi ra từ loài Thần Điểu nào, phần đầu cuối vẫn tỏa ra ánh sáng mờ nhạt",
+    "desc_cn": "巨大的羽毛不知是从哪种神鸟身上掉落的，尾端还泛着隐隐微光",
+    "name_cn": "解羽",
+    "__trans__": true
+  },
+  "501909": {
+    "id": 501909,
+    "name": "Nước Vong Xuyên",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501909.png",
+    "attribute": [
+      [
+        "ignore_more_attack",
+        900
+      ],
+      [
+        "ignore_dizziness",
+        430
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      138
+    ],
+    "atlas_id": 1080,
+    "desc": "Người uống nước này có thể gột rửa ưu phiền, oán hận kiếp trước, gột rửa bụi trần kiếp sau, không còn phiền não",
+    "desc_cn": "饮此水者可涤荡前世忧怨，洗净来世尘埃，烦恼全无",
+    "name_cn": "忘川之水",
+    "__trans__": true
+  },
+  "501910": {
+    "id": 501910,
+    "name": "Nguồn Nhược Thủy",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/501910.png",
+    "attribute": [
+      [
+        "ignore_back_attack",
+        900
+      ],
+      [
+        "ignore_more_attack",
+        430
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      138
+    ],
+    "atlas_id": 1080,
+    "desc": "Nhược thủy tam thiên, chỉ lấy một bầu uống",
+    "desc_cn": "弱水三千，只取一瓢饮之",
+    "name_cn": "弱水之源",
+    "__trans__": true
+  },
+  "501911": {
+    "id": 501911,
+    "name": "U Minh Quỷ Hỏa",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/501911.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        1070
+      ],
+      [
+        "ignore_crit",
+        400
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      171
+    ],
+    "atlas_id": 1080,
+    "desc": "Ngọn lửa xanh huyền bí mà quái dị, được tạo thành từ linh hồn dị quỷ",
+    "desc_cn": "青绿色的火焰神秘诡谲，以异鬼灵魂燃之而成",
+    "name_cn": "幽冥鬼火",
+    "__trans__": true
+  },
+  "501912": {
+    "id": 501912,
+    "name": "Hàm Chúc Hỏa Tinh",
+    "type": 3,
+    "quality": 5,
+    "icon": "treasure/501912.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        680
+      ],
+      [
+        "ignore_more_attack",
+        580
+      ],
+      [
+        "ignore_suck_hp",
+        580
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      388
+    ],
+    "atlas_id": 1081,
+    "desc": "Hỏa Tinh ngậm trong miệng Chúc Long dùng để chiếu sáng U Minh Vô Nhật Quốc ở Đại Hoang Tây Bắc",
+    "desc_cn": "烛龙口中衔着的火精，用以照亮大荒西北的幽冥无日之国",
+    "name_cn": "衔烛火精",
+    "__trans__": true
+  },
+  "501913": {
+    "id": 501913,
+    "name": "Hoa Tai Xích Xà",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/501913.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        1300
+      ],
+      [
+        "attack",
+        3580
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      171
+    ],
+    "atlas_id": 1079,
+    "desc": "Hoa tai hình rắn màu đỏ chu sa, là trang sức được các Thị Thần Nữ đeo khi thỉnh thần ở Tây Hoang Dị Quốc",
+    "desc_cn": "朱红色的蛇形耳饰，是西荒异国的侍神女请神时佩戴的饰品",
+    "name_cn": "赤蛇耳饰",
+    "__trans__": true
+  },
+  "501914": {
+    "id": 501914,
+    "name": "Hoa Tai Thanh Xà",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/501914.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        1400
+      ],
+      [
+        "hp_upper",
+        18223
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      204
+    ],
+    "atlas_id": 1079,
+    "desc": "Hoa tai hình rắn màu chàm, là trang sức được các Vu Nữ đeo khi cầu mưa ở Tây Hoang Dị Quốc",
+    "desc_cn": "靛青色的蛇形耳饰，是西荒异国的巫女求雨时佩戴的饰品",
+    "name_cn": "青蛇耳饰",
+    "__trans__": true
+  },
+  "501915": {
+    "id": 501915,
+    "name": "Mạn Đoài",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/501915.png",
+    "attribute": [
+      [
+        "speed",
+        650
+      ],
+      [
+        "bullying",
+        480
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      2000
+    ],
+    "atlas_id": 0,
+    "desc": "Trên cây Mạn Đoài có quả Trí Tuệ, dưới cây Mạn Đoài có ngươi và ta",
+    "desc_cn": "曼兑树上智慧果，曼兑树下你和我",
+    "name_cn": "曼兑",
+    "__trans__": true
+  },
+  "501916": {
+    "id": 501916,
+    "name": "Đại Hoang Dị Văn",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/501916.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      6888
+    ],
+    "atlas_id": 1084,
+    "desc": "Tiểu thuyết độc đáo bán chạy nhất nơi iại hoang, ai đọc rồi cũng khen hay",
+    "desc_cn": "大荒境内最畅销的异闻小说，读过的人都说好",
+    "name_cn": "《大荒异闻录》",
+    "__trans__": true
+  },
+  "5011001": {
+    "id": 5011001,
+    "name": "Sỏi Hắc Nham",
+    "type": 1,
+    "quality": 1,
+    "icon": "treasure/5011001.png",
+    "attribute": [
+      [
+        "speed",
+        792
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      76
+    ],
+    "atlas_id": 1086,
+    "desc": "Quặng tối ưu nhất ở Côn Lôn Hư",
+    "desc_cn": "昆仑虚最有性价比的矿石",
+    "name_cn": "黑岩砾",
+    "__trans__": true
+  },
+  "5011002": {
+    "id": 5011002,
+    "name": "Sỏi Ánh Lục",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/5011002.png",
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "more_attack",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      110
+    ],
+    "atlas_id": 1090,
+    "desc": "Sau khi đánh bóng có thể dùng làm Dạ Minh Châu giả",
+    "desc_cn": "打磨好后可拿去假冒夜明珠",
+    "name_cn": "绿光砾",
+    "__trans__": true
+  },
+  "5011003": {
+    "id": 5011003,
+    "name": "Sỏi Lam Mộng",
+    "type": 1,
+    "quality": 2,
+    "icon": "treasure/5011003.png",
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "dodge",
+        1000
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      110
+    ],
+    "atlas_id": 1090,
+    "desc": "Khi mang nó và nằm mơ, nó sẽ phát sáng",
+    "desc_cn": "带着它做梦的时候会发光噢",
+    "name_cn": "蓝梦砾",
+    "__trans__": true
+  },
+  "5011004": {
+    "id": 5011004,
+    "name": "Sỏi Hoàng Trạch",
+    "type": 1,
+    "quality": 4,
+    "icon": "treasure/5011004.png",
+    "attribute": [
+      [
+        "hp_upper",
+        12250
+      ],
+      [
+        "suck_hp",
+        920
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      180
+    ],
+    "atlas_id": 1086,
+    "desc": "Có giống nguyên liệu của Đá Càn Khôn không",
+    "desc_cn": "像不像乾坤石的原料",
+    "name_cn": "黄泽砾",
+    "__trans__": true
+  },
+  "5011005": {
+    "id": 5011005,
+    "name": "Sỏi Côn Lôn Hư",
+    "type": 1,
+    "quality": 5,
+    "icon": "treasure/5011005.png",
+    "attribute": [
+      [
+        "dizziness",
+        1420
+      ],
+      [
+        "attack",
+        2016
+      ],
+      [
+        "speed",
+        362
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      407
+    ],
+    "atlas_id": 1090,
+    "desc": "Thứ cứng nhất ở Côn Lôn Hư, tương truyền là nguyên liệu sót lại khi Tây Vương Mẫu chế tạo Dao Trì",
+    "desc_cn": "昆仑虚最硬的货，相传是西王母建造瑶池时的余料",
+    "name_cn": "昆仑虚砾",
+    "__trans__": true
+  },
+  "5011006": {
+    "id": 5011006,
+    "name": "Bạch Nam",
+    "type": 2,
+    "quality": 2,
+    "icon": "treasure/5011006.png",
+    "attribute": [
+      [
+        "attack",
+        3080
+      ],
+      [
+        "speed",
+        565
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      110
+    ],
+    "atlas_id": 1091,
+    "desc": "Loài hoa thường thấy của Vũ Danh Quốc, cánh hoa trắng có độ ấm",
+    "desc_cn": "羽名国常见的花，白色的花瓣略有温度",
+    "name_cn": "白楠",
+    "__trans__": true
+  },
+  "5011007": {
+    "id": 5011007,
+    "name": "Đại Thanh",
+    "type": 2,
+    "quality": 3,
+    "icon": "treasure/5011007.png",
+    "attribute": [
+      [
+        "hp_upper",
+        14250
+      ],
+      [
+        "defense",
+        1207
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      145
+    ],
+    "atlas_id": 1087,
+    "desc": "Phát ra ánh sáng xanh vào ban đêm, thường được Vũ Danh Quốc sử dụng để thắp sáng",
+    "desc_cn": "夜晚会散发蓝光，羽名国常用来照明",
+    "name_cn": "大青",
+    "__trans__": true
+  },
+  "5011008": {
+    "id": 5011008,
+    "name": "Tử Đinh",
+    "type": 2,
+    "quality": 4,
+    "icon": "treasure/5011008.png",
+    "attribute": [
+      [
+        "defense",
+        1318
+      ],
+      [
+        "hp_upper",
+        16285
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      180
+    ],
+    "atlas_id": 1091,
+    "desc": "Cánh hoa tím duyên dáng và xinh đẹp, được các thiếu nữ Vũ Danh Quốc yêu thích",
+    "desc_cn": "紫色的花瓣妖艳又美丽，羽名国的少女很是喜欢",
+    "name_cn": "紫丁",
+    "__trans__": true
+  },
+  "5011009": {
+    "id": 5011009,
+    "name": "Hoa Tam Châu",
+    "type": 2,
+    "quality": 5,
+    "icon": "treasure/5011009.png",
+    "attribute": [
+      [
+        "attack",
+        3743
+      ],
+      [
+        "hp_upper",
+        16920
+      ],
+      [
+        "speed",
+        287
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      407
+    ],
+    "atlas_id": 1087,
+    "desc": "Hoa nhả ngọc trai vào đêm khuya, có thật không?",
+    "desc_cn": "深夜会结出珍珠的花，真的吗",
+    "name_cn": "三株花",
+    "__trans__": true
+  },
+  "5011010": {
+    "id": 5011010,
+    "name": "Thuần Bạch Linh Hoa",
+    "type": 3,
+    "quality": 1,
+    "icon": "treasure/5011010.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        850
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      76
+    ],
+    "atlas_id": 1085,
+    "desc": "Không biết cuối cùng nó đến từ đâu, chỉ biết nó thường được dùng trao đổi hàng hóa ở nước Quán Hung",
+    "desc_cn": "不知到底从何而来，只知贯匈国视为通货",
+    "name_cn": "纯白灵华",
+    "__trans__": true
+  },
+  "5011011": {
+    "id": 5011011,
+    "name": "Thanh Thúy Linh Hoa",
+    "type": 3,
+    "quality": 2,
+    "icon": "treasure/5011011.png",
+    "attribute": [
+      [
+        "ignore_more_attack",
+        850
+      ],
+      [
+        "ignore_dizziness",
+        360
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      110
+    ],
+    "atlas_id": 1085,
+    "desc": "Màu xanh có thể ăn, nhưng mùi vị thì khó tả",
+    "desc_cn": "绿色可食，就是味道一言难尽",
+    "name_cn": "青翠灵华",
+    "__trans__": true
+  },
+  "5011012": {
+    "id": 5011012,
+    "name": "Tinh Hoa Nam Hải",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/5011012.png",
+    "attribute": [
+      [
+        "ignore_crit",
+        910
+      ],
+      [
+        "ignore_more_attack",
+        440
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      145
+    ],
+    "atlas_id": 1085,
+    "desc": "Thỉnh thoảng có thể tìm thấy bên bờ biển, ăn xong sẽ có tính thông thủy",
+    "desc_cn": "海边可偶得之，食后可通水性",
+    "name_cn": "南海精华",
+    "__trans__": true
+  },
+  "5011013": {
+    "id": 5011013,
+    "name": "Tinh Hoa Đế Tử",
+    "type": 3,
+    "quality": 3,
+    "icon": "treasure/5011013.png",
+    "attribute": [
+      [
+        "ignore_dodge",
+        910
+      ],
+      [
+        "ignore_dizziness",
+        440
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      145
+    ],
+    "atlas_id": 1089,
+    "desc": "Chỉ có người địa vị cao quý ở nước Quán Hung mới có được, nghe nói đích thân Đế Tử Tinh trao",
+    "desc_cn": "贯匈国地位尊贵才可得，说是帝紫星亲自颁授",
+    "name_cn": "帝紫精华",
+    "__trans__": true
+  },
+  "5011014": {
+    "id": 5011014,
+    "name": "Tinh Túy Đan Phượng",
+    "type": 3,
+    "quality": 4,
+    "icon": "treasure/5011014.png",
+    "attribute": [
+      [
+        "ignore_suck_hp",
+        1080
+      ],
+      [
+        "ignore_dodge",
+        460
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      145
+    ],
+    "atlas_id": 1089,
+    "desc": "Là Kim Ô hay Bỉ Dực Điểu, chỉ khi nó tỉnh dậy mới biết được",
+    "desc_cn": "是金乌还是比翼鸟，只有它醒了才知道",
+    "name_cn": "丹凤精髓",
+    "__trans__": true
+  },
+  "5011015": {
+    "id": 5011015,
+    "name": "Chén Bạch Quang",
+    "type": 4,
+    "quality": 3,
+    "icon": "treasure/5011015.png",
+    "attribute": [
+      [
+        "attack_per",
+        1190
+      ],
+      [
+        "speed",
+        512
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      145
+    ],
+    "atlas_id": 1088,
+    "desc": "Chẳng lẽ thần tiên cũng biết cô đơn sao",
+    "desc_cn": "难道神仙也会寂寞吗",
+    "name_cn": "白光杯",
+    "__trans__": true
+  },
+  "5011016": {
+    "id": 5011016,
+    "name": "Ấm Bạch Quang",
+    "type": 4,
+    "quality": 4,
+    "icon": "treasure/5011016.png",
+    "attribute": [
+      [
+        "defense_per",
+        1250
+      ],
+      [
+        "attack",
+        3250
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      180
+    ],
+    "atlas_id": 1088,
+    "desc": "Rượu trong bình vạn năm không hết",
+    "desc_cn": "壶中酒劲万年不散",
+    "name_cn": "白光壶",
+    "__trans__": true
+  },
+  "5011017": {
+    "id": 5011017,
+    "name": "Quán Nhật Cung",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/5011017.png",
+    "attribute": [
+      [
+        "attack_per",
+        1300
+      ],
+      [
+        "attack",
+        3890
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      407
+    ],
+    "atlas_id": 1092,
+    "desc": "Hậu Nghệ bắn mặt trời, chỉ cần 1 mũi tên",
+    "desc_cn": "后羿射日，只需一箭",
+    "name_cn": "贯日弓",
+    "__trans__": true
+  },
+  "5011018": {
+    "id": 5011018,
+    "name": "Huy Hiệu Ngọn Lửa",
+    "type": 4,
+    "quality": 5,
+    "icon": "treasure/5011018.png",
+    "attribute": [
+      [
+        "hp_upper_per",
+        1500
+      ],
+      [
+        "guard",
+        480
+      ]
+    ],
+    "condition": 4000,
+    "conditionMax": 16000,
+    "price": [
+      5,
+      2000
+    ],
+    "atlas_id": 0,
+    "desc": "Đến từ tay của Nam Hải Thần Chúc Dung, người giữ lệnh này, vạn hỏa bất xâm",
+    "desc_cn": "出自南海神祝融之手，持此令者，万火不侵",
+    "name_cn": "火焰纹章",
+    "__trans__": true
+  },
+  "5011019": {
+    "id": 5011019,
+    "name": "Mũ Giáp",
+    "type": 5,
+    "quality": 4,
+    "icon": "treasure/5011019.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      888
+    ],
+    "atlas_id": 1093,
+    "desc": "Không đội mũ này, chớ lên Côn Lôn",
+    "desc_cn": "无此帽者，勿上昆仑",
+    "name_cn": "头盔",
+    "__trans__": true
+  },
+  "5011020": {
+    "id": 5011020,
+    "name": "Đồ Đằng Thiên Ngô",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/5011020.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      3888
+    ],
+    "atlas_id": 1093,
+    "desc": "Ở thung lũng Triều Dương, vị Thần tên Thiên Ngô, gọi là Thủy Bá",
+    "desc_cn": "朝阳之谷，神曰天吴，是为水伯",
+    "name_cn": "天吴图腾",
+    "__trans__": true
+  },
+  "5011021": {
+    "id": 5011021,
+    "name": "Áo Bách Lân",
+    "type": 5,
+    "quality": 5,
+    "icon": "treasure/5011021.png",
+    "attribute": [],
+    "condition": 0,
+    "conditionMax": 0,
+    "price": [
+      5,
+      6888
+    ],
+    "atlas_id": 1093,
+    "desc": "Phục sức thường ngày của dân chúng Huyền Cổ Quốc",
+    "desc_cn": "玄股国民众的日常服饰",
+    "name_cn": "百鳞衣",
+    "__trans__": true
+  }
+}

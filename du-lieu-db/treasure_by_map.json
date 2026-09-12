@@ -1,0 +1,2188 @@
+{
+  "1001": [
+    {
+      "id": 501101,
+      "name": "Bạc",
+      "type": 1,
+      "quality": 1,
+      "atlas_id": 1001,
+      "atlas_name": "atlas_1001"
+    },
+    {
+      "id": 501102,
+      "name": "Vàng",
+      "type": 1,
+      "quality": 1,
+      "atlas_id": 1001,
+      "atlas_name": "atlas_1001"
+    },
+    {
+      "id": 501111,
+      "name": "Xích Kim",
+      "type": 1,
+      "quality": 3,
+      "atlas_id": 1001,
+      "atlas_name": "atlas_1001"
+    }
+  ],
+  "1008": [
+    {
+      "id": 501103,
+      "name": "Hỏa Lưu Sa",
+      "type": 1,
+      "quality": 1,
+      "atlas_id": 1008,
+      "atlas_name": "atlas_1008"
+    },
+    {
+      "id": 501105,
+      "name": "Thạch Nhũ",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1008,
+      "atlas_name": "atlas_1008"
+    },
+    {
+      "id": 501106,
+      "name": "Âm Ngọc",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1008,
+      "atlas_name": "atlas_1008"
+    }
+  ],
+  "1005": [
+    {
+      "id": 501104,
+      "name": "Huyền Thiết",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1005,
+      "atlas_name": "atlas_1005"
+    },
+    {
+      "id": 501114,
+      "name": "Hàn Thiết Ngàn Năm",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1005,
+      "atlas_name": "atlas_1005"
+    },
+    {
+      "id": 501207,
+      "name": "Trúc Tử Lôi",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1005,
+      "atlas_name": "atlas_1005"
+    }
+  ],
+  "1015": [
+    {
+      "id": 501107,
+      "name": "Tử Tinh",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1015,
+      "atlas_name": "atlas_1015"
+    },
+    {
+      "id": 501110,
+      "name": "Hàn Tinh",
+      "type": 1,
+      "quality": 3,
+      "atlas_id": 1015,
+      "atlas_name": "atlas_1015"
+    },
+    {
+      "id": 501209,
+      "name": "Hỏa Táo",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1015,
+      "atlas_name": "atlas_1015"
+    },
+    {
+      "id": 501316,
+      "name": "Thái Dương Chi Tinh",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1015,
+      "atlas_name": "atlas_1015"
+    }
+  ],
+  "1021": [
+    {
+      "id": 501108,
+      "name": "Ác Thổ",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1021,
+      "atlas_name": "atlas_1021"
+    },
+    {
+      "id": 501117,
+      "name": "Thương Ngọc",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1021,
+      "atlas_name": "atlas_1021"
+    },
+    {
+      "id": 501119,
+      "name": "Cát Minh Hà",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1021,
+      "atlas_name": "atlas_1021"
+    }
+  ],
+  "1026": [
+    {
+      "id": 501109,
+      "name": "Thủy Tinh",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1026,
+      "atlas_name": "atlas_1026"
+    },
+    {
+      "id": 501112,
+      "name": "Đá Hắc Diệu",
+      "type": 1,
+      "quality": 3,
+      "atlas_id": 1026,
+      "atlas_name": "atlas_1026"
+    },
+    {
+      "id": 501113,
+      "name": "Dương Chỉ Bạch Ngọc",
+      "type": 1,
+      "quality": 3,
+      "atlas_id": 1026,
+      "atlas_name": "atlas_1026"
+    }
+  ],
+  "1011": [
+    {
+      "id": 501115,
+      "name": "Đất Ngũ Sắc",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1011,
+      "atlas_name": "atlas_1011"
+    },
+    {
+      "id": 501210,
+      "name": "Ngũ Uẩn Chi",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1011,
+      "atlas_name": "atlas_1011"
+    }
+  ],
+  "1012": [
+    {
+      "id": 501116,
+      "name": "Côn Lôn Huyết Ngọc",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1012,
+      "atlas_name": "atlas_1012"
+    },
+    {
+      "id": 501211,
+      "name": "Gỗ Phản Hồn",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1012,
+      "atlas_name": "atlas_1012"
+    }
+  ],
+  "1014": [
+    {
+      "id": 501118,
+      "name": "Thiên Ngoại Vẫn Thiết",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1014,
+      "atlas_name": "atlas_1014"
+    }
+  ],
+  "1024": [
+    {
+      "id": 501120,
+      "name": "Hắc Kim Long Văn",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1024,
+      "atlas_name": "atlas_1024"
+    }
+  ],
+  "1035": [
+    {
+      "id": 501121,
+      "name": "Thần Thiết Thất Sắc",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1035,
+      "atlas_name": "atlas_1035"
+    }
+  ],
+  "1004": [
+    {
+      "id": 501201,
+      "name": "Cỏ Ba Lá",
+      "type": 2,
+      "quality": 1,
+      "atlas_id": 1004,
+      "atlas_name": "atlas_1004"
+    },
+    {
+      "id": 501202,
+      "name": "Quả Vô Hoa",
+      "type": 2,
+      "quality": 1,
+      "atlas_id": 1004,
+      "atlas_name": "atlas_1004"
+    },
+    {
+      "id": 501203,
+      "name": "Hoàn Hồn Thảo",
+      "type": 2,
+      "quality": 2,
+      "atlas_id": 1004,
+      "atlas_name": "atlas_1004"
+    }
+  ],
+  "1028": [
+    {
+      "id": 501204,
+      "name": "Nguyệt Mộng Thảo",
+      "type": 2,
+      "quality": 1,
+      "atlas_id": 1028,
+      "atlas_name": "atlas_1028"
+    },
+    {
+      "id": 501218,
+      "name": "Hoàng Trung Lý",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1028,
+      "atlas_name": "atlas_1028"
+    }
+  ],
+  "1031": [
+    {
+      "id": 501205,
+      "name": "Lộ Tuyết Thảo",
+      "type": 2,
+      "quality": 1,
+      "atlas_id": 1031,
+      "atlas_name": "atlas_1031"
+    },
+    {
+      "id": 501213,
+      "name": "Thiên Sơn Tuyết Liên",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1031,
+      "atlas_name": "atlas_1031"
+    }
+  ],
+  "1016": [
+    {
+      "id": 501206,
+      "name": "Âm Dương Mộc",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1016,
+      "atlas_name": "atlas_1016"
+    },
+    {
+      "id": 501319,
+      "name": "Đá Thiên Cương",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1016,
+      "atlas_name": "atlas_1016"
+    },
+    {
+      "id": 501320,
+      "name": "Đá Địa Sát",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1016,
+      "atlas_name": "atlas_1016"
+    }
+  ],
+  "1009": [
+    {
+      "id": 501208,
+      "name": "Chúc Dư",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1009,
+      "atlas_name": "atlas_1009"
+    },
+    {
+      "id": 501221,
+      "name": "Mạn Châu Sa Hoa",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 1009,
+      "atlas_name": "atlas_1009"
+    }
+  ],
+  "1023": [
+    {
+      "id": 501212,
+      "name": "Quả Long Quyết",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1023,
+      "atlas_name": "atlas_1023"
+    },
+    {
+      "id": 501215,
+      "name": "Đế Nữ Tang",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1023,
+      "atlas_name": "atlas_1023"
+    },
+    {
+      "id": 501216,
+      "name": "Linh Chi Vạn Năm",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1023,
+      "atlas_name": "atlas_1023"
+    }
+  ],
+  "1036": [
+    {
+      "id": 501214,
+      "name": "Gỗ Nổi",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1036,
+      "atlas_name": "atlas_1036"
+    },
+    {
+      "id": 501313,
+      "name": "Thiên Tằm Ty",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1036,
+      "atlas_name": "atlas_1036"
+    }
+  ],
+  "1065": [
+    {
+      "id": 501217,
+      "name": "Chu Quả",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 1065,
+      "atlas_name": "atlas_1065"
+    }
+  ],
+  "1029": [
+    {
+      "id": 501219,
+      "name": "Bàn Đào",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1029,
+      "atlas_name": "atlas_1029"
+    },
+    {
+      "id": 501322,
+      "name": "Nguồn Gốc Mộc Tinh",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1029,
+      "atlas_name": "atlas_1029"
+    }
+  ],
+  "1006": [
+    {
+      "id": 501220,
+      "name": "Gỗ Huyết Long",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 1006,
+      "atlas_name": "atlas_1006"
+    }
+  ],
+  "1030": [
+    {
+      "id": 501222,
+      "name": "Cành Cây Bất Tử",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 1030,
+      "atlas_name": "atlas_1030"
+    },
+    {
+      "id": 501413,
+      "name": "Long Châu",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1030,
+      "atlas_name": "atlas_1030"
+    }
+  ],
+  "1066": [
+    {
+      "id": 501223,
+      "name": "Cành Cây Phù Tang",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 1066,
+      "atlas_name": "atlas_1066"
+    }
+  ],
+  "1003": [
+    {
+      "id": 501301,
+      "name": "Hổ Phách",
+      "type": 3,
+      "quality": 1,
+      "atlas_id": 1003,
+      "atlas_name": "atlas_1003"
+    },
+    {
+      "id": 501302,
+      "name": "Trân Châu",
+      "type": 3,
+      "quality": 1,
+      "atlas_id": 1003,
+      "atlas_name": "atlas_1003"
+    },
+    {
+      "id": 501303,
+      "name": "Dạ Minh Châu",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1003,
+      "atlas_name": "atlas_1003"
+    }
+  ],
+  "1007": [
+    {
+      "id": 501304,
+      "name": "Mạt Kiếp Hỏa",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1007,
+      "atlas_name": "atlas_1007"
+    },
+    {
+      "id": 501314,
+      "name": "Nguồn Gốc Hỏa Tinh",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1007,
+      "atlas_name": "atlas_1007"
+    },
+    {
+      "id": 501329,
+      "name": "Phần Thiên Tử Hỏa",
+      "type": 3,
+      "quality": 5,
+      "atlas_id": 1007,
+      "atlas_name": "atlas_1007"
+    }
+  ],
+  "1019": [
+    {
+      "id": 501305,
+      "name": "Linh Thạch Mộc",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1019,
+      "atlas_name": "atlas_1019"
+    },
+    {
+      "id": 501306,
+      "name": "Linh Thạch Hỏa",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1019,
+      "atlas_name": "atlas_1019"
+    },
+    {
+      "id": 501307,
+      "name": "Linh Thạch Kim",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1019,
+      "atlas_name": "atlas_1019"
+    }
+  ],
+  "1020": [
+    {
+      "id": 501308,
+      "name": "Linh Thạch Thủy",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1020,
+      "atlas_name": "atlas_1020"
+    },
+    {
+      "id": 501309,
+      "name": "Linh Thạch Thổ",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1020,
+      "atlas_name": "atlas_1020"
+    }
+  ],
+  "1022": [
+    {
+      "id": 501310,
+      "name": "Ngọc Tủy Địa Tâm",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1022,
+      "atlas_name": "atlas_1022"
+    },
+    {
+      "id": 501318,
+      "name": "Nguồn Gốc Thổ Tinh",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1022,
+      "atlas_name": "atlas_1022"
+    },
+    {
+      "id": 501326,
+      "name": "Cửu U Sát Khí",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1022,
+      "atlas_name": "atlas_1022"
+    }
+  ],
+  "1027": [
+    {
+      "id": 501311,
+      "name": "Cam Lộ",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1027,
+      "atlas_name": "atlas_1027"
+    },
+    {
+      "id": 501321,
+      "name": "Nguyệt Quang Lưu Ly",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1027,
+      "atlas_name": "atlas_1027"
+    }
+  ],
+  "1032": [
+    {
+      "id": 501312,
+      "name": "Long Diên Hương",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1032,
+      "atlas_name": "atlas_1032"
+    },
+    {
+      "id": 501407,
+      "name": "Long Lân",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1032,
+      "atlas_name": "atlas_1032"
+    },
+    {
+      "id": 501414,
+      "name": "Trứng Rồng Hóa Đá",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1032,
+      "atlas_name": "atlas_1032"
+    }
+  ],
+  "1010": [
+    {
+      "id": 501315,
+      "name": "Đồng Tinh Xích Luyện",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1010,
+      "atlas_name": "atlas_1010"
+    },
+    {
+      "id": 501317,
+      "name": "Nguồn Gốc Kim Tinh",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1010,
+      "atlas_name": "atlas_1010"
+    }
+  ],
+  "1034": [
+    {
+      "id": 501323,
+      "name": "Nguồn Gốc Thủy Tinh",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1034,
+      "atlas_name": "atlas_1034"
+    },
+    {
+      "id": 501327,
+      "name": "Nước Suối Bất Lão",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1034,
+      "atlas_name": "atlas_1034"
+    },
+    {
+      "id": 501328,
+      "name": "Thái Nhất Chân Thủy",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1034,
+      "atlas_name": "atlas_1034"
+    }
+  ],
+  "1033": [
+    {
+      "id": 501324,
+      "name": "Thái Âm Chi Tinh",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1033,
+      "atlas_name": "atlas_1033"
+    },
+    {
+      "id": 501325,
+      "name": "Huyền Băng Phách",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1033,
+      "atlas_name": "atlas_1033"
+    }
+  ],
+  "1002": [
+    {
+      "id": 501401,
+      "name": "Trận Kỳ",
+      "type": 4,
+      "quality": 2,
+      "atlas_id": 1002,
+      "atlas_name": "atlas_1002"
+    },
+    {
+      "id": 501402,
+      "name": "Trận Bàn",
+      "type": 4,
+      "quality": 3,
+      "atlas_id": 1002,
+      "atlas_name": "atlas_1002"
+    }
+  ],
+  "1018": [
+    {
+      "id": 501403,
+      "name": "Đan Tẩy Tủy",
+      "type": 4,
+      "quality": 3,
+      "atlas_id": 1018,
+      "atlas_name": "atlas_1018"
+    },
+    {
+      "id": 501405,
+      "name": "Di Tu Giới Tử",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1018,
+      "atlas_name": "atlas_1018"
+    },
+    {
+      "id": 501406,
+      "name": "Hóa Thần Đan",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1018,
+      "atlas_name": "atlas_1018"
+    }
+  ],
+  "1025": [
+    {
+      "id": 501404,
+      "name": "Phượng Linh",
+      "type": 4,
+      "quality": 3,
+      "atlas_id": 1025,
+      "atlas_name": "atlas_1025"
+    }
+  ],
+  "1013": [
+    {
+      "id": 501408,
+      "name": "Xá Lợi Tử",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1013,
+      "atlas_name": "atlas_1013"
+    },
+    {
+      "id": 501409,
+      "name": "Thất Bảo Diệu Thụ",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1013,
+      "atlas_name": "atlas_1013"
+    }
+  ],
+  "1017": [
+    {
+      "id": 501410,
+      "name": "Định Phong Châu",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1017,
+      "atlas_name": "atlas_1017"
+    },
+    {
+      "id": 501411,
+      "name": "Tị Thủy Châu",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1017,
+      "atlas_name": "atlas_1017"
+    },
+    {
+      "id": 501412,
+      "name": "Tị Hỏa Châu",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1017,
+      "atlas_name": "atlas_1017"
+    }
+  ],
+  "0": [
+    {
+      "id": 501501,
+      "name": "Xương Thú",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501502,
+      "name": "Hộp rỗng",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501503,
+      "name": "Giày Thêu Hoa",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501504,
+      "name": "Trang khuyết sách cổ",
+      "type": 5,
+      "quality": 2,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501505,
+      "name": "Ngọc Bội Thất Lạc",
+      "type": 5,
+      "quality": 2,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501506,
+      "name": "Chuyện Lạ Bắc Hoang",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501507,
+      "name": "Bát vỡ",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501508,
+      "name": "Ống Trúc",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501509,
+      "name": "M. Vải Rách",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501510,
+      "name": "Cành Cây",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501511,
+      "name": "Ngư Cốt",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501512,
+      "name": "Bia Đá",
+      "type": 5,
+      "quality": 2,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501516,
+      "name": "Bùa Chú mất hiệu lực",
+      "type": 5,
+      "quality": 3,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501517,
+      "name": "Pháp Khí Tàn Khuyết",
+      "type": 5,
+      "quality": 3,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501518,
+      "name": "Phi Kiếm Đứt Gãy",
+      "type": 5,
+      "quality": 3,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501520,
+      "name": "Ngọc Giản",
+      "type": 5,
+      "quality": 3,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501521,
+      "name": "Thiên Thư Không Chữ",
+      "type": 5,
+      "quality": 3,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501526,
+      "name": "Hải Ngoại Đông Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501528,
+      "name": "Hải Ngoại Nam Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501535,
+      "name": "Hải Ngoại Tây Kinh",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501536,
+      "name": "Hải Ngoại Bắc Kinh",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501640,
+      "name": "Huyễn Thải Nghê Hoa",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501641,
+      "name": "Huyễn Thải Nghê Hoa",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501642,
+      "name": "Huyễn Thải Nghê Hoa",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501643,
+      "name": "Huyễn Thải Nghê Hoa",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501644,
+      "name": "Huyễn Thải Nghê Hoa",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501645,
+      "name": "Huyễn Thải Nghê Hoa",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501646,
+      "name": "Thần Mộc Dung",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501647,
+      "name": "Tiên Tử Bộ Dao",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501713,
+      "name": "Thiên Địa Linh Bích",
+      "type": 3,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501818,
+      "name": "Thùng Gỗ Vỡ Nát",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501819,
+      "name": "Nhật Ký Ố Vàng",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501820,
+      "name": "Gậy Gỗ",
+      "type": 5,
+      "quality": 1,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501821,
+      "name": "Đồng Xu Mòn",
+      "type": 5,
+      "quality": 2,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501822,
+      "name": "Lên Kế Hoạch",
+      "type": 5,
+      "quality": 2,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501823,
+      "name": "Thanh Y Vu Nữ",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501824,
+      "name": "Mai Rùa Thượng Cổ",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501825,
+      "name": "Đế Hưu",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501826,
+      "name": "Tuần Thảo",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 501915,
+      "name": "Mạn Đoài",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    },
+    {
+      "id": 5011018,
+      "name": "Huy Hiệu Ngọn Lửa",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 0,
+      "atlas_name": "Ẩn/đặc biệt (0)"
+    }
+  ],
+  "1044": [
+    {
+      "id": 501513,
+      "name": "Mặt Nạ Bạc",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1044,
+      "atlas_name": "atlas_1044"
+    },
+    {
+      "id": 501514,
+      "name": "Áo Choàng",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1044,
+      "atlas_name": "atlas_1044"
+    },
+    {
+      "id": 501515,
+      "name": "Gậy",
+      "type": 5,
+      "quality": 3,
+      "atlas_id": 1044,
+      "atlas_name": "atlas_1044"
+    }
+  ],
+  "1043": [
+    {
+      "id": 501519,
+      "name": "Giai Thoại Tu Tiên",
+      "type": 5,
+      "quality": 3,
+      "atlas_id": 1043,
+      "atlas_name": "atlas_1043"
+    },
+    {
+      "id": 501522,
+      "name": "Bí Tịch Phi Thăng",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1043,
+      "atlas_name": "atlas_1043"
+    }
+  ],
+  "1037": [
+    {
+      "id": 501523,
+      "name": "Nam Sơn Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1037,
+      "atlas_name": "atlas_1037"
+    },
+    {
+      "id": 501530,
+      "name": "Hải Nội Nam Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1037,
+      "atlas_name": "atlas_1037"
+    }
+  ],
+  "1038": [
+    {
+      "id": 501524,
+      "name": "Tây Sơn Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1038,
+      "atlas_name": "atlas_1038"
+    },
+    {
+      "id": 501539,
+      "name": "Hải Nội Tây Kinh",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1038,
+      "atlas_name": "atlas_1038"
+    }
+  ],
+  "1039": [
+    {
+      "id": 501525,
+      "name": "Trung Sơn Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1039,
+      "atlas_name": "atlas_1039"
+    }
+  ],
+  "1040": [
+    {
+      "id": 501527,
+      "name": "Đông Sơn Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1040,
+      "atlas_name": "atlas_1040"
+    },
+    {
+      "id": 501538,
+      "name": "Hải Nội Đông Kinh",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1040,
+      "atlas_name": "atlas_1040"
+    }
+  ],
+  "1041": [
+    {
+      "id": 501529,
+      "name": "Bắc Sơn Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1041,
+      "atlas_name": "atlas_1041"
+    },
+    {
+      "id": 501540,
+      "name": "Hải Nội Bắc Kinh",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1041,
+      "atlas_name": "atlas_1041"
+    }
+  ],
+  "1076": [
+    {
+      "id": 501531,
+      "name": "Đại Hoang Đông Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1076,
+      "atlas_name": "atlas_1076"
+    },
+    {
+      "id": 501532,
+      "name": "Đại Hoang Tây Kinh",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1076,
+      "atlas_name": "atlas_1076"
+    }
+  ],
+  "1084": [
+    {
+      "id": 501533,
+      "name": "Đại Hoang Nam Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1084,
+      "atlas_name": "atlas_1084"
+    },
+    {
+      "id": 501534,
+      "name": "Đại Hoang Bắc Kinh",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1084,
+      "atlas_name": "atlas_1084"
+    },
+    {
+      "id": 501916,
+      "name": "Đại Hoang Dị Văn",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1084,
+      "atlas_name": "atlas_1084"
+    }
+  ],
+  "1042": [
+    {
+      "id": 501537,
+      "name": "Hải Nội Kinh",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1042,
+      "atlas_name": "atlas_1042"
+    }
+  ],
+  "1046": [
+    {
+      "id": 501601,
+      "name": "Vân Mẫu",
+      "type": 1,
+      "quality": 1,
+      "atlas_id": 1046,
+      "atlas_name": "atlas_1046"
+    },
+    {
+      "id": 501602,
+      "name": "Xà Văn Tinh",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1046,
+      "atlas_name": "atlas_1046"
+    },
+    {
+      "id": 501620,
+      "name": "Đá Mắt Mèo",
+      "type": 1,
+      "quality": 3,
+      "atlas_id": 1046,
+      "atlas_name": "atlas_1046"
+    }
+  ],
+  "1056": [
+    {
+      "id": 501603,
+      "name": "Thạch Mặc",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1056,
+      "atlas_name": "atlas_1056"
+    },
+    {
+      "id": 501605,
+      "name": "Đá Thiên Lam",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1056,
+      "atlas_name": "atlas_1056"
+    },
+    {
+      "id": 501606,
+      "name": "Đá Khổng Tước",
+      "type": 1,
+      "quality": 3,
+      "atlas_id": 1056,
+      "atlas_name": "atlas_1056"
+    }
+  ],
+  "1047": [
+    {
+      "id": 501604,
+      "name": "Hùng Hoàng",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1047,
+      "atlas_name": "atlas_1047"
+    },
+    {
+      "id": 501619,
+      "name": "Mã Não",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1047,
+      "atlas_name": "atlas_1047"
+    },
+    {
+      "id": 501621,
+      "name": "Quặng Thạch Lựu",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1047,
+      "atlas_name": "atlas_1047"
+    }
+  ],
+  "1059": [
+    {
+      "id": 501607,
+      "name": "Kim Mao Thảo",
+      "type": 2,
+      "quality": 2,
+      "atlas_id": 1059,
+      "atlas_name": "atlas_1059"
+    },
+    {
+      "id": 501612,
+      "name": "Nguyệt Hoa",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1059,
+      "atlas_name": "atlas_1059"
+    },
+    {
+      "id": 501613,
+      "name": "Tinh Nguyên Tiên Giới",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1059,
+      "atlas_name": "atlas_1059"
+    }
+  ],
+  "1053": [
+    {
+      "id": 501608,
+      "name": "Cửu Tuệ Hòa",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1053,
+      "atlas_name": "atlas_1053"
+    },
+    {
+      "id": 501609,
+      "name": "Cành Hoa Đan Quế",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1053,
+      "atlas_name": "atlas_1053"
+    }
+  ],
+  "1058": [
+    {
+      "id": 501610,
+      "name": "Lộc Nhĩ",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1058,
+      "atlas_name": "atlas_1058"
+    },
+    {
+      "id": 501611,
+      "name": "Tinh Hoa Hoàng Hôn",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1058,
+      "atlas_name": "atlas_1058"
+    }
+  ],
+  "1052": [
+    {
+      "id": 501614,
+      "name": "Khăn Tay",
+      "type": 4,
+      "quality": 1,
+      "atlas_id": 1052,
+      "atlas_name": "atlas_1052"
+    },
+    {
+      "id": 501616,
+      "name": "Lò Sưởi Tay",
+      "type": 4,
+      "quality": 2,
+      "atlas_id": 1052,
+      "atlas_name": "atlas_1052"
+    }
+  ],
+  "1048": [
+    {
+      "id": 501615,
+      "name": "Gậy Gỗ Đào",
+      "type": 4,
+      "quality": 2,
+      "atlas_id": 1048,
+      "atlas_name": "atlas_1048"
+    },
+    {
+      "id": 501617,
+      "name": "Túi Gấm Linh Lan",
+      "type": 4,
+      "quality": 3,
+      "atlas_id": 1048,
+      "atlas_name": "atlas_1048"
+    },
+    {
+      "id": 501633,
+      "name": "Bảo Châu Sao",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1048,
+      "atlas_name": "atlas_1048"
+    }
+  ],
+  "1057": [
+    {
+      "id": 501618,
+      "name": "Mũ Nam",
+      "type": 4,
+      "quality": 3,
+      "atlas_id": 1057,
+      "atlas_name": "atlas_1057"
+    },
+    {
+      "id": 501631,
+      "name": "Dây Buộc Trán",
+      "type": 4,
+      "quality": 2,
+      "atlas_id": 1057,
+      "atlas_name": "atlas_1057"
+    }
+  ],
+  "1055": [
+    {
+      "id": 501622,
+      "name": "Huyền Hoàng Đằng",
+      "type": 2,
+      "quality": 2,
+      "atlas_id": 1055,
+      "atlas_name": "atlas_1055"
+    },
+    {
+      "id": 501626,
+      "name": "Dạ Quang Hoa",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 1055,
+      "atlas_name": "atlas_1055"
+    },
+    {
+      "id": 501627,
+      "name": "Sái Kim Mai Hoa",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1055,
+      "atlas_name": "atlas_1055"
+    }
+  ],
+  "1054": [
+    {
+      "id": 501623,
+      "name": "Nhân Sâm",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1054,
+      "atlas_name": "atlas_1054"
+    },
+    {
+      "id": 501624,
+      "name": "Yêu Thảo",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1054,
+      "atlas_name": "atlas_1054"
+    },
+    {
+      "id": 501625,
+      "name": "Tiên Thảo",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1054,
+      "atlas_name": "atlas_1054"
+    }
+  ],
+  "1050": [
+    {
+      "id": 501628,
+      "name": "Nước Long Tuyền",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1050,
+      "atlas_name": "atlas_1050"
+    },
+    {
+      "id": 501629,
+      "name": "Mặc Tiên Lộ",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1050,
+      "atlas_name": "atlas_1050"
+    },
+    {
+      "id": 501630,
+      "name": "Phượng Thải Châu",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1050,
+      "atlas_name": "atlas_1050"
+    }
+  ],
+  "1051": [
+    {
+      "id": 501632,
+      "name": "Khăn Quàng",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1051,
+      "atlas_name": "atlas_1051"
+    },
+    {
+      "id": 501634,
+      "name": "Lệnh Bài Thần Hỏa",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1051,
+      "atlas_name": "atlas_1051"
+    },
+    {
+      "id": 501635,
+      "name": "Vòng Tay Huyền Nữ",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1051,
+      "atlas_name": "atlas_1051"
+    }
+  ],
+  "1049": [
+    {
+      "id": 501636,
+      "name": "Hộp Báu Ngọc Linh",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1049,
+      "atlas_name": "atlas_1049"
+    }
+  ],
+  "1045": [
+    {
+      "id": 501637,
+      "name": "Xẻng Xúc Hổ",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1045,
+      "atlas_name": "atlas_1045"
+    },
+    {
+      "id": 501638,
+      "name": "Nón Tre",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1045,
+      "atlas_name": "atlas_1045"
+    },
+    {
+      "id": 501639,
+      "name": "Tàng Bảo Đồ",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1045,
+      "atlas_name": "atlas_1045"
+    }
+  ],
+  "1063": [
+    {
+      "id": 501701,
+      "name": "Nguyệt Ảnh Thạch",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1063,
+      "atlas_name": "atlas_1063"
+    },
+    {
+      "id": 501702,
+      "name": "Đá Thấu Huy",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1063,
+      "atlas_name": "atlas_1063"
+    }
+  ],
+  "1064": [
+    {
+      "id": 501703,
+      "name": "Đá Quý Thiên Khung",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1064,
+      "atlas_name": "atlas_1064"
+    }
+  ],
+  "1060": [
+    {
+      "id": 501704,
+      "name": "Tử Điệp Lan",
+      "type": 2,
+      "quality": 2,
+      "atlas_id": 1060,
+      "atlas_name": "atlas_1060"
+    },
+    {
+      "id": 501705,
+      "name": "Dây Leo Linh Lan",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1060,
+      "atlas_name": "atlas_1060"
+    },
+    {
+      "id": 501706,
+      "name": "Khắc Gỗ Thái Cổ",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1060,
+      "atlas_name": "atlas_1060"
+    }
+  ],
+  "1061": [
+    {
+      "id": 501707,
+      "name": "Tinh Hoa Thần Hy",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1061,
+      "atlas_name": "atlas_1061"
+    },
+    {
+      "id": 501708,
+      "name": "Lâm Lang Bảo Diệp",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1061,
+      "atlas_name": "atlas_1061"
+    },
+    {
+      "id": 501710,
+      "name": "Lục Mang Băng Trụy",
+      "type": 3,
+      "quality": 5,
+      "atlas_id": 1061,
+      "atlas_name": "atlas_1061"
+    }
+  ],
+  "1062": [
+    {
+      "id": 501709,
+      "name": "Vỏ Sò Tinh Hải",
+      "type": 3,
+      "quality": 5,
+      "atlas_id": 1062,
+      "atlas_name": "atlas_1062"
+    },
+    {
+      "id": 501711,
+      "name": "Bình Đồng",
+      "type": 4,
+      "quality": 3,
+      "atlas_id": 1062,
+      "atlas_name": "atlas_1062"
+    },
+    {
+      "id": 501712,
+      "name": "Ngọc Bội Xanh Biếc",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1062,
+      "atlas_name": "atlas_1062"
+    }
+  ],
+  "1072": [
+    {
+      "id": 501801,
+      "name": "Tuyền Côi",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1072,
+      "atlas_name": "atlas_1072"
+    }
+  ],
+  "1074": [
+    {
+      "id": 501802,
+      "name": "Chu Sa",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1074,
+      "atlas_name": "atlas_1074"
+    },
+    {
+      "id": 501803,
+      "name": "Bích Dao",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1074,
+      "atlas_name": "atlas_1074"
+    }
+  ],
+  "1075": [
+    {
+      "id": 501804,
+      "name": "Ngọc đẹp",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1075,
+      "atlas_name": "atlas_1075"
+    }
+  ],
+  "1071": [
+    {
+      "id": 501805,
+      "name": "Vu Ngọc",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1071,
+      "atlas_name": "atlas_1071"
+    },
+    {
+      "id": 501816,
+      "name": "Thần Ngọc Diện",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1071,
+      "atlas_name": "atlas_1071"
+    }
+  ],
+  "1067": [
+    {
+      "id": 501806,
+      "name": "Mẫu Đơn",
+      "type": 2,
+      "quality": 1,
+      "atlas_id": 1067,
+      "atlas_name": "atlas_1067"
+    },
+    {
+      "id": 501807,
+      "name": "Thược Dược",
+      "type": 2,
+      "quality": 2,
+      "atlas_id": 1067,
+      "atlas_name": "atlas_1067"
+    },
+    {
+      "id": 501809,
+      "name": "Lan Huệ",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1067,
+      "atlas_name": "atlas_1067"
+    }
+  ],
+  "1068": [
+    {
+      "id": 501808,
+      "name": "Bạch Liễu",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1068,
+      "atlas_name": "atlas_1068"
+    },
+    {
+      "id": 501810,
+      "name": "Chu Mộc",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1068,
+      "atlas_name": "atlas_1068"
+    }
+  ],
+  "1069": [
+    {
+      "id": 501811,
+      "name": "Tùng Cự Các",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 1069,
+      "atlas_name": "atlas_1069"
+    },
+    {
+      "id": 501812,
+      "name": "Diêm Tuyền",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1069,
+      "atlas_name": "atlas_1069"
+    }
+  ],
+  "1073": [
+    {
+      "id": 501813,
+      "name": "Nước nóng lạnh",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1073,
+      "atlas_name": "atlas_1073"
+    },
+    {
+      "id": 501814,
+      "name": "Lông Vũ Cuồng Điểu",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1073,
+      "atlas_name": "atlas_1073"
+    },
+    {
+      "id": 501815,
+      "name": "Trứng Phượng",
+      "type": 3,
+      "quality": 5,
+      "atlas_id": 1073,
+      "atlas_name": "atlas_1073"
+    }
+  ],
+  "1070": [
+    {
+      "id": 501817,
+      "name": "Thuốc Bất Tử",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1070,
+      "atlas_name": "atlas_1070"
+    }
+  ],
+  "1077": [
+    {
+      "id": 501901,
+      "name": "Tích Thạch",
+      "type": 1,
+      "quality": 1,
+      "atlas_id": 1077,
+      "atlas_name": "atlas_1077"
+    },
+    {
+      "id": 501902,
+      "name": "Bạch Đan",
+      "type": 1,
+      "quality": 3,
+      "atlas_id": 1077,
+      "atlas_name": "atlas_1077"
+    },
+    {
+      "id": 501903,
+      "name": "Thanh Đan",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1077,
+      "atlas_name": "atlas_1077"
+    }
+  ],
+  "1082": [
+    {
+      "id": 501904,
+      "name": "Đá Chúc Dung",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1082,
+      "atlas_name": "atlas_1082"
+    }
+  ],
+  "1078": [
+    {
+      "id": 501905,
+      "name": "Tương Trúc",
+      "type": 2,
+      "quality": 2,
+      "atlas_id": 1078,
+      "atlas_name": "atlas_1078"
+    },
+    {
+      "id": 501906,
+      "name": "Nhược Mộc",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1078,
+      "atlas_name": "atlas_1078"
+    },
+    {
+      "id": 501907,
+      "name": "Bàn Mộc",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1078,
+      "atlas_name": "atlas_1078"
+    }
+  ],
+  "1081": [
+    {
+      "id": 501908,
+      "name": "Giải Vũ",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1081,
+      "atlas_name": "atlas_1081"
+    },
+    {
+      "id": 501912,
+      "name": "Hàm Chúc Hỏa Tinh",
+      "type": 3,
+      "quality": 5,
+      "atlas_id": 1081,
+      "atlas_name": "atlas_1081"
+    }
+  ],
+  "1080": [
+    {
+      "id": 501909,
+      "name": "Nước Vong Xuyên",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1080,
+      "atlas_name": "atlas_1080"
+    },
+    {
+      "id": 501910,
+      "name": "Nguồn Nhược Thủy",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1080,
+      "atlas_name": "atlas_1080"
+    },
+    {
+      "id": 501911,
+      "name": "U Minh Quỷ Hỏa",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1080,
+      "atlas_name": "atlas_1080"
+    }
+  ],
+  "1079": [
+    {
+      "id": 501913,
+      "name": "Hoa Tai Xích Xà",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1079,
+      "atlas_name": "atlas_1079"
+    },
+    {
+      "id": 501914,
+      "name": "Hoa Tai Thanh Xà",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1079,
+      "atlas_name": "atlas_1079"
+    }
+  ],
+  "1086": [
+    {
+      "id": 5011001,
+      "name": "Sỏi Hắc Nham",
+      "type": 1,
+      "quality": 1,
+      "atlas_id": 1086,
+      "atlas_name": "atlas_1086"
+    },
+    {
+      "id": 5011004,
+      "name": "Sỏi Hoàng Trạch",
+      "type": 1,
+      "quality": 4,
+      "atlas_id": 1086,
+      "atlas_name": "atlas_1086"
+    }
+  ],
+  "1090": [
+    {
+      "id": 5011002,
+      "name": "Sỏi Ánh Lục",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1090,
+      "atlas_name": "atlas_1090"
+    },
+    {
+      "id": 5011003,
+      "name": "Sỏi Lam Mộng",
+      "type": 1,
+      "quality": 2,
+      "atlas_id": 1090,
+      "atlas_name": "atlas_1090"
+    },
+    {
+      "id": 5011005,
+      "name": "Sỏi Côn Lôn Hư",
+      "type": 1,
+      "quality": 5,
+      "atlas_id": 1090,
+      "atlas_name": "atlas_1090"
+    }
+  ],
+  "1091": [
+    {
+      "id": 5011006,
+      "name": "Bạch Nam",
+      "type": 2,
+      "quality": 2,
+      "atlas_id": 1091,
+      "atlas_name": "atlas_1091"
+    },
+    {
+      "id": 5011008,
+      "name": "Tử Đinh",
+      "type": 2,
+      "quality": 4,
+      "atlas_id": 1091,
+      "atlas_name": "atlas_1091"
+    }
+  ],
+  "1087": [
+    {
+      "id": 5011007,
+      "name": "Đại Thanh",
+      "type": 2,
+      "quality": 3,
+      "atlas_id": 1087,
+      "atlas_name": "atlas_1087"
+    },
+    {
+      "id": 5011009,
+      "name": "Hoa Tam Châu",
+      "type": 2,
+      "quality": 5,
+      "atlas_id": 1087,
+      "atlas_name": "atlas_1087"
+    }
+  ],
+  "1085": [
+    {
+      "id": 5011010,
+      "name": "Thuần Bạch Linh Hoa",
+      "type": 3,
+      "quality": 1,
+      "atlas_id": 1085,
+      "atlas_name": "atlas_1085"
+    },
+    {
+      "id": 5011011,
+      "name": "Thanh Thúy Linh Hoa",
+      "type": 3,
+      "quality": 2,
+      "atlas_id": 1085,
+      "atlas_name": "atlas_1085"
+    },
+    {
+      "id": 5011012,
+      "name": "Tinh Hoa Nam Hải",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1085,
+      "atlas_name": "atlas_1085"
+    }
+  ],
+  "1089": [
+    {
+      "id": 5011013,
+      "name": "Tinh Hoa Đế Tử",
+      "type": 3,
+      "quality": 3,
+      "atlas_id": 1089,
+      "atlas_name": "atlas_1089"
+    },
+    {
+      "id": 5011014,
+      "name": "Tinh Túy Đan Phượng",
+      "type": 3,
+      "quality": 4,
+      "atlas_id": 1089,
+      "atlas_name": "atlas_1089"
+    }
+  ],
+  "1088": [
+    {
+      "id": 5011015,
+      "name": "Chén Bạch Quang",
+      "type": 4,
+      "quality": 3,
+      "atlas_id": 1088,
+      "atlas_name": "atlas_1088"
+    },
+    {
+      "id": 5011016,
+      "name": "Ấm Bạch Quang",
+      "type": 4,
+      "quality": 4,
+      "atlas_id": 1088,
+      "atlas_name": "atlas_1088"
+    }
+  ],
+  "1092": [
+    {
+      "id": 5011017,
+      "name": "Quán Nhật Cung",
+      "type": 4,
+      "quality": 5,
+      "atlas_id": 1092,
+      "atlas_name": "atlas_1092"
+    }
+  ],
+  "1093": [
+    {
+      "id": 5011019,
+      "name": "Mũ Giáp",
+      "type": 5,
+      "quality": 4,
+      "atlas_id": 1093,
+      "atlas_name": "atlas_1093"
+    },
+    {
+      "id": 5011020,
+      "name": "Đồ Đằng Thiên Ngô",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1093,
+      "atlas_name": "atlas_1093"
+    },
+    {
+      "id": 5011021,
+      "name": "Áo Bách Lân",
+      "type": 5,
+      "quality": 5,
+      "atlas_id": 1093,
+      "atlas_name": "atlas_1093"
+    }
+  ]
+}

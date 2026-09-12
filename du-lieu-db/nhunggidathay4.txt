@@ -1,0 +1,2543 @@
+sg.dbmgr.getDB('treasureHunt_treasureAtlas')
+
+{
+    "1001": {
+        "id": 1001,
+        "name": "Vật Trắng Vàng",
+        "type": 2,
+        "sort": 1,
+        "quality": 2,
+        "group": [
+            501101,
+            501111,
+            501102
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                100
+            ],
+            [
+                "dodge",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "黄白之物",
+        "__trans__": true
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Thiên Sư Diễn Pháp",
+        "type": 2,
+        "sort": 2,
+        "quality": 3,
+        "group": [
+            501401,
+            501402
+        ],
+        "contract": [
+            [
+                "back_attack",
+                100
+            ],
+            [
+                "ignore_dodge",
+                100
+            ],
+            [
+                "ignore_back_attack",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "天师演法",
+        "__trans__": true
+    },
+    "1003": {
+        "id": 1003,
+        "name": "Trong suốt long lanh",
+        "type": 2,
+        "sort": 3,
+        "quality": 2,
+        "group": [
+            501301,
+            501302,
+            501303
+        ],
+        "contract": [
+            [
+                "ignore_crit",
+                100
+            ],
+            [
+                "ignore_more_attack",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "晶莹剔透",
+        "__trans__": true
+    },
+    "1004": {
+        "id": 1004,
+        "name": "Ta là một ngọn cỏ",
+        "type": 2,
+        "sort": 4,
+        "quality": 2,
+        "group": [
+            501201,
+            501202,
+            501203
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                100
+            ],
+            [
+                "crit",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "我是一颗草",
+        "__trans__": true
+    },
+    "1005": {
+        "id": 1005,
+        "name": "Rèn sắt khi còn nóng",
+        "type": 2,
+        "sort": 5,
+        "quality": 4,
+        "group": [
+            501104,
+            501207,
+            501114
+        ],
+        "contract": [
+            [
+                "back_attack",
+                100
+            ],
+            [
+                "ignore_crit",
+                100
+            ],
+            [
+                "ignore_more_attack",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "打铁要趁热",
+        "__trans__": true
+    },
+    "1006": {
+        "id": 1006,
+        "name": "Hiếm thấy thật!",
+        "type": 2,
+        "sort": 6,
+        "quality": 5,
+        "group": [
+            501220
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "难得一见！",
+        "__trans__": true
+    },
+    "1007": {
+        "id": 1007,
+        "name": "Cháy lên nào!",
+        "type": 2,
+        "sort": 7,
+        "quality": 5,
+        "group": [
+            501304,
+            501314,
+            501329
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                100
+            ],
+            [
+                "attack_per",
+                100
+            ],
+            [
+                "defense_per",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "燃烧吧！",
+        "__trans__": true
+    },
+    "1008": {
+        "id": 1008,
+        "name": "Hình Thái Của Đá",
+        "type": 2,
+        "sort": 8,
+        "quality": 2,
+        "group": [
+            501103,
+            501105,
+            501106
+        ],
+        "contract": [
+            [
+                "dizziness",
+                100
+            ],
+            [
+                "ignore_crit",
+                100
+            ],
+            [
+                "ignore_dizziness",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "石之形态",
+        "__trans__": true
+    },
+    "1009": {
+        "id": 1009,
+        "name": "Kỳ Hoa Dị Thảo",
+        "type": 2,
+        "sort": 9,
+        "quality": 5,
+        "group": [
+            501208,
+            501221
+        ],
+        "contract": [
+            [
+                "crit",
+                100
+            ],
+            [
+                "dizziness",
+                100
+            ],
+            [
+                "ignore_more_attack",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "奇花异草",
+        "__trans__": true
+    },
+    "1010": {
+        "id": 1010,
+        "name": "Sóng Dữ Kim Loại",
+        "type": 3,
+        "sort": 1,
+        "quality": 3,
+        "group": [
+            501315,
+            501317
+        ],
+        "contract": [
+            [
+                "ignore_dodge",
+                100
+            ],
+            [
+                "ignore_back_attack",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "金属怒潮",
+        "__trans__": true
+    },
+    "1011": {
+        "id": 1011,
+        "name": "Ngũ Hành Đầy Đủ",
+        "type": 3,
+        "sort": 2,
+        "quality": 4,
+        "group": [
+            501210,
+            501115
+        ],
+        "contract": [
+            [
+                "more_attack",
+                100
+            ],
+            [
+                "dodge",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "五行兼备",
+        "__trans__": true
+    },
+    "1012": {
+        "id": 1012,
+        "name": "Khởi Tử Hồi Sinh",
+        "type": 3,
+        "sort": 3,
+        "quality": 4,
+        "group": [
+            501211,
+            501116
+        ],
+        "contract": [
+            [
+                "back_attack",
+                100
+            ],
+            [
+                "dodge",
+                100
+            ],
+            [
+                "ignore_dodge",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "起死回生",
+        "__trans__": true
+    },
+    "1013": {
+        "id": 1013,
+        "name": "Kho Báu Phật Môn",
+        "type": 3,
+        "sort": 4,
+        "quality": 5,
+        "group": [
+            501408,
+            501409
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                300
+            ],
+            [
+                "attack_per",
+                300
+            ],
+            [
+                "defense_per",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "佛门重宝",
+        "__trans__": true
+    },
+    "1014": {
+        "id": 1014,
+        "name": "Thiên Ngoại Lai Khách",
+        "type": 3,
+        "sort": 5,
+        "quality": 5,
+        "group": [
+            501118
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                100
+            ],
+            [
+                "more_attack",
+                100
+            ],
+            [
+                "ignore_suck_hp",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "天外来客",
+        "__trans__": true
+    },
+    "1015": {
+        "id": 1015,
+        "name": "Tinh Hoa Dương Khí",
+        "type": 3,
+        "sort": 6,
+        "quality": 3,
+        "group": [
+            501209,
+            501316
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                100
+            ],
+            [
+                "ignore_dodge",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "阳气精华",
+        "__trans__": true
+    },
+    "1016": {
+        "id": 1016,
+        "name": "Thiên Địa Âm Dương",
+        "type": 4,
+        "sort": 1,
+        "quality": 4,
+        "group": [
+            501319,
+            501320,
+            501206
+        ],
+        "contract": [
+            [
+                "dizziness",
+                100
+            ],
+            [
+                "ignore_back_attack",
+                100
+            ],
+            [
+                "ignore_more_attack",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "天地阴阳",
+        "__trans__": true
+    },
+    "1017": {
+        "id": 1017,
+        "name": "Chí Bảo Ngũ Hành",
+        "type": 4,
+        "sort": 2,
+        "quality": 5,
+        "group": [
+            501410,
+            501411,
+            501412
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                500
+            ],
+            [
+                "attack_per",
+                500
+            ],
+            [
+                "defense_per",
+                500
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "五行至宝",
+        "__trans__": true
+    },
+    "1018": {
+        "id": 1018,
+        "name": "Thủ Đoạn Tiên Nhân",
+        "type": 4,
+        "sort": 3,
+        "quality": 4,
+        "group": [
+            501403,
+            501406,
+            501405
+        ],
+        "contract": [
+            [
+                "more_attack",
+                100
+            ],
+            [
+                "ignore_crit",
+                100
+            ],
+            [
+                "ignore_dizziness",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "仙人手段",
+        "__trans__": true
+    },
+    "1019": {
+        "id": 1019,
+        "name": "Ngũ Linh Thạch-1",
+        "type": 4,
+        "sort": 4,
+        "quality": 2,
+        "group": [
+            501305,
+            501306,
+            501307
+        ],
+        "contract": [
+            [
+                "back_attack",
+                100
+            ],
+            [
+                "crit",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "五灵石·其一",
+        "__trans__": true
+    },
+    "1020": {
+        "id": 1020,
+        "name": "Ngũ Linh Thạch-2",
+        "type": 4,
+        "sort": 5,
+        "quality": 2,
+        "group": [
+            501308,
+            501309
+        ],
+        "contract": [
+            [
+                "more_attack",
+                100
+            ],
+            [
+                "ignore_suck_hp",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "五灵石·其二",
+        "__trans__": true
+    },
+    "1021": {
+        "id": 1021,
+        "name": "Hậu Đức Tải Vật",
+        "type": 4,
+        "sort": 6,
+        "quality": 5,
+        "group": [
+            501108,
+            501117,
+            501119
+        ],
+        "contract": [
+            [
+                "crit",
+                100
+            ],
+            [
+                "dizziness",
+                100
+            ],
+            [
+                "ignore_back_attack",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "厚德载物",
+        "__trans__": true
+    },
+    "1022": {
+        "id": 1022,
+        "name": "Tạo Vật Hoàng Tuyền",
+        "type": 4,
+        "sort": 7,
+        "quality": 4,
+        "group": [
+            501310,
+            501318,
+            501326
+        ],
+        "contract": [
+            [
+                "dodge",
+                100
+            ],
+            [
+                "ignore_dizziness",
+                100
+            ],
+            [
+                "ignore_suck_hp",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "黄泉造物",
+        "__trans__": true
+    },
+    "1023": {
+        "id": 1023,
+        "name": "Thần Thực Tiên Thảo",
+        "type": 4,
+        "sort": 8,
+        "quality": 4,
+        "group": [
+            501212,
+            501215,
+            501216
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "神植仙草",
+        "__trans__": true
+    },
+    "1024": {
+        "id": 1024,
+        "name": "Khéo Léo Tuyệt Vời",
+        "type": 4,
+        "sort": 9,
+        "quality": 5,
+        "group": [
+            501120
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "巧夺天工",
+        "__trans__": true
+    },
+    "1025": {
+        "id": 1025,
+        "name": "Phượng Cầu Hoàng",
+        "type": 5,
+        "sort": 1,
+        "quality": 3,
+        "group": [
+            501404
+        ],
+        "contract": [
+            [
+                "dodge",
+                100
+            ],
+            [
+                "dizziness",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "凤求凰",
+        "__trans__": true
+    },
+    "1026": {
+        "id": 1026,
+        "name": "Trang Sức",
+        "type": 5,
+        "sort": 2,
+        "quality": 3,
+        "group": [
+            501109,
+            501112,
+            501113
+        ],
+        "contract": [
+            [
+                "back_attack",
+                200
+            ],
+            [
+                "ignore_back_attack",
+                300
+            ],
+            [
+                "ignore_more_attack",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "装饰品",
+        "__trans__": true
+    },
+    "1027": {
+        "id": 1027,
+        "name": "Như Mộng Như Ảo",
+        "type": 5,
+        "sort": 3,
+        "quality": 3,
+        "group": [
+            501311,
+            501321
+        ],
+        "contract": [
+            [
+                "dodge",
+                100
+            ],
+            [
+                "crit",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "如梦似幻",
+        "__trans__": true
+    },
+    "1028": {
+        "id": 1028,
+        "name": "Thuốc Vào Bệnh Khỏi",
+        "type": 5,
+        "sort": 4,
+        "quality": 4,
+        "group": [
+            501204,
+            501218
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                200
+            ],
+            [
+                "ignore_dizziness",
+                100
+            ],
+            [
+                "ignore_suck_hp",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "药到病除",
+        "__trans__": true
+    },
+    "1029": {
+        "id": 1029,
+        "name": "Sinh Khí Bừng Bừng",
+        "type": 5,
+        "sort": 5,
+        "quality": 4,
+        "group": [
+            501322,
+            501219
+        ],
+        "contract": [
+            [
+                "more_attack",
+                200
+            ],
+            [
+                "ignore_dodge",
+                200
+            ],
+            [
+                "ignore_crit",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "生机勃勃",
+        "__trans__": true
+    },
+    "1030": {
+        "id": 1030,
+        "name": "Sức mạnh trong truyền thuyết",
+        "type": 5,
+        "sort": 6,
+        "quality": 5,
+        "group": [
+            501222,
+            501413
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "传说中的力量",
+        "__trans__": true
+    },
+    "1031": {
+        "id": 1031,
+        "name": "Ngạo Xuất Phong Sương",
+        "type": 6,
+        "sort": 1,
+        "quality": 3,
+        "group": [
+            501205,
+            501213
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                200
+            ],
+            [
+                "ignore_dodge",
+                200
+            ],
+            [
+                "ignore_suck_hp",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "傲出风霜",
+        "__trans__": true
+    },
+    "1032": {
+        "id": 1032,
+        "name": "Di Sản Long Tộc",
+        "type": 6,
+        "sort": 2,
+        "quality": 5,
+        "group": [
+            501312,
+            501407,
+            501414
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "龙族遗泽",
+        "__trans__": true
+    },
+    "1033": {
+        "id": 1033,
+        "name": "Sức Mạnh Thái Âm",
+        "type": 6,
+        "sort": 3,
+        "quality": 3,
+        "group": [
+            501325,
+            501324
+        ],
+        "contract": [
+            [
+                "back_attack",
+                200
+            ],
+            [
+                "dizziness",
+                200
+            ],
+            [
+                "ignore_back_attack",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "太阴之力",
+        "__trans__": true
+    },
+    "1034": {
+        "id": 1034,
+        "name": "Nước Vô Định Hình",
+        "type": 6,
+        "sort": 4,
+        "quality": 4,
+        "group": [
+            501323,
+            501327,
+            501328
+        ],
+        "contract": [
+            [
+                "more_attack",
+                200
+            ],
+            [
+                "crit",
+                200
+            ],
+            [
+                "ignore_crit",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "水无常形",
+        "__trans__": true
+    },
+    "1035": {
+        "id": 1035,
+        "name": "Nguyên liệu rèn Thần Binh",
+        "type": 6,
+        "sort": 5,
+        "quality": 5,
+        "group": [
+            501121
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "神兵锻材",
+        "__trans__": true
+    },
+    "1036": {
+        "id": 1036,
+        "name": "Nhà ở phải có",
+        "type": 6,
+        "sort": 6,
+        "quality": 3,
+        "group": [
+            501313,
+            501214
+        ],
+        "contract": [
+            [
+                "dodge",
+                200
+            ],
+            [
+                "ignore_dizziness",
+                300
+            ],
+            [
+                "ignore_more_attack",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "居家必备",
+        "__trans__": true
+    },
+    "1037": {
+        "id": 1037,
+        "name": "Nam Sơn Nam",
+        "type": 1,
+        "sort": 1,
+        "quality": 4,
+        "group": [
+            501523,
+            501530
+        ],
+        "contract": [
+            [
+                "ignore_crit",
+                200
+            ],
+            [
+                "ignore_dizziness",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "南山南",
+        "__trans__": true
+    },
+    "1038": {
+        "id": 1038,
+        "name": "Tây Sơn Tây",
+        "type": 1,
+        "sort": 2,
+        "quality": 4,
+        "group": [
+            501524,
+            501539
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                100
+            ],
+            [
+                "attack_per",
+                100
+            ],
+            [
+                "defense_per",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "西山西",
+        "__trans__": true
+    },
+    "1039": {
+        "id": 1039,
+        "name": "Chuyện Lạ Trung Thổ",
+        "type": 1,
+        "sort": 3,
+        "quality": 4,
+        "group": [
+            501525
+        ],
+        "contract": [
+            [
+                "ignore_back_attack",
+                200
+            ],
+            [
+                "ignore_suck_hp",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "中土奇闻",
+        "__trans__": true
+    },
+    "1040": {
+        "id": 1040,
+        "name": "Đông Sơn Đông",
+        "type": 1,
+        "sort": 4,
+        "quality": 4,
+        "group": [
+            501527,
+            501538
+        ],
+        "contract": [
+            [
+                "ignore_dodge",
+                200
+            ],
+            [
+                "ignore_more_attack",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "东山东",
+        "__trans__": true
+    },
+    "1041": {
+        "id": 1041,
+        "name": "Bắc Sơn Bắc",
+        "type": 1,
+        "sort": 5,
+        "quality": 4,
+        "group": [
+            501529,
+            501540
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "北山北",
+        "__trans__": true
+    },
+    "1042": {
+        "id": 1042,
+        "name": "Chuyện Lạ Trong Biển",
+        "type": 1,
+        "sort": 6,
+        "quality": 5,
+        "group": [
+            501537
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "海内奇闻",
+        "__trans__": true
+    },
+    "1043": {
+        "id": 1043,
+        "name": "Về chuyện tu tiên",
+        "type": 1,
+        "sort": 7,
+        "quality": 4,
+        "group": [
+            501519,
+            501522
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                300
+            ],
+            [
+                "attack_per",
+                300
+            ],
+            [
+                "defense_per",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "关于修仙这件事",
+        "__trans__": true
+    },
+    "1044": {
+        "id": 1044,
+        "name": "Người Thần Bí",
+        "type": 1,
+        "sort": 8,
+        "quality": 5,
+        "group": [
+            501515,
+            501514,
+            501513
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                300
+            ],
+            [
+                "attack_per",
+                300
+            ],
+            [
+                "defense_per",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "神秘人",
+        "__trans__": true
+    },
+    "1045": {
+        "id": 1045,
+        "name": "Đạo Sĩ Tìm Bảo",
+        "type": 1,
+        "sort": 9,
+        "quality": 5,
+        "group": [
+            501637,
+            501638,
+            501639
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "寻宝道士",
+        "__trans__": true
+    },
+    "1046": {
+        "id": 1046,
+        "name": "Đường Vân Sắc Nét",
+        "type": 7,
+        "sort": 1,
+        "quality": 3,
+        "group": [
+            501601,
+            501602,
+            501620
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                100
+            ],
+            [
+                "ignore_back_attack",
+                100
+            ],
+            [
+                "ignore_more_attack",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "纹理清晰",
+        "__trans__": true
+    },
+    "1047": {
+        "id": 1047,
+        "name": "Hưng Thịnh Rực Rỡ",
+        "type": 7,
+        "sort": 2,
+        "quality": 4,
+        "group": [
+            501604,
+            501619,
+            501621
+        ],
+        "contract": [
+            [
+                "dodge",
+                200
+            ],
+            [
+                "crit",
+                200
+            ],
+            [
+                "ignore_dizziness",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "红红火火",
+        "__trans__": true
+    },
+    "1048": {
+        "id": 1048,
+        "name": "Bảo bối của Lão Thái Quân",
+        "type": 7,
+        "sort": 3,
+        "quality": 5,
+        "group": [
+            501615,
+            501617,
+            501633
+        ],
+        "contract": [
+            [
+                "dizziness",
+                200
+            ],
+            [
+                "ignore_back_attack",
+                300
+            ],
+            [
+                "ignore_suck_hp",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "老太君的宝贝",
+        "__trans__": true
+    },
+    "1049": {
+        "id": 1049,
+        "name": "Đoán xem có cái gì?",
+        "type": 7,
+        "sort": 4,
+        "quality": 5,
+        "group": [
+            501636
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "猜猜有什么？",
+        "__trans__": true
+    },
+    "1050": {
+        "id": 1050,
+        "name": "Thần Tuyền Tiên Lộ",
+        "type": 7,
+        "sort": 5,
+        "quality": 4,
+        "group": [
+            501628,
+            501629,
+            501630
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                200
+            ],
+            [
+                "crit",
+                200
+            ],
+            [
+                "ignore_dizziness",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "神泉仙露",
+        "__trans__": true
+    },
+    "1051": {
+        "id": 1051,
+        "name": "Phong Tư Huyền Nữ",
+        "type": 7,
+        "sort": 6,
+        "quality": 4,
+        "group": [
+            501632,
+            501634,
+            501635
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "玄女风姿",
+        "__trans__": true
+    },
+    "1052": {
+        "id": 1052,
+        "name": "Vật Trong Khuê Phòng",
+        "type": 7,
+        "sort": 7,
+        "quality": 2,
+        "group": [
+            501614,
+            501616
+        ],
+        "contract": [
+            [
+                "back_attack",
+                100
+            ],
+            [
+                "ignore_more_attack",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "闺中之物",
+        "__trans__": true
+    },
+    "1053": {
+        "id": 1053,
+        "name": "Niềm Vui Thu Hoạch",
+        "type": 7,
+        "sort": 8,
+        "quality": 4,
+        "group": [
+            501608,
+            501609
+        ],
+        "contract": [
+            [
+                "dodge",
+                200
+            ],
+            [
+                "ignore_crit",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "丰收的喜悦",
+        "__trans__": true
+    },
+    "1054": {
+        "id": 1054,
+        "name": "Ai thành tinh?",
+        "type": 7,
+        "sort": 9,
+        "quality": 3,
+        "group": [
+            501623,
+            501624,
+            501625
+        ],
+        "contract": [
+            [
+                "back_attack",
+                300
+            ],
+            [
+                "dizziness",
+                200
+            ],
+            [
+                "ignore_crit",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "谁成精了？",
+        "__trans__": true
+    },
+    "1055": {
+        "id": 1055,
+        "name": "Kỳ Hoa Ngọc Thảo",
+        "type": 7,
+        "sort": 10,
+        "quality": 5,
+        "group": [
+            501622,
+            501627,
+            501626
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                100
+            ],
+            [
+                "more_attack",
+                400
+            ],
+            [
+                "ignore_dodge",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "琪花瑶草",
+        "__trans__": true
+    },
+    "1056": {
+        "id": 1056,
+        "name": "Lam Điền Sinh Ngọc",
+        "type": 8,
+        "sort": 1,
+        "quality": 3,
+        "group": [
+            501603,
+            501605,
+            501606
+        ],
+        "contract": [
+            [
+                "back_attack",
+                200
+            ],
+            [
+                "dodge",
+                200
+            ],
+            [
+                "ignore_back_attack",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "蓝田生玉",
+        "__trans__": true
+    },
+    "1057": {
+        "id": 1057,
+        "name": "Trang Phục Nam",
+        "type": 8,
+        "sort": 2,
+        "quality": 2,
+        "group": [
+            501631,
+            501618
+        ],
+        "contract": [
+            [
+                "dizziness",
+                100
+            ],
+            [
+                "crit",
+                100
+            ],
+            [
+                "ignore_crit",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "男子装束",
+        "__trans__": true
+    },
+    "1058": {
+        "id": 1058,
+        "name": "Vàng rực",
+        "type": 8,
+        "sort": 3,
+        "quality": 3,
+        "group": [
+            501610,
+            501611
+        ],
+        "contract": [
+            [
+                "dodge",
+                200
+            ],
+            [
+                "suck_hp",
+                200
+            ],
+            [
+                "ignore_dizziness",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "黄灿灿",
+        "__trans__": true
+    },
+    "1059": {
+        "id": 1059,
+        "name": "Tinh Hoa Tự Nhiên",
+        "type": 8,
+        "sort": 4,
+        "quality": 4,
+        "group": [
+            501607,
+            501612,
+            501613
+        ],
+        "contract": [
+            [
+                "more_attack",
+                200
+            ],
+            [
+                "crit",
+                300
+            ],
+            [
+                "ignore_suck_hp",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "自然精华",
+        "__trans__": true
+    },
+    "1060": {
+        "id": 1060,
+        "name": "Tươi Tốt",
+        "type": 8,
+        "sort": 5,
+        "quality": 3,
+        "group": [
+            501704,
+            501705,
+            501706
+        ],
+        "contract": [
+            [
+                "back_attack",
+                200
+            ],
+            [
+                "ignore_dizziness",
+                300
+            ],
+            [
+                "ignore_back_attack",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "郁郁葱葱",
+        "__trans__": true
+    },
+    "1061": {
+        "id": 1061,
+        "name": "Rực Rỡ Sáng Chói",
+        "type": 8,
+        "sort": 6,
+        "quality": 5,
+        "group": [
+            501707,
+            501708,
+            501710
+        ],
+        "contract": [
+            [
+                "dizziness",
+                300
+            ],
+            [
+                "ignore_crit",
+                300
+            ],
+            [
+                "ignore_dodge",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "璀璨夺目",
+        "__trans__": true
+    },
+    "1062": {
+        "id": 1062,
+        "name": "Ung Dung Hoa Quý",
+        "type": 8,
+        "sort": 7,
+        "quality": 5,
+        "group": [
+            501711,
+            501709,
+            501712
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "雍容华贵",
+        "__trans__": true
+    },
+    "1063": {
+        "id": 1063,
+        "name": "Trò Giỏi Hơn Thầy",
+        "type": 8,
+        "sort": 8,
+        "quality": 4,
+        "group": [
+            501701,
+            501702
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                200
+            ],
+            [
+                "more_attack",
+                200
+            ],
+            [
+                "ignore_more_attack",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "青出于蓝",
+        "__trans__": true
+    },
+    "1064": {
+        "id": 1064,
+        "name": "Đấu Phá Thiên Khung",
+        "type": 8,
+        "sort": 9,
+        "quality": 5,
+        "group": [
+            501703
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                300
+            ],
+            [
+                "attack_per",
+                300
+            ],
+            [
+                "defense_per",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "斗破天穹",
+        "__trans__": true
+    },
+    "1065": {
+        "id": 1065,
+        "name": "Ẩn Chu Quả",
+        "type": 4,
+        "sort": 10,
+        "quality": 5,
+        "group": [
+            501217
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 1,
+        "name_cn": "朱果隐藏",
+        "__trans__": true
+    },
+    "1066": {
+        "id": 1066,
+        "name": "Cành Cây Phù Tang Ẩn",
+        "type": 6,
+        "sort": 7,
+        "quality": 3,
+        "group": [
+            501223
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                200
+            ],
+            [
+                "ignore_dodge",
+                200
+            ],
+            [
+                "ignore_suck_hp",
+                200
+            ]
+        ],
+        "isShow": 1,
+        "name_cn": "扶桑树枝隐藏",
+        "__trans__": true
+    },
+    "1067": {
+        "id": 1067,
+        "name": "Quốc Sắc Thiên Hương",
+        "type": 9,
+        "sort": 1,
+        "quality": 4,
+        "group": [
+            501806,
+            501807,
+            501809
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                400
+            ],
+            [
+                "back_attack",
+                100
+            ],
+            [
+                "ignore_suck_hp",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "国色天香",
+        "__trans__": true
+    },
+    "1068": {
+        "id": 1068,
+        "name": "Cổ Mộc Chọc Trời",
+        "type": 9,
+        "sort": 2,
+        "quality": 4,
+        "group": [
+            501808,
+            501810
+        ],
+        "contract": [
+            [
+                "back_attack",
+                300
+            ],
+            [
+                "ignore_more_attack",
+                100
+            ],
+            [
+                "ignore_dizziness",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "古木参天",
+        "__trans__": true
+    },
+    "1069": {
+        "id": 1069,
+        "name": "Nơi Mặt Trời Lặn",
+        "type": 9,
+        "sort": 3,
+        "quality": 5,
+        "group": [
+            501812,
+            501811
+        ],
+        "contract": [
+            [
+                "more_attack",
+                300
+            ],
+            [
+                "ignore_back_attack",
+                200
+            ],
+            [
+                "ignore_more_attack",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "日落之处",
+        "__trans__": true
+    },
+    "1070": {
+        "id": 1070,
+        "name": "Thần Dược Bất Tử",
+        "type": 9,
+        "sort": 4,
+        "quality": 5,
+        "group": [
+            501817
+        ],
+        "contract": [
+            [
+                "dodge",
+                100
+            ],
+            [
+                "ignore_back_attack",
+                200
+            ],
+            [
+                "ignore_dodge",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "不死神药",
+        "__trans__": true
+    },
+    "1071": {
+        "id": 1071,
+        "name": "Thần Nữ Vu Sơn",
+        "type": 9,
+        "sort": 5,
+        "quality": 5,
+        "group": [
+            501816,
+            501805
+        ],
+        "contract": [
+            [
+                "dodge",
+                300
+            ],
+            [
+                "crit",
+                400
+            ],
+            [
+                "ignore_suck_hp",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "巫山神女",
+        "__trans__": true
+    },
+    "1072": {
+        "id": 1072,
+        "name": "Nguy Nga Vô Cùng",
+        "type": 9,
+        "sort": 6,
+        "quality": 4,
+        "group": [
+            501801
+        ],
+        "contract": [
+            [
+                "ignore_dodge",
+                200
+            ],
+            [
+                "ignore_crit",
+                100
+            ],
+            [
+                "ignore_dizziness",
+                100
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "瑰丽无比",
+        "__trans__": true
+    },
+    "1073": {
+        "id": 1073,
+        "name": "Bách Điểu Triều Phượng",
+        "type": 9,
+        "sort": 7,
+        "quality": 5,
+        "group": [
+            501813,
+            501814,
+            501815
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "百鸟朝凤",
+        "__trans__": true
+    },
+    "1074": {
+        "id": 1074,
+        "name": "Thánh Thủ Đan Thanh",
+        "type": 9,
+        "sort": 8,
+        "quality": 4,
+        "group": [
+            501802,
+            501803
+        ],
+        "contract": [
+            [
+                "more_attack",
+                100
+            ],
+            [
+                "dizziness",
+                400
+            ],
+            [
+                "ignore_crit",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "丹青圣手",
+        "__trans__": true
+    },
+    "1075": {
+        "id": 1075,
+        "name": "Chu Liên Bích Hợp",
+        "type": 9,
+        "sort": 9,
+        "quality": 5,
+        "group": [
+            501804
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                300
+            ],
+            [
+                "attack_per",
+                300
+            ],
+            [
+                "defense_per",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "珠联璧合",
+        "__trans__": true
+    },
+    "1076": {
+        "id": 1076,
+        "name": "Đại Hoang Kinh-1",
+        "type": 1,
+        "sort": 10,
+        "quality": 5,
+        "group": [
+            501531,
+            501532
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "大荒经·其一",
+        "__trans__": true
+    },
+    "1077": {
+        "id": 1077,
+        "name": "Đất Cát Mù Trời",
+        "type": 10,
+        "sort": 1,
+        "quality": 4,
+        "group": [
+            501901,
+            501902,
+            501903
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                400
+            ],
+            [
+                "more_attack",
+                400
+            ],
+            [
+                "ignore_dodge",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "飞沙走石",
+        "__trans__": true
+    },
+    "1078": {
+        "id": 1078,
+        "name": "Cây Tre Vây Quanh",
+        "type": 10,
+        "sort": 2,
+        "quality": 4,
+        "group": [
+            501905,
+            501906,
+            501907
+        ],
+        "contract": [
+            [
+                "back_attack",
+                400
+            ],
+            [
+                "dodge",
+                400
+            ],
+            [
+                "ignore_crit",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "竹树环合",
+        "__trans__": true
+    },
+    "1079": {
+        "id": 1079,
+        "name": "Trang Sức Cầu Nguyện",
+        "type": 10,
+        "sort": 4,
+        "quality": 5,
+        "group": [
+            501913,
+            501914
+        ],
+        "contract": [
+            [
+                "crit",
+                400
+            ],
+            [
+                "dizziness",
+                400
+            ],
+            [
+                "ignore_dizziness",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "祈祀之饰",
+        "__trans__": true
+    },
+    "1080": {
+        "id": 1080,
+        "name": "Nước Lửa Giao Hòa",
+        "type": 10,
+        "sort": 3,
+        "quality": 4,
+        "group": [
+            501909,
+            501910,
+            501911
+        ],
+        "contract": [
+            [
+                "ignore_suck_hp",
+                400
+            ],
+            [
+                "ignore_back_attack",
+                400
+            ],
+            [
+                "ignore_more_attack",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "水火交融",
+        "__trans__": true
+    },
+    "1081": {
+        "id": 1081,
+        "name": "Khôi Bảo Dị Thú",
+        "type": 10,
+        "sort": 5,
+        "quality": 5,
+        "group": [
+            501908,
+            501912
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "异兽瑰宝",
+        "__trans__": true
+    },
+    "1082": {
+        "id": 1082,
+        "name": "Nóng Bỏng Tay",
+        "type": 10,
+        "sort": 6,
+        "quality": 5,
+        "group": [
+            501904
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                300
+            ],
+            [
+                "attack_per",
+                300
+            ],
+            [
+                "defense_per",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "炙手可热",
+        "__trans__": true
+    },
+    "1084": {
+        "id": 1084,
+        "name": "Đại Hoang Kinh-2",
+        "type": 1,
+        "sort": 11,
+        "quality": 5,
+        "group": [
+            501533,
+            501534,
+            501916
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                400
+            ],
+            [
+                "attack_per",
+                400
+            ],
+            [
+                "defense_per",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "大荒经·其二",
+        "__trans__": true
+    },
+    "1085": {
+        "id": 1085,
+        "name": "Vạn Vật Đều Có Linh",
+        "type": 11,
+        "sort": 1,
+        "quality": 3,
+        "group": [
+            5011010,
+            5011011,
+            5011012
+        ],
+        "contract": [
+            [
+                "crit",
+                200
+            ],
+            [
+                "back_attack",
+                400
+            ],
+            [
+                "ignore_dodge",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "万物皆有灵",
+        "__trans__": true
+    },
+    "1086": {
+        "id": 1086,
+        "name": "Sỏi Nam Sơn",
+        "type": 11,
+        "sort": 2,
+        "quality": 4,
+        "group": [
+            5011001,
+            5011004
+        ],
+        "contract": [
+            [
+                "dizziness",
+                400
+            ],
+            [
+                "ignore_more_attack",
+                200
+            ],
+            [
+                "ignore_suck_hp",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "南山的砾",
+        "__trans__": true
+    },
+    "1087": {
+        "id": 1087,
+        "name": "Hoa Đêm Khuya",
+        "type": 11,
+        "sort": 4,
+        "quality": 5,
+        "group": [
+            5011007,
+            5011009
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                200
+            ],
+            [
+                "attack_per",
+                200
+            ],
+            [
+                "defense_per",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "深夜的花",
+        "__trans__": true
+    },
+    "1088": {
+        "id": 1088,
+        "name": "Bóng Chiếc Dưới Trăng",
+        "type": 11,
+        "sort": 3,
+        "quality": 4,
+        "group": [
+            5011015,
+            5011016
+        ],
+        "contract": [
+            [
+                "dodge",
+                400
+            ],
+            [
+                "more_attack",
+                400
+            ],
+            [
+                "ignore_dodge",
+                200
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "月下孤影",
+        "__trans__": true
+    },
+    "1089": {
+        "id": 1089,
+        "name": "Chờ trùng sinh",
+        "type": 11,
+        "sort": 5,
+        "quality": 4,
+        "group": [
+            5011013,
+            5011014
+        ],
+        "contract": [
+            [
+                "crit",
+                200
+            ],
+            [
+                "ignore_back_attack",
+                400
+            ],
+            [
+                "ignore_dizziness",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "等待重生",
+        "__trans__": true
+    },
+    "1090": {
+        "id": 1090,
+        "name": "Đã đến Côn Lôn",
+        "type": 11,
+        "sort": 6,
+        "quality": 5,
+        "group": [
+            5011002,
+            5011003,
+            5011005
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                300
+            ],
+            [
+                "attack_per",
+                300
+            ],
+            [
+                "defense_per",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "昆仑一游",
+        "__trans__": true
+    },
+    "1091": {
+        "id": 1091,
+        "name": "Lặng Im Ngắm Hoa",
+        "type": 11,
+        "sort": 7,
+        "quality": 4,
+        "group": [
+            5011006,
+            5011008
+        ],
+        "contract": [
+            [
+                "suck_hp",
+                400
+            ],
+            [
+                "ignore_more_attack",
+                200
+            ],
+            [
+                "ignore_crit",
+                400
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "望花无语",
+        "__trans__": true
+    },
+    "1092": {
+        "id": 1092,
+        "name": "Nhất Tiễn Xuyên Dương",
+        "type": 11,
+        "sort": 8,
+        "quality": 5,
+        "group": [
+            5011017
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                300
+            ],
+            [
+                "attack_per",
+                300
+            ],
+            [
+                "defense_per",
+                300
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "一箭穿阳",
+        "__trans__": true
+    },
+    "1093": {
+        "id": 1093,
+        "name": "Hải Ngoại Kinh-Kỳ 1",
+        "type": 1,
+        "sort": 12,
+        "quality": 5,
+        "group": [
+            5011019,
+            5011020,
+            5011021
+        ],
+        "contract": [
+            [
+                "hp_upper_per",
+                500
+            ],
+            [
+                "attack_per",
+                500
+            ],
+            [
+                "defense_per",
+                500
+            ]
+        ],
+        "isShow": 0,
+        "name_cn": "海外经·其一",
+        "__trans__": true
+    }
+}

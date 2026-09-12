@@ -1,0 +1,371 @@
+const attrs = [];
+const db = sg.dbmgr.getDB('attribute');
+for (let id in db) {
+    attrs.push({
+        id: db[id].id,
+        name: db[id].name,
+        show_name: db[id].show_name,
+        is_per: db[id].is_per
+    });
+}
+console.log(`Found ${attrs.length} attributes`);
+attrs
+
+
+
+[
+    {
+        "id": 1,
+        "name": "hp_upper",
+        "show_name": "HP",
+        "is_per": 0
+    },
+    {
+        "id": 2,
+        "name": "attack",
+        "show_name": "Tấn Công",
+        "is_per": 0
+    },
+    {
+        "id": 3,
+        "name": "defense",
+        "show_name": "Phòng Thủ",
+        "is_per": 0
+    },
+    {
+        "id": 4,
+        "name": "speed",
+        "show_name": "Tốc Độ",
+        "is_per": 0
+    },
+    {
+        "id": 5,
+        "name": "suck_hp",
+        "show_name": "Hút HP",
+        "is_per": 1
+    },
+    {
+        "id": 6,
+        "name": "dodge",
+        "show_name": "Né Tránh",
+        "is_per": 1
+    },
+    {
+        "id": 7,
+        "name": "crit",
+        "show_name": "Bạo Kích",
+        "is_per": 1
+    },
+    {
+        "id": 8,
+        "name": "more_attack",
+        "show_name": "Liên Kích",
+        "is_per": 1
+    },
+    {
+        "id": 9,
+        "name": "back_attack",
+        "show_name": "Phản Công",
+        "is_per": 1
+    },
+    {
+        "id": 10,
+        "name": "dizziness",
+        "show_name": "Đánh Ngất",
+        "is_per": 1
+    },
+    {
+        "id": 11,
+        "name": "ignore_suck_hp",
+        "show_name": "Giảm Hút HP",
+        "is_per": 1
+    },
+    {
+        "id": 12,
+        "name": "ignore_dodge",
+        "show_name": "Giảm Né Tránh",
+        "is_per": 1
+    },
+    {
+        "id": 13,
+        "name": "ignore_crit",
+        "show_name": "Giảm Bạo Kích",
+        "is_per": 1
+    },
+    {
+        "id": 14,
+        "name": "ignore_more_attack",
+        "show_name": "Giảm Liên Kích",
+        "is_per": 1
+    },
+    {
+        "id": 15,
+        "name": "ignore_back_attack",
+        "show_name": "Giảm Phản Công",
+        "is_per": 1
+    },
+    {
+        "id": 16,
+        "name": "ignore_dizziness",
+        "show_name": "Giảm Đánh Ngất",
+        "is_per": 1
+    },
+    {
+        "id": 17,
+        "name": "crit_damage",
+        "show_name": "Tăng ST",
+        "is_per": 1
+    },
+    {
+        "id": 18,
+        "name": "crit_defense",
+        "show_name": "Miễn Giảm ST",
+        "is_per": 1
+    },
+    {
+        "id": 19,
+        "name": "mattack_damage",
+        "show_name": "ST Liên Kích",
+        "is_per": 1
+    },
+    {
+        "id": 20,
+        "name": "battack_damage",
+        "show_name": "ST Phản Công",
+        "is_per": 1
+    },
+    {
+        "id": 21,
+        "name": "dizziness_damage",
+        "show_name": "ST Đánh Ngất",
+        "is_per": 1
+    },
+    {
+        "id": 22,
+        "name": "cure_increase",
+        "show_name": "Buff Trị Liệu",
+        "is_per": 1
+    },
+    {
+        "id": 23,
+        "name": "damage_increase",
+        "show_name": "Gia tăng ST",
+        "is_per": 1
+    },
+    {
+        "id": 24,
+        "name": "damage_reduce",
+        "show_name": "Giảm ST",
+        "is_per": 1
+    },
+    {
+        "id": 25,
+        "name": "hp_upper_per",
+        "show_name": "Buff HP",
+        "is_per": 1
+    },
+    {
+        "id": 26,
+        "name": "attack_per",
+        "show_name": "Buff Tấn Công",
+        "is_per": 1
+    },
+    {
+        "id": 27,
+        "name": "defense_per",
+        "show_name": "Buff Phòng Thủ",
+        "is_per": 1
+    },
+    {
+        "id": 28,
+        "name": "speed_per",
+        "show_name": "Buff Tốc Độ",
+        "is_per": 1
+    },
+    {
+        "id": 29,
+        "name": "suck_hp_per",
+        "show_name": "Hút HP",
+        "is_per": 1
+    },
+    {
+        "id": 30,
+        "name": "dodge_per",
+        "show_name": "Né Tránh",
+        "is_per": 1
+    },
+    {
+        "id": 31,
+        "name": "crit_per",
+        "show_name": "Bạo Kích",
+        "is_per": 1
+    },
+    {
+        "id": 32,
+        "name": "more_attack_per",
+        "show_name": "Liên Kích",
+        "is_per": 1
+    },
+    {
+        "id": 33,
+        "name": "back_attack_per",
+        "show_name": "Phản Công",
+        "is_per": 1
+    },
+    {
+        "id": 34,
+        "name": "dizziness_per",
+        "show_name": "Đánh Ngất",
+        "is_per": 1
+    },
+    {
+        "id": 35,
+        "name": "ignore_suck_hp_per",
+        "show_name": "Giảm Hút HP",
+        "is_per": 1
+    },
+    {
+        "id": 36,
+        "name": "ignore_dodge_per",
+        "show_name": "Giảm Né Tránh",
+        "is_per": 1
+    },
+    {
+        "id": 37,
+        "name": "ignore_crit_per",
+        "show_name": "Giảm Bạo Kích",
+        "is_per": 1
+    },
+    {
+        "id": 38,
+        "name": "ignore_more_attack_per",
+        "show_name": "Giảm Liên Kích",
+        "is_per": 1
+    },
+    {
+        "id": 39,
+        "name": "ignore_back_attack_per",
+        "show_name": "Giảm Phản Công",
+        "is_per": 1
+    },
+    {
+        "id": 40,
+        "name": "ignore_dizziness_per",
+        "show_name": "Giảm Đánh Ngất",
+        "is_per": 1
+    },
+    {
+        "id": 41,
+        "name": "suppress",
+        "show_name": "Trấn Áp",
+        "is_per": 1
+    },
+    {
+        "id": 42,
+        "name": "resist",
+        "show_name": "Chống Đỡ",
+        "is_per": 1
+    },
+    {
+        "id": 43,
+        "name": "bullying",
+        "show_name": "Bạo Lực",
+        "is_per": 1
+    },
+    {
+        "id": 44,
+        "name": "guard",
+        "show_name": "Bảo Vệ",
+        "is_per": 1
+    },
+    {
+        "id": 45,
+        "name": "penetrate",
+        "show_name": "Châm Chích",
+        "is_per": 1
+    },
+    {
+        "id": 46,
+        "name": "speed_up",
+        "show_name": "Cấp Tốc",
+        "is_per": 1
+    },
+    {
+        "id": 47,
+        "name": "speed_down",
+        "show_name": "Lầy Lội",
+        "is_per": 1
+    },
+    {
+        "id": 48,
+        "name": "tenacity",
+        "show_name": "Dẻo Dai",
+        "is_per": 1
+    },
+    {
+        "id": 49,
+        "name": "pvp_damage_increase",
+        "show_name": "Tăng ST PVP",
+        "is_per": 1
+    },
+    {
+        "id": 50,
+        "name": "pvp_damage_reduce",
+        "show_name": "Giảm ST PVP",
+        "is_per": 1
+    },
+    {
+        "id": 51,
+        "name": "pve_damage_increase",
+        "show_name": "Tăng ST PVE",
+        "is_per": 1
+    },
+    {
+        "id": 52,
+        "name": "pve_damage_reduce",
+        "show_name": "Giảm ST PVE",
+        "is_per": 1
+    },
+    {
+        "id": 53,
+        "name": "god_strengthen",
+        "show_name": "Cường Hóa",
+        "is_per": 1
+    },
+    {
+        "id": 54,
+        "name": "god_weaken",
+        "show_name": "Nhược Hóa",
+        "is_per": 1
+    },
+    {
+        "id": 55,
+        "name": "block",
+        "show_name": "Ngăn Chặn",
+        "is_per": 1
+    },
+    {
+        "id": 56,
+        "name": "god_damage_increase",
+        "show_name": "Buff ST Thần Tiên",
+        "is_per": 1
+    },
+    {
+        "id": 57,
+        "name": "god_cure_increase",
+        "show_name": "Buff Trị Liệu Thần Tiên",
+        "is_per": 1
+    },
+    {
+        "id": 58,
+        "name": "cure_strengthen",
+        "show_name": "Trị Liệu Cường Hóa",
+        "is_per": 1
+    },
+    {
+        "id": 59,
+        "name": "cure_weaken",
+        "show_name": "Nhược Hóa Trị Liệu",
+        "is_per": 1
+    }
+]

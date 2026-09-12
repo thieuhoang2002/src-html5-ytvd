@@ -1,0 +1,5820 @@
+{
+  "1": {
+    "level": 1,
+    "state": "Luyện Khí 1",
+    "stateGreat": "Luyện Khí",
+    "experience": 65,
+    "reward": [
+      [
+        3,
+        100
+      ]
+    ],
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气一层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "2": {
+    "level": 2,
+    "state": "Luyện Khí 2",
+    "stateGreat": "Luyện Khí",
+    "experience": 70,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气二层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "3": {
+    "level": 3,
+    "state": "Luyện Khí 3",
+    "stateGreat": "Luyện Khí",
+    "experience": 75,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气三层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "4": {
+    "level": 4,
+    "state": "Luyện Khí 4",
+    "stateGreat": "Luyện Khí",
+    "experience": 80,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气四层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "5": {
+    "level": 5,
+    "state": "Luyện Khí 5",
+    "stateGreat": "Luyện Khí",
+    "experience": 85,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气五层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "6": {
+    "level": 6,
+    "state": "Luyện Khí 6",
+    "stateGreat": "Luyện Khí",
+    "experience": 90,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气六层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "7": {
+    "level": 7,
+    "state": "Luyện Khí 7",
+    "stateGreat": "Luyện Khí",
+    "experience": 95,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气七层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "8": {
+    "level": 8,
+    "state": "Luyện Khí 8",
+    "stateGreat": "Luyện Khí",
+    "experience": 100,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气八层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "9": {
+    "level": 9,
+    "state": "Luyện Khí 9",
+    "stateGreat": "Luyện Khí",
+    "experience": 105,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气九层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "10": {
+    "level": 10,
+    "state": "Luyện Khí 10",
+    "stateGreat": "Luyện Khí",
+    "experience": 110,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        0
+      ],
+      [
+        "attack",
+        0
+      ],
+      [
+        "defense",
+        0
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140901,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼气十层",
+    "stateGreat_cn": "炼气期",
+    "__trans__": true
+  },
+  "11": {
+    "level": 11,
+    "state": "Trúc Cơ 1",
+    "stateGreat": "Trúc Cơ",
+    "experience": 115,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140902,
+        1
+      ]
+    ],
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Trúc Cơ",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到筑基期",
+    "state_cn": "筑基一层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "12": {
+    "level": 12,
+    "state": "Trúc Cơ 2",
+    "stateGreat": "Trúc Cơ",
+    "experience": 120,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基二层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "13": {
+    "level": 13,
+    "state": "Trúc Cơ 3",
+    "stateGreat": "Trúc Cơ",
+    "experience": 130,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基三层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "14": {
+    "level": 14,
+    "state": "Trúc Cơ 4",
+    "stateGreat": "Trúc Cơ",
+    "experience": 140,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基四层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "15": {
+    "level": 15,
+    "state": "Trúc Cơ 5",
+    "stateGreat": "Trúc Cơ",
+    "experience": 150,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基五层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "16": {
+    "level": 16,
+    "state": "Trúc Cơ 6",
+    "stateGreat": "Trúc Cơ",
+    "experience": 160,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基六层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "17": {
+    "level": 17,
+    "state": "Trúc Cơ 7",
+    "stateGreat": "Trúc Cơ",
+    "experience": 170,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基七层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "18": {
+    "level": 18,
+    "state": "Trúc Cơ 8",
+    "stateGreat": "Trúc Cơ",
+    "experience": 180,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基八层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "19": {
+    "level": 19,
+    "state": "Trúc Cơ 9",
+    "stateGreat": "Trúc Cơ",
+    "experience": 190,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基九层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "20": {
+    "level": 20,
+    "state": "Trúc Cơ 10",
+    "stateGreat": "Trúc Cơ",
+    "experience": 200,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        1000
+      ],
+      [
+        "attack",
+        250
+      ],
+      [
+        "defense",
+        150
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140902,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "筑基十层",
+    "stateGreat_cn": "筑基期",
+    "__trans__": true
+  },
+  "21": {
+    "level": 21,
+    "state": "Kim Đan 1",
+    "stateGreat": "Kim Đan",
+    "experience": 210,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140903,
+        1
+      ]
+    ],
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Kim Đan",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到金丹期",
+    "state_cn": "金丹一层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "22": {
+    "level": 22,
+    "state": "Kim Đan 2",
+    "stateGreat": "Kim Đan",
+    "experience": 220,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹二层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "23": {
+    "level": 23,
+    "state": "Kim Đan 3",
+    "stateGreat": "Kim Đan",
+    "experience": 235,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹三层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "24": {
+    "level": 24,
+    "state": "Kim Đan 4",
+    "stateGreat": "Kim Đan",
+    "experience": 250,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹四层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "25": {
+    "level": 25,
+    "state": "Kim Đan 5",
+    "stateGreat": "Kim Đan",
+    "experience": 265,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹五层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "26": {
+    "level": 26,
+    "state": "Kim Đan 6",
+    "stateGreat": "Kim Đan",
+    "experience": 280,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹六层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "27": {
+    "level": 27,
+    "state": "Kim Đan 7",
+    "stateGreat": "Kim Đan",
+    "experience": 295,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹七层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "28": {
+    "level": 28,
+    "state": "Kim Đan 8",
+    "stateGreat": "Kim Đan",
+    "experience": 310,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹八层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "29": {
+    "level": 29,
+    "state": "Kim Đan 9",
+    "stateGreat": "Kim Đan",
+    "experience": 325,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹九层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "30": {
+    "level": 30,
+    "state": "Kim Đan 10",
+    "stateGreat": "Kim Đan",
+    "experience": 340,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        2000
+      ],
+      [
+        "attack",
+        500
+      ],
+      [
+        "defense",
+        300
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140903,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金丹十层",
+    "stateGreat_cn": "金丹期",
+    "__trans__": true
+  },
+  "31": {
+    "level": 31,
+    "state": "Nguyên Anh 1",
+    "stateGreat": "Nguyên Anh",
+    "experience": 355,
+    "reward": [
+      [
+        1,
+        10
+      ],
+      [
+        160002,
+        1
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        160002,
+        1
+      ],
+      [
+        140904,
+        1
+      ]
+    ],
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Nguyên Anh",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到元婴期",
+    "state_cn": "元婴一层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "32": {
+    "level": 32,
+    "state": "Nguyên Anh 2",
+    "stateGreat": "Nguyên Anh",
+    "experience": 370,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴二层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "33": {
+    "level": 33,
+    "state": "Nguyên Anh 3",
+    "stateGreat": "Nguyên Anh",
+    "experience": 390,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴三层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "34": {
+    "level": 34,
+    "state": "Nguyên Anh 4",
+    "stateGreat": "Nguyên Anh",
+    "experience": 410,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴四层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "35": {
+    "level": 35,
+    "state": "Nguyên Anh 5",
+    "stateGreat": "Nguyên Anh",
+    "experience": 430,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴五层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "36": {
+    "level": 36,
+    "state": "Nguyên Anh 6",
+    "stateGreat": "Nguyên Anh",
+    "experience": 450,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴六层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "37": {
+    "level": 37,
+    "state": "Nguyên Anh 7",
+    "stateGreat": "Nguyên Anh",
+    "experience": 470,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴七层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "38": {
+    "level": 38,
+    "state": "Nguyên Anh 8",
+    "stateGreat": "Nguyên Anh",
+    "experience": 490,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴八层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "39": {
+    "level": 39,
+    "state": "Nguyên Anh 9",
+    "stateGreat": "Nguyên Anh",
+    "experience": 510,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴九层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "40": {
+    "level": 40,
+    "state": "Nguyên Anh 10",
+    "stateGreat": "Nguyên Anh",
+    "experience": 530,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        3000
+      ],
+      [
+        "attack",
+        750
+      ],
+      [
+        "defense",
+        450
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140904,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "元婴十层",
+    "stateGreat_cn": "元婴期",
+    "__trans__": true
+  },
+  "41": {
+    "level": 41,
+    "state": "Hóa Thần 1",
+    "stateGreat": "Hóa Thần",
+    "experience": 550,
+    "reward": [
+      [
+        1,
+        10
+      ],
+      [
+        160003,
+        1
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        160003,
+        1
+      ],
+      [
+        140905,
+        1
+      ]
+    ],
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Hóa Thần",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到化神期",
+    "state_cn": "化神一层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "42": {
+    "level": 42,
+    "state": "Hóa Thần 2",
+    "stateGreat": "Hóa Thần",
+    "experience": 570,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神二层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "43": {
+    "level": 43,
+    "state": "Hóa Thần 3",
+    "stateGreat": "Hóa Thần",
+    "experience": 595,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神三层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "44": {
+    "level": 44,
+    "state": "Hóa Thần 4",
+    "stateGreat": "Hóa Thần",
+    "experience": 620,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神四层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "45": {
+    "level": 45,
+    "state": "Hóa Thần 5",
+    "stateGreat": "Hóa Thần",
+    "experience": 645,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神五层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "46": {
+    "level": 46,
+    "state": "Hóa Thần 6",
+    "stateGreat": "Hóa Thần",
+    "experience": 670,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神六层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "47": {
+    "level": 47,
+    "state": "Hóa Thần 7",
+    "stateGreat": "Hóa Thần",
+    "experience": 695,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神七层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "48": {
+    "level": 48,
+    "state": "Hóa Thần 8",
+    "stateGreat": "Hóa Thần",
+    "experience": 720,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神八层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "49": {
+    "level": 49,
+    "state": "Hóa Thần 9",
+    "stateGreat": "Hóa Thần",
+    "experience": 745,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神九层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "50": {
+    "level": 50,
+    "state": "Hóa Thần 10",
+    "stateGreat": "Hóa Thần",
+    "experience": 770,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        4000
+      ],
+      [
+        "attack",
+        1000
+      ],
+      [
+        "defense",
+        600
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140905,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "化神十层",
+    "stateGreat_cn": "化神期",
+    "__trans__": true
+  },
+  "51": {
+    "level": 51,
+    "state": "Luyện Hư 1",
+    "stateGreat": "Luyện Hư",
+    "experience": 795,
+    "reward": [
+      [
+        1,
+        10
+      ],
+      [
+        160004,
+        1
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        160004,
+        1
+      ],
+      [
+        140906,
+        1
+      ]
+    ],
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Luyện Hư",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到炼虚期",
+    "state_cn": "炼虚一层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "52": {
+    "level": 52,
+    "state": "Luyện Hư 2",
+    "stateGreat": "Luyện Hư",
+    "experience": 820,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚二层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "53": {
+    "level": 53,
+    "state": "Luyện Hư 3",
+    "stateGreat": "Luyện Hư",
+    "experience": 850,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚三层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "54": {
+    "level": 54,
+    "state": "Luyện Hư 4",
+    "stateGreat": "Luyện Hư",
+    "experience": 880,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚四层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "55": {
+    "level": 55,
+    "state": "Luyện Hư 5",
+    "stateGreat": "Luyện Hư",
+    "experience": 910,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚五层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "56": {
+    "level": 56,
+    "state": "Luyện Hư 6",
+    "stateGreat": "Luyện Hư",
+    "experience": 940,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚六层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "57": {
+    "level": 57,
+    "state": "Luyện Hư 7",
+    "stateGreat": "Luyện Hư",
+    "experience": 970,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚七层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "58": {
+    "level": 58,
+    "state": "Luyện Hư 8",
+    "stateGreat": "Luyện Hư",
+    "experience": 1000,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚八层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "59": {
+    "level": 59,
+    "state": "Luyện Hư 9",
+    "stateGreat": "Luyện Hư",
+    "experience": 1030,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚九层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "60": {
+    "level": 60,
+    "state": "Luyện Hư 10",
+    "stateGreat": "Luyện Hư",
+    "experience": 1060,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        5000
+      ],
+      [
+        "attack",
+        1250
+      ],
+      [
+        "defense",
+        750
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140906,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "炼虚十层",
+    "stateGreat_cn": "炼虚期",
+    "__trans__": true
+  },
+  "61": {
+    "level": 61,
+    "state": "Hợp Thể 1",
+    "stateGreat": "Hợp Thể",
+    "experience": 1090,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140907,
+        1
+      ]
+    ],
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Hợp Thể",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到合体期",
+    "state_cn": "合体一层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "62": {
+    "level": 62,
+    "state": "Hợp Thể 2",
+    "stateGreat": "Hợp Thể",
+    "experience": 1120,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体二层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "63": {
+    "level": 63,
+    "state": "Hợp Thể 3",
+    "stateGreat": "Hợp Thể",
+    "experience": 1155,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体三层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "64": {
+    "level": 64,
+    "state": "Hợp Thể 4",
+    "stateGreat": "Hợp Thể",
+    "experience": 1190,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体四层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "65": {
+    "level": 65,
+    "state": "Hợp Thể 5",
+    "stateGreat": "Hợp Thể",
+    "experience": 1225,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体五层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "66": {
+    "level": 66,
+    "state": "Hợp Thể 6",
+    "stateGreat": "Hợp Thể",
+    "experience": 1260,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体六层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "67": {
+    "level": 67,
+    "state": "Hợp Thể 7",
+    "stateGreat": "Hợp Thể",
+    "experience": 1295,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体七层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "68": {
+    "level": 68,
+    "state": "Hợp Thể 8",
+    "stateGreat": "Hợp Thể",
+    "experience": 1330,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体八层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "69": {
+    "level": 69,
+    "state": "Hợp Thể 9",
+    "stateGreat": "Hợp Thể",
+    "experience": 1365,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体九层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "70": {
+    "level": 70,
+    "state": "Hợp Thể 10",
+    "stateGreat": "Hợp Thể",
+    "experience": 1400,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        6000
+      ],
+      [
+        "attack",
+        1500
+      ],
+      [
+        "defense",
+        900
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140907,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "合体十层",
+    "stateGreat_cn": "合体期",
+    "__trans__": true
+  },
+  "71": {
+    "level": 71,
+    "state": "Đại Thừa 1",
+    "stateGreat": "Đại Thừa",
+    "experience": 1435,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140908,
+        1
+      ]
+    ],
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Đại Thừa",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到大乘期",
+    "state_cn": "大乘一层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "72": {
+    "level": 72,
+    "state": "Đại Thừa 2",
+    "stateGreat": "Đại Thừa",
+    "experience": 1470,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘二层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "73": {
+    "level": 73,
+    "state": "Đại Thừa 3",
+    "stateGreat": "Đại Thừa",
+    "experience": 1510,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘三层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "74": {
+    "level": 74,
+    "state": "Đại Thừa 4",
+    "stateGreat": "Đại Thừa",
+    "experience": 1550,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘四层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "75": {
+    "level": 75,
+    "state": "Đại Thừa 5",
+    "stateGreat": "Đại Thừa",
+    "experience": 1590,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘五层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "76": {
+    "level": 76,
+    "state": "Đại Thừa 6",
+    "stateGreat": "Đại Thừa",
+    "experience": 1630,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘六层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "77": {
+    "level": 77,
+    "state": "Đại Thừa 7",
+    "stateGreat": "Đại Thừa",
+    "experience": 1670,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘七层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "78": {
+    "level": 78,
+    "state": "Đại Thừa 8",
+    "stateGreat": "Đại Thừa",
+    "experience": 1710,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘八层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "79": {
+    "level": 79,
+    "state": "Đại Thừa 9",
+    "stateGreat": "Đại Thừa",
+    "experience": 1750,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘九层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "80": {
+    "level": 80,
+    "state": "Đại Thừa 10",
+    "stateGreat": "Đại Thừa",
+    "experience": 1790,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      1,
+      2,
+      3
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        7000
+      ],
+      [
+        "attack",
+        1750
+      ],
+      [
+        "defense",
+        1050
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140908,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Độ Kiếp",
+    "brokenTip_cn": "完成以下任务,可飞升至渡劫期",
+    "brokenTitle_cn": "",
+    "state_cn": "大乘十层",
+    "stateGreat_cn": "大乘期",
+    "__trans__": true
+  },
+  "81": {
+    "level": 81,
+    "state": "Độ Kiếp 1",
+    "stateGreat": "Độ Kiếp",
+    "experience": 1830,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140909,
+        1
+      ]
+    ],
+    "reward_perfect": [
+      [
+        1,
+        10
+      ]
+    ],
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Độ Kiếp",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到渡劫期",
+    "state_cn": "渡劫一层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "82": {
+    "level": 82,
+    "state": "Độ Kiếp 2",
+    "stateGreat": "Độ Kiếp",
+    "experience": 1870,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫二层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "83": {
+    "level": 83,
+    "state": "Độ Kiếp 3",
+    "stateGreat": "Độ Kiếp",
+    "experience": 1915,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫三层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "84": {
+    "level": 84,
+    "state": "Độ Kiếp 4",
+    "stateGreat": "Độ Kiếp",
+    "experience": 1960,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫四层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "85": {
+    "level": 85,
+    "state": "Độ Kiếp 5",
+    "stateGreat": "Độ Kiếp",
+    "experience": 2005,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫五层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "86": {
+    "level": 86,
+    "state": "Độ Kiếp 6",
+    "stateGreat": "Độ Kiếp",
+    "experience": 2050,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫六层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "87": {
+    "level": 87,
+    "state": "Độ Kiếp 7",
+    "stateGreat": "Độ Kiếp",
+    "experience": 2095,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫七层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "88": {
+    "level": 88,
+    "state": "Độ Kiếp 8",
+    "stateGreat": "Độ Kiếp",
+    "experience": 2140,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫八层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "89": {
+    "level": 89,
+    "state": "Độ Kiếp 9",
+    "stateGreat": "Độ Kiếp",
+    "experience": 2295,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫九层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "90": {
+    "level": 90,
+    "state": "Độ Kiếp 10",
+    "stateGreat": "Độ Kiếp",
+    "experience": 2540,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      4,
+      5,
+      6
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        8000
+      ],
+      [
+        "attack",
+        2000
+      ],
+      [
+        "defense",
+        1200
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140909,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Phi Thăng",
+    "brokenTip_cn": "完成以下任务,可突破至飞升期",
+    "brokenTitle_cn": "",
+    "state_cn": "渡劫十层",
+    "stateGreat_cn": "渡劫期",
+    "__trans__": true
+  },
+  "91": {
+    "level": 91,
+    "state": "Phi Thăng 1",
+    "stateGreat": "Phi Thăng",
+    "experience": 2935,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140910,
+        1
+      ]
+    ],
+    "reward_perfect": [
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        200
+      ]
+    ],
+    "reward_perfect_extra": [
+      [
+        1,
+        200
+      ]
+    ],
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu tăng cấp đến Phi Thăng",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友升级到飞升期",
+    "state_cn": "飞升一层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "92": {
+    "level": 92,
+    "state": "Phi Thăng 2",
+    "stateGreat": "Phi Thăng",
+    "experience": 3530,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升二层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "93": {
+    "level": 93,
+    "state": "Phi Thăng 3",
+    "stateGreat": "Phi Thăng",
+    "experience": 4380,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升三层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "94": {
+    "level": 94,
+    "state": "Phi Thăng 4",
+    "stateGreat": "Phi Thăng",
+    "experience": 5545,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升四层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "95": {
+    "level": 95,
+    "state": "Phi Thăng 5",
+    "stateGreat": "Phi Thăng",
+    "experience": 7090,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升五层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "96": {
+    "level": 96,
+    "state": "Phi Thăng 6",
+    "stateGreat": "Phi Thăng",
+    "experience": 9085,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升六层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "97": {
+    "level": 97,
+    "state": "Phi Thăng 7",
+    "stateGreat": "Phi Thăng",
+    "experience": 11605,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升七层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "98": {
+    "level": 98,
+    "state": "Phi Thăng 8",
+    "stateGreat": "Phi Thăng",
+    "experience": 14730,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升八层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "99": {
+    "level": 99,
+    "state": "Phi Thăng 9",
+    "stateGreat": "Phi Thăng",
+    "experience": 18545,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升九层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "100": {
+    "level": 100,
+    "state": "Phi Thăng 10",
+    "stateGreat": "Phi Thăng",
+    "experience": 22478,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      7,
+      8,
+      9
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        9000
+      ],
+      [
+        "attack",
+        2250
+      ],
+      [
+        "defense",
+        1350
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140910,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Địa Tiên",
+    "brokenTip_cn": "完成以下任务,可飞升至地仙",
+    "brokenTitle_cn": "",
+    "state_cn": "飞升十层",
+    "stateGreat_cn": "飞升期",
+    "__trans__": true
+  },
+  "101": {
+    "level": 101,
+    "state": "Địa Tiên 1",
+    "stateGreat": "Địa Tiên",
+    "experience": 26532,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140911,
+        1
+      ]
+    ],
+    "reward_perfect": [
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        200
+      ]
+    ],
+    "reward_perfect_extra": [
+      [
+        1,
+        200
+      ]
+    ],
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu phi thăng Tiên Giới trở thành Địa Tiên",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友飞升到仙界成为地仙",
+    "state_cn": "地仙一层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "102": {
+    "level": 102,
+    "state": "Địa Tiên 2",
+    "stateGreat": "Địa Tiên",
+    "experience": 30711,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙二层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "103": {
+    "level": 103,
+    "state": "Địa Tiên 3",
+    "stateGreat": "Địa Tiên",
+    "experience": 35019,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙三层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "104": {
+    "level": 104,
+    "state": "Địa Tiên 4",
+    "stateGreat": "Địa Tiên",
+    "experience": 39460,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙四层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "105": {
+    "level": 105,
+    "state": "Địa Tiên 5",
+    "stateGreat": "Địa Tiên",
+    "experience": 44038,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙五层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "106": {
+    "level": 106,
+    "state": "Địa Tiên 6",
+    "stateGreat": "Địa Tiên",
+    "experience": 48757,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙六层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "107": {
+    "level": 107,
+    "state": "Địa Tiên 7",
+    "stateGreat": "Địa Tiên",
+    "experience": 53621,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙七层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "108": {
+    "level": 108,
+    "state": "Địa Tiên 8",
+    "stateGreat": "Địa Tiên",
+    "experience": 58635,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙八层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "109": {
+    "level": 109,
+    "state": "Địa Tiên 9",
+    "stateGreat": "Địa Tiên",
+    "experience": 63803,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙九层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "110": {
+    "level": 110,
+    "state": "Địa Tiên 10",
+    "stateGreat": "Địa Tiên",
+    "experience": 69130,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      10,
+      11,
+      12
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        10000
+      ],
+      [
+        "attack",
+        2500
+      ],
+      [
+        "defense",
+        1500
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140911,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Kim Tiên",
+    "brokenTip_cn": "完成以下任务,可飞升至金仙",
+    "brokenTitle_cn": "",
+    "state_cn": "地仙十层",
+    "stateGreat_cn": "地仙",
+    "__trans__": true
+  },
+  "111": {
+    "level": 111,
+    "state": "Kim Tiên 1",
+    "stateGreat": "Kim Tiên",
+    "experience": 74621,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140912,
+        1
+      ]
+    ],
+    "reward_perfect": [
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        200
+      ]
+    ],
+    "reward_perfect_extra": [
+      [
+        1,
+        200
+      ]
+    ],
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu trở thành Kim Tiên",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友成为金仙",
+    "state_cn": "金仙一层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "112": {
+    "level": 112,
+    "state": "Kim Tiên 2",
+    "stateGreat": "Kim Tiên",
+    "experience": 80281,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙二层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "113": {
+    "level": 113,
+    "state": "Kim Tiên 3",
+    "stateGreat": "Kim Tiên",
+    "experience": 86115,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙三层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "114": {
+    "level": 114,
+    "state": "Kim Tiên 4",
+    "stateGreat": "Kim Tiên",
+    "experience": 92129,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙四层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "115": {
+    "level": 115,
+    "state": "Kim Tiên 5",
+    "stateGreat": "Kim Tiên",
+    "experience": 98328,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙五层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "116": {
+    "level": 116,
+    "state": "Kim Tiên 6",
+    "stateGreat": "Kim Tiên",
+    "experience": 104718,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙六层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "117": {
+    "level": 117,
+    "state": "Kim Tiên 7",
+    "stateGreat": "Kim Tiên",
+    "experience": 111305,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙七层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "118": {
+    "level": 118,
+    "state": "Kim Tiên 8",
+    "stateGreat": "Kim Tiên",
+    "experience": 118095,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙八层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "119": {
+    "level": 119,
+    "state": "Kim Tiên 9",
+    "stateGreat": "Kim Tiên",
+    "experience": 125094,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙九层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "120": {
+    "level": 120,
+    "state": "Kim Tiên 10",
+    "stateGreat": "Kim Tiên",
+    "experience": 132309,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      13,
+      14,
+      15
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        11000
+      ],
+      [
+        "attack",
+        2750
+      ],
+      [
+        "defense",
+        1650
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140912,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Thiên Tiên",
+    "brokenTip_cn": "完成以下任务,可飞升至天仙",
+    "brokenTitle_cn": "",
+    "state_cn": "金仙十层",
+    "stateGreat_cn": "金仙",
+    "__trans__": true
+  },
+  "121": {
+    "level": 121,
+    "state": "Thiên Tiên 1",
+    "stateGreat": "Thiên Tiên",
+    "experience": 139746,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140913,
+        1
+      ]
+    ],
+    "reward_perfect": [
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        200
+      ]
+    ],
+    "reward_perfect_extra": [
+      [
+        1,
+        200
+      ]
+    ],
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu trở thành Thiên Tiên",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友成为天仙",
+    "state_cn": "天仙一层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "122": {
+    "level": 122,
+    "state": "Thiên Tiên 2",
+    "stateGreat": "Thiên Tiên",
+    "experience": 147412,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙二层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "123": {
+    "level": 123,
+    "state": "Thiên Tiên 3",
+    "stateGreat": "Thiên Tiên",
+    "experience": 155314,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙三层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "124": {
+    "level": 124,
+    "state": "Thiên Tiên 4",
+    "stateGreat": "Thiên Tiên",
+    "experience": 163459,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙四层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "125": {
+    "level": 125,
+    "state": "Thiên Tiên 5",
+    "stateGreat": "Thiên Tiên",
+    "experience": 171855,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙五层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "126": {
+    "level": 126,
+    "state": "Thiên Tiên 6",
+    "stateGreat": "Thiên Tiên",
+    "experience": 180510,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙六层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "127": {
+    "level": 127,
+    "state": "Thiên Tiên 7",
+    "stateGreat": "Thiên Tiên",
+    "experience": 189432,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙七层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "128": {
+    "level": 128,
+    "state": "Thiên Tiên 8",
+    "stateGreat": "Thiên Tiên",
+    "experience": 198629,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙八层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "129": {
+    "level": 129,
+    "state": "Thiên Tiên 9",
+    "stateGreat": "Thiên Tiên",
+    "experience": 208109,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙九层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "130": {
+    "level": 130,
+    "state": "Thiên Tiên 10",
+    "stateGreat": "Thiên Tiên",
+    "experience": 217881,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      16,
+      17,
+      18
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        12000
+      ],
+      [
+        "attack",
+        3000
+      ],
+      [
+        "defense",
+        1800
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140913,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Tiên Tôn",
+    "brokenTip_cn": "完成以下任务,可飞升至仙尊",
+    "brokenTitle_cn": "",
+    "state_cn": "天仙十层",
+    "stateGreat_cn": "天仙",
+    "__trans__": true
+  },
+  "131": {
+    "level": 131,
+    "state": "Tiên Tôn 1",
+    "stateGreat": "Tiên Tôn",
+    "experience": 227954,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140914,
+        1
+      ]
+    ],
+    "reward_perfect": [
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        200
+      ]
+    ],
+    "reward_perfect_extra": [
+      [
+        1,
+        200
+      ]
+    ],
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu trở thành Tiên Tôn",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友成为仙尊",
+    "state_cn": "仙尊一层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "132": {
+    "level": 132,
+    "state": "Tiên Tôn 2",
+    "stateGreat": "Tiên Tôn",
+    "experience": 238337,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊二层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "133": {
+    "level": 133,
+    "state": "Tiên Tôn 3",
+    "stateGreat": "Tiên Tôn",
+    "experience": 249040,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊三层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "134": {
+    "level": 134,
+    "state": "Tiên Tôn 4",
+    "stateGreat": "Tiên Tôn",
+    "experience": 260073,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊四层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "135": {
+    "level": 135,
+    "state": "Tiên Tôn 5",
+    "stateGreat": "Tiên Tôn",
+    "experience": 271446,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊五层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "136": {
+    "level": 136,
+    "state": "Tiên Tôn 6",
+    "stateGreat": "Tiên Tôn",
+    "experience": 283169,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊六层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "137": {
+    "level": 137,
+    "state": "Tiên Tôn 7",
+    "stateGreat": "Tiên Tôn",
+    "experience": 295253,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊七层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "138": {
+    "level": 138,
+    "state": "Tiên Tôn 8",
+    "stateGreat": "Tiên Tôn",
+    "experience": 307709,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊八层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "139": {
+    "level": 139,
+    "state": "Tiên Tôn 9",
+    "stateGreat": "Tiên Tôn",
+    "experience": 320549,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊九层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "140": {
+    "level": 140,
+    "state": "Tiên Tôn 10",
+    "stateGreat": "Tiên Tôn",
+    "experience": 333784,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      19,
+      20,
+      21
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        13000
+      ],
+      [
+        "attack",
+        3250
+      ],
+      [
+        "defense",
+        1950
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140914,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Cảnh Giới Tiên Vương",
+    "brokenTip_cn": "完成以下任务,可飞升至仙王境界",
+    "brokenTitle_cn": "",
+    "state_cn": "仙尊十层",
+    "stateGreat_cn": "仙尊",
+    "__trans__": true
+  },
+  "141": {
+    "level": 141,
+    "state": "Tiên Vương 1",
+    "stateGreat": "Tiên Vương",
+    "experience": 399542,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140915,
+        1
+      ]
+    ],
+    "reward_perfect": [
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        200
+      ]
+    ],
+    "reward_perfect_extra": [
+      [
+        1,
+        200
+      ]
+    ],
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu trở thành Tiên Vương",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友成为仙王",
+    "state_cn": "仙王一层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "142": {
+    "level": 142,
+    "state": "Tiên Vương 2",
+    "stateGreat": "Tiên Vương",
+    "experience": 469937,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王二层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "143": {
+    "level": 143,
+    "state": "Tiên Vương 3",
+    "stateGreat": "Tiên Vương",
+    "experience": 545180,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王三层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "144": {
+    "level": 144,
+    "state": "Tiên Vương 4",
+    "stateGreat": "Tiên Vương",
+    "experience": 625485,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王四层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "145": {
+    "level": 145,
+    "state": "Tiên Vương 5",
+    "stateGreat": "Tiên Vương",
+    "experience": 711078,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王五层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "146": {
+    "level": 146,
+    "state": "Tiên Vương 6",
+    "stateGreat": "Tiên Vương",
+    "experience": 802192,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王六层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "147": {
+    "level": 147,
+    "state": "Tiên Vương 7",
+    "stateGreat": "Tiên Vương",
+    "experience": 899071,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王七层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "148": {
+    "level": 148,
+    "state": "Tiên Vương 8",
+    "stateGreat": "Tiên Vương",
+    "experience": 1001968,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王八层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "149": {
+    "level": 149,
+    "state": "Tiên Vương 9",
+    "stateGreat": "Tiên Vương",
+    "experience": 1111149,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王九层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "150": {
+    "level": 150,
+    "state": "Tiên Vương 10",
+    "stateGreat": "Tiên Vương",
+    "experience": 1226885,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      22,
+      23,
+      24
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        14000
+      ],
+      [
+        "attack",
+        3500
+      ],
+      [
+        "defense",
+        2100
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140915,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Cảnh Giới Tiên Đế",
+    "brokenTip_cn": "完成以下任务,可飞升至仙帝境界",
+    "brokenTitle_cn": "",
+    "state_cn": "仙王十层",
+    "stateGreat_cn": "仙王",
+    "__trans__": true
+  },
+  "151": {
+    "level": 151,
+    "state": "Tiên Đế 1",
+    "stateGreat": "Tiên Đế",
+    "experience": 1349463,
+    "reward": [
+      [
+        1,
+        10
+      ]
+    ],
+    "rewardShow": [
+      [
+        1,
+        10
+      ],
+      [
+        140916,
+        1
+      ]
+    ],
+    "reward_perfect": [
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        200
+      ]
+    ],
+    "reward_perfect_extra": [
+      [
+        1,
+        200
+      ]
+    ],
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "Chúc mừng Đạo Hữu trở thành Tiên Đế",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "恭喜道友成为仙帝",
+    "state_cn": "仙帝一层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "152": {
+    "level": 152,
+    "state": "Tiên Đế 2",
+    "stateGreat": "Tiên Đế",
+    "experience": 1479176,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙帝二层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "153": {
+    "level": 153,
+    "state": "Tiên Đế 3",
+    "stateGreat": "Tiên Đế",
+    "experience": 1616335,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙帝三层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "154": {
+    "level": 154,
+    "state": "Tiên Đế 4",
+    "stateGreat": "Tiên Đế",
+    "experience": 1761259,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙帝四层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "155": {
+    "level": 155,
+    "state": "Tiên Đế 5",
+    "stateGreat": "Tiên Đế",
+    "experience": 1914280,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙帝五层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "156": {
+    "level": 156,
+    "state": "Tiên Đế 6",
+    "stateGreat": "Tiên Đế",
+    "experience": 2075745,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙帝六层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "157": {
+    "level": 157,
+    "state": "Tiên Đế 7",
+    "stateGreat": "Tiên Đế",
+    "experience": 2246011,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙帝七层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "158": {
+    "level": 158,
+    "state": "Tiên Đế 8",
+    "stateGreat": "Tiên Đế",
+    "experience": 2425454,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙帝八层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "159": {
+    "level": 159,
+    "state": "Tiên Đế 9",
+    "stateGreat": "Tiên Đế",
+    "experience": 2614462,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 0,
+    "brokenLimit": null,
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "",
+    "title": 140916,
+    "brokenTip": "",
+    "brokenTip_cn": "",
+    "brokenTitle_cn": "",
+    "state_cn": "仙帝九层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  },
+  "160": {
+    "level": 160,
+    "state": "Tiên Đế 10",
+    "stateGreat": "Tiên Đế",
+    "experience": 2813436,
+    "reward": null,
+    "rewardShow": null,
+    "reward_perfect": null,
+    "reward_perfect_extra": null,
+    "broken": 1,
+    "brokenLimit": [
+      25,
+      26,
+      27
+    ],
+    "attribute": [
+      [
+        "hp_upper",
+        15000
+      ],
+      [
+        "attack",
+        3750
+      ],
+      [
+        "defense",
+        2250
+      ]
+    ],
+    "brokenTitle": "Cảnh Giới đã đạt giới hạn, xin hãy chờ đợi",
+    "title": 140916,
+    "brokenTip": "Hoàn thành nhiệm vụ sau, có thể phi thăng lên Cảnh Giới cao nhất",
+    "brokenTip_cn": "完成以下任务,可飞升至最高境界",
+    "brokenTitle_cn": "境界已达上限, 敬请期待",
+    "state_cn": "仙帝十层",
+    "stateGreat_cn": "仙帝",
+    "__trans__": true
+  }
+}

@@ -1,0 +1,92 @@
+sg.dbmgr.getDB('treasureHunt_atlasType')
+
+{
+    "1": {
+        "id": 1,
+        "altasName": "Sơn Hải Đồ Chí",
+        "bg": "treasure/img_yy_map002.png",
+        "bgName": "treasure/img_font_yy_shj.png",
+        "altasName_cn": "山海图志",
+        "__trans__": true
+    },
+    "2": {
+        "id": 2,
+        "altasName": "Nam Sơn Kinh",
+        "bg": "treasure/img_yy_map012.png",
+        "bgName": "treasure/img_font_yy_nsj.png",
+        "altasName_cn": "南山经",
+        "__trans__": true
+    },
+    "3": {
+        "id": 3,
+        "altasName": "Tây Sơn Kinh",
+        "bg": "treasure/img_yy_map022.png",
+        "bgName": "treasure/img_font_yy_xsj.png",
+        "altasName_cn": "西山经",
+        "__trans__": true
+    },
+    "4": {
+        "id": 4,
+        "altasName": "Trung Sơn Kinh",
+        "bg": "treasure/img_yy_map032.png",
+        "bgName": "treasure/img_font_yy_zsj.png",
+        "altasName_cn": "中山经",
+        "__trans__": true
+    },
+    "5": {
+        "id": 5,
+        "altasName": "Đông Sơn Kinh",
+        "bg": "treasure/img_yy_map042.png",
+        "bgName": "treasure/img_font_yy_dsj.png",
+        "altasName_cn": "东山经",
+        "__trans__": true
+    },
+    "6": {
+        "id": 6,
+        "altasName": "Bắc Sơn Kinh",
+        "bg": "treasure/img_yy_map052.png",
+        "bgName": "treasure/img_font_yy_bsj.png",
+        "altasName_cn": "北山经",
+        "__trans__": true
+    },
+    "7": {
+        "id": 7,
+        "altasName": "Đại Hoang Đông Kinh",
+        "bg": "treasure/img_yy_map062.png",
+        "bgName": "treasure/img_font_yy_dhdj.png",
+        "altasName_cn": "大荒东经",
+        "__trans__": true
+    },
+    "8": {
+        "id": 8,
+        "altasName": "Đại Hoang Nam Kinh",
+        "bg": "treasure/img_yy_map072.png",
+        "bgName": "treasure/img_font_yy_dhnj.png",
+        "altasName_cn": "大荒南经",
+        "__trans__": true
+    },
+    "9": {
+        "id": 9,
+        "altasName": "Đại Hoang Tây Kinh",
+        "bg": "treasure/img_yy_map082.png",
+        "bgName": "treasure/img_font_yy_dhxj.png",
+        "altasName_cn": "大荒西经",
+        "__trans__": true
+    },
+    "10": {
+        "id": 10,
+        "altasName": "Đại Hoang Bắc Kinh",
+        "bg": "treasure/img_yy_map092.png",
+        "bgName": "treasure/img_font_yy_dhbj.png",
+        "altasName_cn": "大荒北经",
+        "__trans__": true
+    },
+    "11": {
+        "id": 11,
+        "altasName": "Hải Ngoại Nam Kinh",
+        "bg": "treasure/img_yy_map102.png",
+        "bgName": "treasure/img_font_yy_hwnj.png",
+        "altasName_cn": "海外南经",
+        "__trans__": true
+    }
+}

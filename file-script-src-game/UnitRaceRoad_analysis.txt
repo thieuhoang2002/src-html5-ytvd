@@ -1,0 +1,73 @@
+Phân tích chi tiết các hàm trong class UnitRaceRoad:
+
+1. onAwake()
+- Khởi tạo các biến liên quan đến vị trí và chiều cao của đường đua dựa trên dữ liệu model.
+- Thiết lập vị trí bắt đầu cho các thành phần UI.
+
+2. onEnable()
+- Thiết lập vị trí các background và rùa khi UI được kích hoạt.
+- Gọi hàm khởi tạo model (_initModel).
+
+3. onDisable()
+- Xóa thông tin về cuộc đua và cược, dừng timer cập nhật.
+
+4. _initModel()
+- Lấy thông tin model rùa từ global, preload animation cho rùa.
+
+5. _loadEnd()
+- Khi preload xong, khởi tạo model cho rùa dựa trên rank_infos (thứ hạng rùa).
+- Nếu có dữ liệu cược, khởi tạo model cược cho rùa.
+- Bắt đầu di chuyển rùa (_startMoveHandle).
+
+6. setParam(isRecord)
+- Thiết lập chế độ record (ghi lại lịch sử).
+
+7. startMove(data)
+- Nhận dữ liệu cuộc đua, khởi tạo model rùa và bắt đầu di chuyển nếu đã load xong.
+
+8. _startMoveHandle()
+- Tính toán thời gian bắt đầu/kết thúc dựa vào chế độ record hay realtime.
+- Bắt đầu di chuyển rùa, phát animation "run" cho rùa nếu đúng stage.
+- Bắt đầu timer cập nhật frame (_update).
+- Cập nhật trạng thái cược.
+
+9. endMove()
+- Dừng timer cập nhật frame.
+
+10. _update()
+- Cập nhật trạng thái mỗi frame: tính thời gian đã qua, cập nhật vị trí rùa, trạng thái animation, vị trí map, kiểm tra kết thúc đua để hiện UI kết quả.
+
+11. _setMapPos(detal)
+- Cập nhật vị trí background map dựa vào vị trí hiện tại của rùa.
+
+12. _getTimeScope(passTime)
+- Tính toán scope (giai đoạn) tốc độ của từng rùa dựa vào thời gian đã qua.
+
+13. _setAniState()
+- Cập nhật trạng thái animation cho rùa: tăng tốc, giảm tốc, bình thường dựa vào dữ liệu tốc độ.
+
+14. _setTurtlePos(passTime)
+- Tính toán vị trí Y của từng rùa dựa vào dữ liệu tốc độ và thời gian đã qua.
+
+15. _getSpeedInfoById(id)
+- Trả về mảng thông tin tốc độ của rùa theo id, đã được sort theo thời gian.
+
+16. updateBet()
+- Cập nhật trạng thái hiển thị cược cho từng rùa dựa vào dữ liệu model hoặc record.
+
+17. getChipInfoById(id)
+- Trả về số chip cược của rùa theo id.
+
+18. sendMessage(message, time)
+- Gửi message cho rùa (hiệu ứng hoặc thông báo).
+
+19. clearMessage()
+- Xóa message trên rùa.
+
+20. inStart(gambles)
+- Khởi tạo model cược cho rùa khi bắt đầu, reset vị trí UI và rùa về trạng thái xuất phát.
+
+Tóm tắt:
+- Class này quản lý toàn bộ logic UI và mô phỏng đua rùa: khởi tạo, cập nhật vị trí, trạng thái animation, xử lý cược, kết thúc đua.
+- Dữ liệu tốc độ và thứ hạng rùa được lấy từ model và cập nhật liên tục theo thời gian thực hoặc record.
+- Các hàm đều phục vụ cho việc hiển thị và mô phỏng quá trình đua rùa trên UI.

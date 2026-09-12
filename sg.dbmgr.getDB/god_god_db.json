@@ -1,0 +1,2042 @@
+{
+  "701001": {
+    "id": 701001,
+    "name": "Thổ Địa Công",
+    "quality": 2,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701001.jpg",
+    "model": 22001,
+    "modelBattle": "22001_zd",
+    "skill": 6001,
+    "skillTag": "Tăng Thủ",
+    "itemId": 148001,
+    "isFashion": 0,
+    "contractId": 1001,
+    "baseAttr": [
+      [
+        "hp_upper",
+        576
+      ],
+      [
+        "attack",
+        144
+      ],
+      [
+        "defense",
+        48
+      ],
+      [
+        "speed",
+        240
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        72
+      ],
+      [
+        "attack",
+        18
+      ],
+      [
+        "defense",
+        6
+      ],
+      [
+        "speed",
+        1.2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        5
+      ],
+      [
+        201,
+        2
+      ],
+      [
+        301,
+        4
+      ]
+    ],
+    "name_cn": "土地公",
+    "skillTag_cn": "加防",
+    "__trans__": true
+  },
+  "701002": {
+    "id": 701002,
+    "name": "Hà Thần",
+    "quality": 2,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701002.jpg",
+    "model": 22002,
+    "modelBattle": "22002_zd",
+    "skill": 6002,
+    "skillTag": "Tăng Công",
+    "itemId": 148002,
+    "isFashion": 0,
+    "contractId": 1002,
+    "baseAttr": [
+      [
+        "hp_upper",
+        576
+      ],
+      [
+        "attack",
+        144
+      ],
+      [
+        "defense",
+        48
+      ],
+      [
+        "speed",
+        240
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        72
+      ],
+      [
+        "attack",
+        18
+      ],
+      [
+        "defense",
+        6
+      ],
+      [
+        "speed",
+        1.2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        3
+      ],
+      [
+        201,
+        1
+      ],
+      [
+        301,
+        2
+      ]
+    ],
+    "name_cn": "河神",
+    "skillTag_cn": "加攻",
+    "__trans__": true
+  },
+  "701003": {
+    "id": 701003,
+    "name": "Phán Quan",
+    "quality": 3,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701003.jpg",
+    "model": 23001,
+    "modelBattle": "23001_zd",
+    "skill": 6003,
+    "skillTag": "Gia Tốc",
+    "itemId": 148003,
+    "isFashion": 0,
+    "contractId": 1007,
+    "baseAttr": [
+      [
+        "hp_upper",
+        672
+      ],
+      [
+        "attack",
+        168
+      ],
+      [
+        "defense",
+        56
+      ],
+      [
+        "speed",
+        280
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        84
+      ],
+      [
+        "attack",
+        21
+      ],
+      [
+        "defense",
+        7
+      ],
+      [
+        "speed",
+        1.4
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        4
+      ],
+      [
+        201,
+        5
+      ],
+      [
+        301,
+        3
+      ]
+    ],
+    "name_cn": "判官",
+    "skillTag_cn": "加速",
+    "__trans__": true
+  },
+  "701004": {
+    "id": 701004,
+    "name": "Thần Cự Linh",
+    "quality": 3,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701004.jpg",
+    "model": 23002,
+    "modelBattle": "23002_zd",
+    "skill": 6004,
+    "skillTag": "Giảm Công",
+    "itemId": 148004,
+    "isFashion": 0,
+    "contractId": 1005,
+    "baseAttr": [
+      [
+        "hp_upper",
+        672
+      ],
+      [
+        "attack",
+        168
+      ],
+      [
+        "defense",
+        56
+      ],
+      [
+        "speed",
+        280
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        84
+      ],
+      [
+        "attack",
+        21
+      ],
+      [
+        "defense",
+        7
+      ],
+      [
+        "speed",
+        1.4
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        1
+      ],
+      [
+        201,
+        4
+      ],
+      [
+        301,
+        5
+      ]
+    ],
+    "name_cn": "巨灵神",
+    "skillTag_cn": "减攻",
+    "__trans__": true
+  },
+  "701005": {
+    "id": 701005,
+    "name": "Ông Thọ",
+    "quality": 3,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701005.jpg",
+    "model": 23003,
+    "modelBattle": "23003_zd",
+    "skill": 6005,
+    "skillTag": "Khiên",
+    "itemId": 148005,
+    "isFashion": 0,
+    "contractId": 1001,
+    "baseAttr": [
+      [
+        "hp_upper",
+        672
+      ],
+      [
+        "attack",
+        168
+      ],
+      [
+        "defense",
+        56
+      ],
+      [
+        "speed",
+        280
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        84
+      ],
+      [
+        "attack",
+        21
+      ],
+      [
+        "defense",
+        7
+      ],
+      [
+        "speed",
+        1.4
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        2
+      ],
+      [
+        201,
+        3
+      ],
+      [
+        301,
+        1
+      ]
+    ],
+    "name_cn": "寿星公",
+    "skillTag_cn": "护盾",
+    "__trans__": true
+  },
+  "701006": {
+    "id": 701006,
+    "name": "Tài Thần",
+    "quality": 4,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701006.jpg",
+    "model": 24001,
+    "modelBattle": "24001_zd",
+    "skill": 6006,
+    "skillTag": "Phản Công",
+    "itemId": 148006,
+    "isFashion": 0,
+    "contractId": 1008,
+    "baseAttr": [
+      [
+        "hp_upper",
+        768
+      ],
+      [
+        "attack",
+        192
+      ],
+      [
+        "defense",
+        64
+      ],
+      [
+        "speed",
+        320
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        96
+      ],
+      [
+        "attack",
+        24
+      ],
+      [
+        "defense",
+        8
+      ],
+      [
+        "speed",
+        1.6
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        1
+      ],
+      [
+        201,
+        5
+      ],
+      [
+        301,
+        4
+      ]
+    ],
+    "name_cn": "财神",
+    "skillTag_cn": "反击",
+    "__trans__": true
+  },
+  "701007": {
+    "id": 701007,
+    "name": "Thái Bạch Kim Tinh",
+    "quality": 4,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701007.jpg",
+    "model": 24002,
+    "modelBattle": "24002_zd",
+    "skill": 6007,
+    "skillTag": "Liên Kích",
+    "itemId": 148007,
+    "isFashion": 0,
+    "contractId": 1006,
+    "baseAttr": [
+      [
+        "hp_upper",
+        768
+      ],
+      [
+        "attack",
+        192
+      ],
+      [
+        "defense",
+        64
+      ],
+      [
+        "speed",
+        320
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        96
+      ],
+      [
+        "attack",
+        24
+      ],
+      [
+        "defense",
+        8
+      ],
+      [
+        "speed",
+        1.6
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        1
+      ],
+      [
+        201,
+        2
+      ],
+      [
+        301,
+        5
+      ]
+    ],
+    "name_cn": "太白金星",
+    "skillTag_cn": "连击",
+    "__trans__": true
+  },
+  "701008": {
+    "id": 701008,
+    "name": "Long Vương",
+    "quality": 4,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701008.jpg",
+    "model": 24003,
+    "modelBattle": "24003_zd",
+    "skill": 6008,
+    "skillTag": "Bạo Kích",
+    "itemId": 148008,
+    "isFashion": 0,
+    "contractId": 1002,
+    "baseAttr": [
+      [
+        "hp_upper",
+        768
+      ],
+      [
+        "attack",
+        192
+      ],
+      [
+        "defense",
+        64
+      ],
+      [
+        "speed",
+        320
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        96
+      ],
+      [
+        "attack",
+        24
+      ],
+      [
+        "defense",
+        8
+      ],
+      [
+        "speed",
+        1.6
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        3
+      ],
+      [
+        201,
+        1
+      ],
+      [
+        301,
+        4
+      ]
+    ],
+    "name_cn": "龙王",
+    "skillTag_cn": "暴击",
+    "__trans__": true
+  },
+  "701009": {
+    "id": 701009,
+    "name": "Bách Hoa Tiên Tử",
+    "quality": 4,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701009.jpg",
+    "model": 24004,
+    "modelBattle": "24004_zd",
+    "skill": 6009,
+    "skillTag": "Né Tránh",
+    "itemId": 148009,
+    "isFashion": 0,
+    "contractId": 1008,
+    "baseAttr": [
+      [
+        "hp_upper",
+        768
+      ],
+      [
+        "attack",
+        192
+      ],
+      [
+        "defense",
+        64
+      ],
+      [
+        "speed",
+        320
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        96
+      ],
+      [
+        "attack",
+        24
+      ],
+      [
+        "defense",
+        8
+      ],
+      [
+        "speed",
+        1.6
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        2
+      ],
+      [
+        201,
+        5
+      ],
+      [
+        301,
+        3
+      ]
+    ],
+    "name_cn": "百花仙子",
+    "skillTag_cn": "闪避",
+    "__trans__": true
+  },
+  "701010": {
+    "id": 701010,
+    "name": "Diêm Vương",
+    "quality": 4,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701010.jpg",
+    "model": 24005,
+    "modelBattle": "24005_zd",
+    "skill": 6010,
+    "skillTag": "Đánh Ngất",
+    "itemId": 148010,
+    "isFashion": 0,
+    "contractId": 1007,
+    "baseAttr": [
+      [
+        "hp_upper",
+        768
+      ],
+      [
+        "attack",
+        192
+      ],
+      [
+        "defense",
+        64
+      ],
+      [
+        "speed",
+        320
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        96
+      ],
+      [
+        "attack",
+        24
+      ],
+      [
+        "defense",
+        8
+      ],
+      [
+        "speed",
+        1.6
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        4
+      ],
+      [
+        201,
+        3
+      ],
+      [
+        301,
+        2
+      ]
+    ],
+    "name_cn": "阎王",
+    "skillTag_cn": "击晕",
+    "__trans__": true
+  },
+  "701011": {
+    "id": 701011,
+    "name": "Thỏ Ngọc",
+    "quality": 4,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701011.jpg",
+    "model": 24006,
+    "modelBattle": "24006_zd",
+    "skill": 6011,
+    "skillTag": "Hút HP",
+    "itemId": 148011,
+    "isFashion": 0,
+    "contractId": 1003,
+    "baseAttr": [
+      [
+        "hp_upper",
+        768
+      ],
+      [
+        "attack",
+        192
+      ],
+      [
+        "defense",
+        64
+      ],
+      [
+        "speed",
+        320
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        96
+      ],
+      [
+        "attack",
+        24
+      ],
+      [
+        "defense",
+        8
+      ],
+      [
+        "speed",
+        1.6
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        5
+      ],
+      [
+        201,
+        4
+      ],
+      [
+        301,
+        1
+      ]
+    ],
+    "name_cn": "玉兔",
+    "skillTag_cn": "吸血",
+    "__trans__": true
+  },
+  "701012": {
+    "id": 701012,
+    "name": "Hình Thiên",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701012.jpg",
+    "model": 25001,
+    "modelBattle": "25001_zd",
+    "skill": 6012,
+    "skillTag": "Phản Công, Giảm ST",
+    "itemId": 148012,
+    "isFashion": 0,
+    "contractId": 1004,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        4
+      ],
+      [
+        201,
+        1
+      ],
+      [
+        301,
+        2
+      ]
+    ],
+    "name_cn": "刑天",
+    "skillTag_cn": "反击、减伤",
+    "__trans__": true
+  },
+  "701013": {
+    "id": 701013,
+    "name": "Dương Tiễn",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701013.jpg",
+    "model": 25002,
+    "modelBattle": "25002_zd",
+    "skill": 6013,
+    "skillTag": "Giảm Thủ",
+    "itemId": 148013,
+    "isFashion": 0,
+    "contractId": 1006,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        1
+      ],
+      [
+        201,
+        2
+      ],
+      [
+        301,
+        5
+      ]
+    ],
+    "name_cn": "二郎神",
+    "skillTag_cn": "减防",
+    "__trans__": true
+  },
+  "701014": {
+    "id": 701014,
+    "name": "Chân Võ Đại Đế",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701014.jpg",
+    "model": 26003,
+    "modelBattle": "26003_zd",
+    "skill": 6014,
+    "skillTag": "Né Tránh, bỏ qua Phòng Thủ",
+    "itemId": 148014,
+    "isFashion": 0,
+    "contractId": 1006,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        3
+      ],
+      [
+        201,
+        4
+      ],
+      [
+        301,
+        5
+      ]
+    ],
+    "name_cn": "真武大帝",
+    "skillTag_cn": "闪避、无视防御",
+    "__trans__": true
+  },
+  "701015": {
+    "id": 701015,
+    "name": "Thác Tháp Thiên Vương",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701015.jpg",
+    "model": 25004,
+    "modelBattle": "25004_zd",
+    "skill": 6015,
+    "skillTag": "Giảm Tốc, Đánh Ngất",
+    "itemId": 148015,
+    "isFashion": 0,
+    "contractId": 1005,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        1
+      ],
+      [
+        201,
+        2
+      ],
+      [
+        301,
+        4
+      ]
+    ],
+    "name_cn": "托塔天王",
+    "skillTag_cn": "减速、击晕",
+    "__trans__": true
+  },
+  "701016": {
+    "id": 701016,
+    "name": "Cửu Thiên Huyền Nữ",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701016.jpg",
+    "model": 25005,
+    "modelBattle": "25005_zd",
+    "skill": 6016,
+    "skillTag": "Bạo Kích, thêm Bạo ST",
+    "itemId": 148016,
+    "isFashion": 0,
+    "contractId": 1005,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        3
+      ],
+      [
+        201,
+        5
+      ],
+      [
+        301,
+        1
+      ]
+    ],
+    "name_cn": "九天玄女",
+    "skillTag_cn": "暴击、加暴伤",
+    "__trans__": true
+  },
+  "701017": {
+    "id": 701017,
+    "name": "Khoa Phụ",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701017.jpg",
+    "model": 25006,
+    "modelBattle": "25006_zd",
+    "skill": 6017,
+    "skillTag": "Hút HP, Tăng ST",
+    "itemId": 148017,
+    "isFashion": 0,
+    "contractId": 1004,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        2
+      ],
+      [
+        201,
+        3
+      ],
+      [
+        301,
+        4
+      ]
+    ],
+    "name_cn": "夸父",
+    "skillTag_cn": "吸血、加伤",
+    "__trans__": true
+  },
+  "701018": {
+    "id": 701018,
+    "name": "Hậu Nghệ",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701018.jpg",
+    "model": 25007,
+    "modelBattle": "25007_zd",
+    "skill": 6018,
+    "skillTag": "Liên Kích, Gia Tốc",
+    "itemId": 148018,
+    "isFashion": 0,
+    "contractId": 1003,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        2
+      ],
+      [
+        201,
+        4
+      ],
+      [
+        301,
+        5
+      ]
+    ],
+    "name_cn": "后羿",
+    "skillTag_cn": "连击、加速",
+    "__trans__": true
+  },
+  "701019": {
+    "id": 701019,
+    "name": "Phong Đô Đại Đế",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701019.jpg",
+    "model": 25008,
+    "modelBattle": "25008_zd",
+    "skill": 6019,
+    "skillTag": "Giảm Trị Liệu",
+    "itemId": 148019,
+    "isFashion": 0,
+    "contractId": 1007,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        4
+      ],
+      [
+        201,
+        5
+      ],
+      [
+        301,
+        3
+      ]
+    ],
+    "name_cn": "酆都大帝",
+    "skillTag_cn": "减疗",
+    "__trans__": true
+  },
+  "701020": {
+    "id": 701020,
+    "name": "Lạc Thần",
+    "quality": 5,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701020.jpg",
+    "model": 25009,
+    "modelBattle": "25009_zd",
+    "skill": 6020,
+    "skillTag": "Tăng thuộc tính bỏ qua",
+    "itemId": 148020,
+    "isFashion": 0,
+    "contractId": 1008,
+    "baseAttr": [
+      [
+        "hp_upper",
+        864
+      ],
+      [
+        "attack",
+        216
+      ],
+      [
+        "defense",
+        72
+      ],
+      [
+        "speed",
+        360
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        108
+      ],
+      [
+        "attack",
+        27
+      ],
+      [
+        "defense",
+        9
+      ],
+      [
+        "speed",
+        1.8
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        3
+      ],
+      [
+        201,
+        1
+      ],
+      [
+        301,
+        2
+      ]
+    ],
+    "name_cn": "洛神",
+    "skillTag_cn": "加忽视属性",
+    "__trans__": true
+  },
+  "701021": {
+    "id": 701021,
+    "name": "Hi Hoà",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701021.jpg",
+    "model": 26001,
+    "modelBattle": "26001_zd",
+    "skill": 6021,
+    "skillTag": "Phản Công, Hút HP",
+    "itemId": 148021,
+    "isFashion": 1,
+    "contractId": 1009,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        1
+      ],
+      [
+        201,
+        2
+      ],
+      [
+        301,
+        5
+      ]
+    ],
+    "name_cn": "羲和",
+    "skillTag_cn": "反击、吸血",
+    "__trans__": true
+  },
+  "701022": {
+    "id": 701022,
+    "name": "Hậu Thổ",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701022.jpg",
+    "model": 26002,
+    "modelBattle": "26002_zd",
+    "skill": 6022,
+    "skillTag": "Mất HP",
+    "itemId": 148022,
+    "isFashion": 1,
+    "contractId": 1010,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        5
+      ],
+      [
+        201,
+        3
+      ],
+      [
+        301,
+        2
+      ]
+    ],
+    "name_cn": "后土娘娘",
+    "skillTag_cn": "流血",
+    "__trans__": true
+  },
+  "701023": {
+    "id": 701023,
+    "name": "Ngộ Không",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701023.jpg",
+    "model": 25003,
+    "modelBattle": "25003_zd",
+    "skill": 6023,
+    "skillTag": "Bạo Kích, Liên Kích",
+    "itemId": 148023,
+    "isFashion": 1,
+    "contractId": 1011,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        5
+      ],
+      [
+        201,
+        4
+      ],
+      [
+        301,
+        3
+      ]
+    ],
+    "name_cn": "孙悟空",
+    "skillTag_cn": "暴击、连击",
+    "__trans__": true
+  },
+  "701024": {
+    "id": 701024,
+    "name": "Nữ Oa",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701024.jpg",
+    "model": 26004,
+    "modelBattle": "26004_zd",
+    "skill": 6024,
+    "skillTag": "Miễn khống, tăng ST",
+    "itemId": 148024,
+    "isFashion": 1,
+    "contractId": 1012,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        5
+      ],
+      [
+        201,
+        4
+      ],
+      [
+        301,
+        1
+      ]
+    ],
+    "name_cn": "女娲",
+    "skillTag_cn": "免控、加伤",
+    "__trans__": true
+  },
+  "701025": {
+    "id": 701025,
+    "name": "Phục Hy",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701025.jpg",
+    "model": 26005,
+    "modelBattle": "26005_zd",
+    "skill": 6025,
+    "skillTag": "Né Tránh, tăng ST Tấn Công",
+    "itemId": 148025,
+    "isFashion": 1,
+    "contractId": 1013,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        2
+      ],
+      [
+        201,
+        1
+      ],
+      [
+        301,
+        3
+      ]
+    ],
+    "name_cn": "伏羲",
+    "skillTag_cn": "闪避、加攻加伤",
+    "__trans__": true
+  },
+  "701026": {
+    "id": 701026,
+    "name": "Quan Âm",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701026.jpg",
+    "model": 26006,
+    "modelBattle": "26006_zd",
+    "skill": 6026,
+    "skillTag": "Thanh Lọc, Khiên",
+    "itemId": 148026,
+    "isFashion": 1,
+    "contractId": 1014,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        3
+      ],
+      [
+        201,
+        5
+      ],
+      [
+        301,
+        1
+      ]
+    ],
+    "name_cn": "观音",
+    "skillTag_cn": "净化、护盾",
+    "__trans__": true
+  },
+  "701027": {
+    "id": 701027,
+    "name": "Bồ Đề Lão Tổ",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701027.jpg",
+    "model": 26007,
+    "modelBattle": "26007_zd",
+    "skill": 6027,
+    "skillTag": "ST kèm theo",
+    "itemId": 148027,
+    "isFashion": 1,
+    "contractId": 1015,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        2
+      ],
+      [
+        201,
+        5
+      ],
+      [
+        301,
+        3
+      ]
+    ],
+    "name_cn": "菩提老祖",
+    "skillTag_cn": "附加伤害",
+    "__trans__": true
+  },
+  "701028": {
+    "id": 701028,
+    "name": "Thái Nhất",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701028.jpg",
+    "model": 26008,
+    "modelBattle": "26008_zd",
+    "skill": 6028,
+    "skillTag": "Giảm Giảm ST, Đóng Băng",
+    "itemId": 148028,
+    "isFashion": 1,
+    "contractId": 1016,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        3
+      ],
+      [
+        201,
+        2
+      ],
+      [
+        301,
+        4
+      ]
+    ],
+    "name_cn": "东皇太一",
+    "skillTag_cn": "降减伤、冰冻",
+    "__trans__": true
+  },
+  "701029": {
+    "id": 701029,
+    "name": "Tây Vương Mẫu",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701029.jpg",
+    "model": 26009,
+    "modelBattle": "26009_zd",
+    "skill": 6029,
+    "skillTag": "Giảm Tốc, thuộc tính phụ",
+    "itemId": 148029,
+    "isFashion": 1,
+    "contractId": 1017,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        2
+      ],
+      [
+        201,
+        1
+      ],
+      [
+        301,
+        4
+      ]
+    ],
+    "name_cn": "西王母",
+    "skillTag_cn": "减速、降二级属性",
+    "__trans__": true
+  },
+  "701030": {
+    "id": 701030,
+    "name": "Trấn Nguyên Tử",
+    "quality": 6,
+    "maxLv": 1000,
+    "maxGrade": 30,
+    "icon": "head/701030.jpg",
+    "model": 26010,
+    "modelBattle": "26010_zd",
+    "skill": 6030,
+    "skillTag": "Đánh Ngất, khống chế tăng ST",
+    "itemId": 148030,
+    "isFashion": 1,
+    "contractId": 1018,
+    "baseAttr": [
+      [
+        "hp_upper",
+        960
+      ],
+      [
+        "attack",
+        240
+      ],
+      [
+        "defense",
+        80
+      ],
+      [
+        "speed",
+        400
+      ]
+    ],
+    "lvUpArr": [
+      [
+        "hp_upper",
+        120
+      ],
+      [
+        "attack",
+        30
+      ],
+      [
+        "defense",
+        10
+      ],
+      [
+        "speed",
+        2
+      ]
+    ],
+    "soulElement": [
+      [
+        101,
+        1
+      ],
+      [
+        201,
+        4
+      ],
+      [
+        301,
+        3
+      ]
+    ],
+    "name_cn": "镇元子",
+    "skillTag_cn": "击晕、控制加伤",
+    "__trans__": true
+  }
+}
